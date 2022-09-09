@@ -1,0 +1,265 @@
+			  THE VORTEXT INDEX
+			     VERSION 1.05
+
+			     [issues 1-9]
+
+			   by Shannon Appel
+			   (appel@erzo.org)
+
+HISTORY, 1991-1993
+
+Vortext was a quarterly magazine that was founded at the start of 1991
+by Vortext Publishing. The quality of the layout and articles were
+good from the first issue. With #6, Vortext improved the quality of
+the magazine by adding very nice looking graphics and interior color.
+
+The content of Vortext was extremely varied throughout the magazine's
+history, probably more so than any other magazine currently being
+published.
+
+Unfortunately, Vortext ceased publication in Fall of 1993 after the
+ninth issue.
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems. In
+addition, there are also a number of GENERAL categories, for EARTH,
+FANTASY, SCIENCE FICTION and SUPERHEROES. All of the GENERAL
+categories are for articles about the appropriate genre that may be
+applied to any game that uses that background.  There is also a
+category for FICTION in this index.
+
++---------------------------------------------------------------------+
+| This index is Copyright 1993-6 Shannon Appel.  It may be freely     |
+| distributed provided that no money is charged whatsoever for its    |
+| distribution.                                                       |
++---------------------------------------------------------------------+
+
+2300 AD [GDW]						
+  Equipment, Ships, Designs:
+    New Ships for 2300 AD, by Michael Bolda		#6	pg 29-33
+
+ADVANCED DUNGEONS & DRAGONS [TSR]			
+  Adventures:
+    The Hidden Temple of Erythnul, by David Wunder	#8	pg 18-29
+  Equipment, Combat:
+    Muskets and Fencing, by James M. LeDuc		#6	pg 22
+  Rules, Combat:
+    Muskets and Fencing, by James M. LeDuc		#6	pg 22
+
+ALBEDO [Thoughts and Images]				
+  Background, Misc, Organizations:
+    EDF Uniform Insignia, by Steve Gallacci		#3	pg 8-9
+  Background, Technology:
+    Getting from Here to There, by Steve Gallaci	#7	pg 8
+
+ALIENS [Leading Edge]
+  Rules, Scenerios:
+    Aliens: Tribes, by David Ackerman			#7	pg 19-24
+
+AMBER [Phage Press]
+  Rules, Character Creation:
+    Trumping your Character, by Elizabeth Sloan		#5	pg 16-21
+
+ARDUIN [Grimoire Games]
+  Rules, Character Creation:
+    How to Create an Arduin Character, by Paul Mosher	#4	pg 13
+  Reviews:
+    The Complete Arduin, Volume 1			#8	pg 40-41
+    The Complete Arduin, Volume 2			#8	pg 40-41
+
+BLACKBEARD [Avalon Hill]
+  Reviews:
+    Blackbeard						#2	pg 11+
+
+CALL OF CTHULHU [Chaosium]
+  Adventures, Now:
+    Shadow Over Stockton, by Craig Sheeley		#1	pg 12-19
+  Equipment, Magic Items:
+    Burnout, by Todd Derscheid				#8	pg 10-11
+  Reviews:
+    Call of Cthulhu, Fifth Edition			#3	pg 10-11
+
+CRITTER COMMANDO [Crunchy Frogs]
+  Rules:
+    Role-Playing Rules, by Paul Arden Lidberg		#5	pg 8-11
+
+CYBERPUNK [R. Talsorian]
+  Adventures:
+    Building the Perfect Beast, by David Ackerman	#2	pg 14-22
+
+DARK CONSPIRACY [GDW]
+  Campaign Design, Encounters:
+    On a Dark Desert Highway, by Keith Craxton		#6	pg 3-5
+  Fiction:
+    Dark Revelation, by David P. Kufner			#4	pg 24-29
+
+DC HEROES [Mayfair]
+  Rules, Character Creation:
+    New Powers, by Jeremy Stanton			#1	pg 24-25
+
+DREAM PARK [R. Talsorian]
+  Rules, Character Creation:
+    The Lighter Side, by Craig Sheeley			#7	pg 32-33
+
+DUEL [Nightshift Games]
+  Magic:
+    More Magic in Duel, by Richard Higbee		#7	pg 34--40
+
+EARTH, GENERAL
+  Background, Historical, Medieval:
+    The Not  So Lowly Peasant, by Erik Freske		#1	pg 8-11
+
+FANTASY, GENERAL
+  Fiction:
+    Another Chance, by D. Hansen			#7	pg 28-29
+    Selfless, by D. Hansen				#9	pg 32-35
+  Games, RPG:
+    Dragons over Arthe, by Jacob Lauinger		#8	pg 34-39
+  Magic:
+    What's the Chance that your Wish Will Work, by Vince Garcia                                                                         #1	pg 26-30
+
+FAST FOOD FRANCHISE [TimJim Games]
+  Reviews:
+    Fast Food Franchise					#5	pg 22-23
+
+FICTION
+  Dark Conspiracy:
+    Dark Revelation, by David P. Kufner			#4	pg 24-29
+  Fantasy, General:
+    Another Chance, by D. Hansen			#7	pg 28-29
+    Selfless, by D. Hansen				#9	pg 32-35
+  Science Fiction, General:
+    Stood up in Time, by David S. Moskowitz		#6	pg 24-26
+  Vampire:
+    Meeting Someone New, by Rebecca Ruch		#5	pg 24-26
+    What a Wonder Morgue you Have Here, by Rebecca Ruch	#8	pg 30-32
+
+FULL THRUST [Ground Zero Games]
+  Reviews:
+    Full Thrust, Second Edition				#7	pg 10-12
+
+GATECRASHER [Hot Tub Dragon]
+  Reviews:
+    Gatecrasher						#9	pg 28-31
+
+GENERAL
+  Meta, Cons:
+    GenCon No-Nos, by Chris Williams			#9	pg 8-9
+  Advice, Gamemasters:
+    Adding Depth to the Illusion, by D. Hansen		#8	pg 4-9
+
+GURPS [SJG]
+  Background, Misc:
+    GURPS Holocaust, by Richard LeDuc			#2	pg 3-10
+  Background, Fantasy II:
+    The Art of the Damned, by Robin D. Laws		#9	pg 4-7
+  Rules, Skills:
+    Upper Class Wrestling, by Michael Bengston		#2	pg 24-26
+
+HARNMASTER [Columbia Games]
+  Creatures:
+    Man's Best Friend, by Dewayne E. Reid		#7	pg 5-7
+
+THE HUNT [Maverick Games]
+  Equipment:
+    Hunt-ing, by Leo Normington Jr. and Steve Gomez	#5	pg 3-6
+  NPCs:
+    Hunt-ing, by Leo Normington Jr. and Steve Gomez	#5	pg 3-6
+  Rules:
+    Hunt-ing, by Leo Normington Jr. and Steve Gomez	#5	pg 3-6
+
+MECHA! [Seventh Street Games]
+  Campaign Design:
+    Anime Epics and Mecha!, by Dave Georgeson		#4	pg 3-6
+  Rules, Character Creation:
+    Nahuatl Naming Guide, by Dave Georgeson		#4	pg 7
+
+QUEST OF THE ANCIENTS [Unicorn Games]
+  Rules, Combat:
+    Reality and Archery in RPGs, by Vince Garcia	#9	pg 40-41
+
+ROLEMASTER [ICE]
+  Background, Shadow World, Organizations:
+    You Can't Get There from Here..., by THomas Kane	#1	pg 20-23
+  
+SCIENCE FICTION, GENERAL
+  Fiction:
+    Stood up in Time, by David S. Moskowitz		#6	pg 24-26
+
+SHADOWRUN [FASE]
+  Rules, Character Creation, Archetypes:
+    Here Come the Trolls, by James L. Cambias		#3	pg 14-19
+
+SHAPESHIFTERS [Fat Messiah Games]
+  Reviews:
+    Shapeshifters					#6	pg 34
+
+SILENT DEATH [ICE]
+  Rules:
+    Asteroid, by Chris Williams				#2	pg 27-29
+
+SINBAD [Flying Turtle Games]
+  Reviews:
+    Sinbad						#8	pg 3
+
+SKYREALMS OF JORUNE [Chessex]
+  Creatures:
+    The Amazing Podbats, by Christopher Earley		#3	pg 3-6
+  Reviews:
+    Skyrealms of Jorune, Third Edition			#7	pg 42
+
+STAR WARS [WEG]
+  Adventures, Misc:
+    Ship of Fools, by David Ackerman			#3	pg 20-30
+  Adventures, Miniatures:
+    Shootout at Landing Pad 94, by Ted Arlauskas	#9	pg 14-16
+
+STARSHIP COMMAND [Inferno Games]
+  Reviews:
+    Starship Command					#4	pg 30
+
+STORMBRINGER [Chaosium]
+  Background:
+    History of the Bright Empire, by Richard Watts (1)	#5	pg 29-34
+
+(1) This article is reprinted in MELNIBONE (Chaosium 2901)
+
+SUPERHEROES, GENERAL
+  Advice, Gamemasters:
+    Superheroes on Both Sides of the Law, by Steve Feuelleman                                                                           #6	pg 8-10
+
+TEENAGERS FROM OUTER SPACE [R. Talsorian]
+  Adventures:
+    What I did on my Summer Vacation, by Michael MacDonald                                                                              #6	pg 14-21
+  Equipment:
+    More Powers to Ya!, by Michael MacDonald		#4	pg 8-12
+  Rules, Character Creation:
+    More Powers to Ya!, by Michael MacDonald		#4	pg 8-12
+
+VAMPIRE [White Wolf]
+  Fiction:
+    Meeting Someone New, by Rebecca Ruch		#5	pg 24-26
+    What a Wonder Morgue you Have Here, by Rebecca Ruch	#8	pg 30-32
+
+WARHAMMER FANTASY [GW]
+  Rules, Misc:
+    Warhammer Plumbing, by Anthony Ragan		#9	pg 36-39
+
+WORLD OF SYNIBARR [Real Dreams]
+  Adventures:
+    Bio Starr 1, by Raven McCracken and Bryce Thelin	#4	pg 14-22
+
+WORLDS BEYOND [Other World Games]
+  Adventures:
+    Double Edged Sword, by David Lai & Stephen Douglas	#7	pg 12-17
+    Double Edged Sword Part Two, by David Lai		#9	pg 18-25
+  Races:
+    Sher'tazi... A Closer Look, by Steve Douglas	#1	pg 3-6
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

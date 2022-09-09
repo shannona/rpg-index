@@ -1,0 +1,134 @@
+			   THE REDCAP INDEX
+			     VERSION 1.00
+
+			   by Shannon Appel
+		      (appel@erzo.berkeley.edu)
+
+			 [issues VI.1-VII.3]
+
+HISTORY
+
+Redcap: News from the Order of Hermes is an Ars Magica fanzine that
+was started by Peter Hentges in early 1992.  Although the first issue
+was a stapled 16 page packet, the rest of the issues have all been
+good looking magazines, ranging in size from 30 to 40 pages.
+Traditionally, members of the Internet Ars Magica list have made a
+good numbers of contributions to Redcap.
+
+CONTACT INFO
+
+Peter Hentges, the editor of Redcap, can be contacted at: 
+
+	peter_hentges@ccmgate.adc.com
+
+A NOTE ABOUT ORGANIZATION
+
+Redcap is a magazine about Ars Magica and the World of Mythic Europe.
+Thus, this index is an organization of Mythic Europe Ars Magica
+topics.
+
++------------------------------------------------------------------+
+| This index is Copyright 1995 Shannon Appel.  It may be freely    |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+ADVENTURES
+  Misc:
+    "I Immediately Shot Him...", by Daniel Sauer	VII.3	pg 13-18
+  Tribunal, Rome:
+    Roman Tribunal Tales, by Shannon Appel		VII.3	pg 6-10
+
+BACKGROUND
+  Dispatches:
+    De Naturis Domini in Mundo et Magicas, by Robbie Westmoreland                                                                       VI.2	pg 5-6
+    Dispatches						VI.1	pg 10-11    
+    Dispatches						VI.2	pg 14-16
+  Laws:
+    Moris, The Practice, by Jonathan Tweet		VI.1	pg 5-7
+    Moris, The Practice, by Jonathan Tweet		VI.2	pg 11-13
+  Organizations, Diabolists:
+    The Roseblack Circle, by Christopher Earley		VI.4	pg 5-13
+    The Shadow Flambeau, by Peter Hentges		VI.4	pg 18-23
+  Organizations, Grogs:
+    Moris, The Practice, by Jonathan Tweet		VI.1	pg 5-7
+    Moris, The Practice, by Jonathan Tweet		VI.2	pg 11-13
+  Organizations, Magi, Misc:
+    The Society of Brutus, by Kyle Giacco		VI.4	pg 29-30
+  Organizations, Magi, Houses, Misc:
+    Alternative Houses, by Robbie Westmoreland and Dave Martin                                                                          VI.2	pg 17-26
+  Organizations, Magi, Houses, Flambeau:
+    Flambeau - A Biography, by Peter Hentges		VI.3	pg 5-11
+  Organizations, Magi, Houses, Verditius:
+    A Parliament of Owls, by Bard Bloom			VII.2	pg 29-38
+ 
+BACKGROUND, GEOGRAPHICAL
+  Foreign Lands, Arabia:
+    Islam's "Dominion", by Peter Hentges		VI.2	pg 7-10
+    Myteryiis Orientalis, by Geoffrey Grabowski		VII.3	pg 19-27
+  Foreign Lands, Russia:
+    The Dominion in Mythic Russia, by Victor Raymond	VI.1	pg 12-13
+  Tribunal, Iberia, Misc:
+    Flambeau - A Biography, by Peter Hentges (1)	VI.3	pg 5-11
+    Saga Starters, by Peter Hentges			V2.1	pg 6-19
+    The Shadow Flambeau, by Peter Hentges (1)		VI.4	pg 18-23
+  Tribunal, Iberia, Covenants:
+    Axon Partire, by Peter Hentges			VI.1	pg 7-8
+    Barcelona, by Jonathan Tweet (1)			VI.3	pg 11-23
+  Tribunal, Levant, Covenants:
+    Ala Fati, by Robbie Westmoreland			VII.1	pg 24-34
+  Tribunal, Loch Leglean, Covenants:
+    Castellum Collis, by Chris Pramas			VII.2	pg 17-28 
+  Tribunal, Provencal, Misc:
+    A Travel to Langeudoc, by Eric Kouris		VII.1	pg 20-23
+  Tribunal, Rhine, Covenants:
+    Windsong, by Robbie Westmoreland			VI.2	pg 27-30
+  Tribunal, Novgorod, Misc:
+    The Dominion in Mythic Russia, by Victor Raymond	VI.1	pg 12-13
+  Tribunal, Stonehenge, Covenants:
+    Gravenhill, by Robert Dodge				VI.4	pg 14-17
+
+(1) Later revised and included in TRIBUNALS OF HERMES: IBERIA
+
+BACKGROUND, HISTORICAL
+  Misc:
+    Historia Metamorphosarum Hermeticarum, by Robbie Westmoreland                                                                       VI.3	pg 23-26
+  Founders:
+    Flambeau - A Biography, by Peter Hentges		VI.3	pg 5-11
+
+CAMPAIGN DESIGN
+  Adventures:
+    Nemeses, by Robbie Westmoreland			VI.4	pg 23-28
+  Sagas:
+    Saga Starters, by Peter Hentges			V2.1	pg 6-19
+
+CREATURES
+  Arabic:
+    The Jinn, by Geoffrey Grabowski			VII.3	pg 22-26
+
+EQUIPMENT
+  Books:
+    Grimoires, Tomes and Scrolls			VII.2	pg 5-12
+
+INTERVIEW
+  Tweet, Jonathan					VII.3	pg 28-31
+
+MAGIC
+  Auras, Arabic:
+    Islam's "Dominion", by Peter Hentges		VI.2	pg 7-9
+    Myteryiis Orientalis, by Geoffrey Grabowski		VII.3	pg 19-27
+  Auras, Divine:
+    De Naturis Domini in Mundo et Magicas, by Robbie Westmoreland                                                                       VI.2	pg 5-6
+    The Dominion in Mythic Russia, by Victor Raymond	VI.1	pg 12-13
+  Hermetic, Spells:
+    Disjecta Membra					VI.1	pg 13-15
+    Disjecta Membra					VI.2	pg 31-32
+    Disjecta Membra					VI.3	pg 27-28
+    Disjecta Membra					VI.4	pg 31-32
+    Grimoires, Tomes and Scrolls			VII.2	pg 5-12
+  Infernal:
+    Demon Summoning Revised, by Chris Earley		VII.2	pg 13-16
+
+RULES
+  Character Creation:
+    Alternative Virtue and Flaw Selection, by Chris Pearce                                                                              VII.3	pg 11-13

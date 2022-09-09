@@ -1,0 +1,1497 @@
+		      THE DIFFERENT WORLDS INDEX
+			     VERSION 1.12
+
+			    [issues 1-47]
+
+			   by Shannon Appel
+			   (appel@erzo.org)
+
+HISTORY
+
+Different Worlds Magazine was founded by the Chaosium in January of
+1979.  Much to its credit, it remained a magazine devoted to all of
+the role-playing hobby for its entire life. Issue #38 was the last
+Chaosium issue of Different Worlds. In May of 1985, publication was
+resumed by Sleuth Publications. After six issues, ownership of
+Different Worlds changed one final time. Issue #47 was published in
+the Fall of 1987 by Different Worlds Publications. It was the last
+issue to ever see print, although layouts for an issue #48 were
+presented at GenCon a few years ago. Different Worlds Publications is
+still in existence, and offers a selection of Different Worlds back
+issues through the mail. However, despite persistant rumors, Different
+Worlds magazine has never been resurrected.
+
+THEME ISSUES
+
+#19 Cthulhu Issue
+#22 RuneQuest Issue
+#23 Superhero Issue, Featuring the X-Men
+#24 Dwarf-Mostal Issue
+#26 Norse Issue
+#27 Urban Adventuring
+#28 Player-Character Issue
+#29 World-building and Campaign Creation
+#30 Superhero Issue, Featuring the New Teen Titans
+#31 Fantasy Issue
+#32 Ancient Cultures
+#33 Post-Holocaust Issue
+#34 Superhero Issue, Featuring DNAgents
+#35 Horror Issue
+#36 Magic Issue
+#45 Cthulhu Special
+#46 Science Fiction Special
+#47 Supernatural Special
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems.  In
+addition, there are also a number of GENERAL categories, for EARTH,
+FANTASY, HORROR, SCIENCE FICTION and SUPERHEROes.  All of the GENERAL
+categories are for articles about the appropriate genre that may be
+applied to any game that uses that background.  Finally, the FICTION
+category contains stories, often applicable to individual games and
+the INTERVIEWS sections contains interviews with various game
+designers.
+
++---------------------------------------------------------------------+
+| This index is Copyright 1993-6,1998,2006 Shannon Appel. It may be   |
+| freely distributed provided that no money is charged whatsoever for |
+| its distribution.                                                   |
++---------------------------------------------------------------------+
+
+THE ARCHAERON GAME SYSTEM [Archaeron Games]
+  Background, Campaigns:
+    Archaeron, by Ed Simbalist				#1	pg 29-33
+  Reviews:
+    The Archaeron Game System				#28	pg 42-43
+    Mage						#28	pg 42-43
+    Warrior						#28	pg 42-43
+
+ADVANCED DUNGEONS & DRAGONS [TSR]
+  Creatures:
+    Come, Clash with the Titans, by Larry DiTillio	#14	pg 28-33
+  Rules, Misc:
+    Pregnancy and Adventure, by Colleen A. Bishop	#24	pg 32-33
+  Rules, Combat:
+    Critical Hits & Fumbles, by Roy Pitta		#34	pg 22-23
+    Speed in Melee, by Ronald Pehr			#17	pg 8-9
+  Reviews, TSR:
+    Battle System, First Edition			#43	pg 28-29
+    Deities and Demigods				#19	pg 39-40
+    Fiend Folio						#15	pg 37-38
+    Monster Manual II					#33	pg 32-33
+    Unearthed Arcana					#42	pg 30-31
+    A1: Slave Pits of the Under City			#12	pg 30-31
+    A2: Secret of the Slavers' Stockade			#16	pg 38-39
+    A3: Assault on the Aerie of the Slave Lords		#17	pg 43-45
+    A4: In The Dungeons of the Slave Lords		#17	pg 43-45
+    D1-2: Descent into the Depths of the Earth		#21	pg 38-39
+    EX1: Dungeonland					#35	pg 36
+    EX2: The Land Beyond the Magic Mirror		#35	pg 36
+    G1-2-3: Against the Giants				#20	pg 35-36
+    I1: Dwellers of the Forbidden City			#16	pg 39-40
+    L1: The Secret of Bone Hill				#16	pg 39
+    U1: The Sinister Secret of Saltmarsh		#20	pg 37
+  Reviews, Dungeon Six:
+    The Temple to Athena				#10	pg 40
+  Reviews, Judges' Guild:
+    The House on Hangman's Hill				#19	pg 43
+    The Illhiedrin Book					#17	pg 46
+    Trial by Fire					#19	pg 43
+    Zienteck						#17	pg 46
+  Reviews, Mayfair:
+    Dwarves						#28	pg 45
+
+ADVENTURES IN FANTASY [Excalibre Games]
+  Previews:
+    Preview to the Second Edition, by Richard Snider	#14	pg 12-14
+
+THE ADVENTURES OF INDIANA JONES [TSR]
+  Reviews:
+    The Adventures of Indiana Jones			#39	pg 28-29
+    IJ1: Indiana Jones and the Temple of Doom		#39	pg 28-29
+    IJ2: Raiders of the Lost Ark			#39	pg 28-29
+
+AFTERMATH! [FGU]
+  Reviews:
+    Aftermath!						#15	pg 34-36
+
+ALMA MATER [Oracle Games]
+  Reviews:
+    Alma Mater						#26	pg 36-37
+
+ARDUIN [Grimoire Games]
+  Background, Campaigns:
+    Arduin, Bloody Arduin, by Dave Hargrave		#2	pg 25-29
+  Reviews:
+    The Arduin Trilogy					#5	pg 6-8
+    Arduin Adventure					#13	pg 38-39
+
+AUTHENTIC THAUMATURGY [Chaosium]
+  Misc:
+    The Quest for the Sacred Melita, by PEI Bonewits and Larry Press
+							#1	pg 42-47
+
+AZHANTI HIGH LIGHTNING [GDW]
+  Rules, Combat:
+    Swords on Deck, by Paul Crabaugh			#18	pg 7
+
+BATTLETECH [FASA]
+  Reviews:
+    Battletech						#45	pg 33-34
+    Citytech						#34	pg 33-34
+
+BEHIND ENEMY LINES [FASA, The Companions]
+  Reviews:
+    Behind Enemy Lines, First Edition			#35	pg 30-32
+    Behind Enemy Lines, Second Edition			#44	pg 27-28
+
+BUNNIES & BURROWS [FGU]
+  Background, Campaigns:
+    The World of Druid's Valley, by B. Dennis Sustare	#3	pg 22-26
+
+BUSHIDO [Tyr Games, Phoenix Games, FGU]
+  Reviews:
+    Bushido, First Edition				#3	pg 4-5
+    Bushido, Third Edition				#38	pg 33-34
+    Valley of the Mists					#23	pg 44-45
+
+CALL OF CTHULHU [Chaosium]
+  Meta:
+    Contemporary Ideas about the Necronomicon, by Richard Kaczynski
+							#44	pg 14-16
+    Lovecraft and the Necronomicon, by Peter Larsen	#47	pg 16-19
+  Adventures, 1920s:
+    The Crystal of Chaos, by Peter Gilham		#34	pg M1-M7
+    The Eye of Sitar, by Darren Tschida			#38	pg M1-M7
+    The Lights of Madness, by Richard Launius		#45	pg M1-M7
+    The Shadow on the Sea, by Richard Launius		#47	pg M1-M8
+    Thoth's Dagger, by William Hamblin (1)		#27	pg 23-34
+    Underground Menace, by Sandy Petersen (2)		#19	pg 18-21
+    The Wail of the Witch, by Keith Herber (3)		#30	pg M1-M7
+  Background, Misc:
+    Archaeological Expeditions, by Thomas Holsinger	#42	pg 24-25
+    [Also See EARTH, GENERAL]
+  Background, 1920s:
+    Mob Leaders, by Glenn Rahman			#27	pg 16-21
+    Occult Organizations, by Richard Kaczynski		#45	pg 14-16
+    An Occult Who's Who, by Richard Kaczynski		#43	pg 34-38
+  Background, Now:
+    CoC in the Eighties, by Michael Szymanski		#45	pg 8-9
+  Campaign Design, Adventures:
+    Blame it on Cthulhu, by Larry DiTillio		#35	pg 10-13
+    Death Scenes, by Sandy Petersen			#35	pg 14-15
+  Campaign Design, Adventuring in the Worlds of HP Lovecraft:
+    Part I: The Cthulhu Mythos, by Keith Herber		#40	pg 10-12
+    Part II: Dreamworld, by Keith Herber		#41	pg 16-18
+  Campaign Design, Variant:
+    Scary Monsters, Super Creeps, by Marcus Rowland	#44	pg 18-22
+  Creatures:
+    More Mythos Madness, by Michael Szymanski & Peter Gilham
+							#40	pg 20-22
+  Equipment, Magic Items:
+    More Magic, by Randy McCall				#35	pg 6
+  Fiction:
+    Dagon Manor, by Robert E. Howard & CJ Henderson	#42	pg 16-22
+  Magic:
+    Divination Skills, by Randy McCall			#25	pg 8-11
+    Egyptian Magic, by Jonathan Tweet			#47	pg 34-37
+    More Magic, by Randy McCall				#35	pg 6
+    Psychic Power, by Randy McCall			#26	pg 8-12
+  NPCs:
+    Archaeological Expeditions, by Thomas Holsinger	#42	pg 24-25
+    HP Lovecraft in CoC, by Ed Gore			#28	pg 24-25
+  Rules, Misc:
+    Doing it with Class, by Paul Crabaugh		#36	pg 36
+    Losing your Marbles, by Thomas Holsinger		#41	pg 20-22
+  Rules, Combat:
+    Guns Against Cthulhu, by Dick Wagenet		#19	pg 14-16
+    Variant Combat Rules, by Paul Crabaugh		#29	pg 32-33
+  Rules, Official Questions & Answers:
+    Designer's Notes, by Sandy Petersen & Lynn Willis	#19	pg 8-13
+    Errata and Second Thoughts				#19	pg 23
+  Reviews, Chaosium:
+    Call of Cthulhu, First Edition			#19	pg 38
+    Alone Against the Dark				#44	pg 31-32
+    The Asylum & Other Tales				#35	pg 34
+    Cthulhu Companion					#36	pg 31    
+    Cthulhu by Gaslight					#46	pg 30-31
+    Fragments of Fear					#43	pg 31
+    The Fungi from Yuggoth				#39	pg 33-34
+    HP Lovecraft's Dreamlands				#47	pg 30-31
+    Masks of Nyarlathotep				#41	pg 30-31
+    Shadows of Yog-Sothoth				#34	pg 32-33
+  Reviews, Grenadier:
+    The Horrible Secret of Monhegan Island		#40	pg 31
+  Reviews, TOME:
+    T1: The Arkham Evil					#31 	pg 36-37
+    T2: Death in Dunwich				#32	pg 33-34
+    T3: Pursuit to Kadath				#38	pg 35
+
+(1) Reprinted in CURSE OF THE CTHONIANS (Chaosium 2306) and THE CTHULHU
+    CASEBOOK (Chaosium 3305)
+(2) Reprinted in FRAGMENTS OF FEAR (Chaosium 2310)
+(3) Reprinted in CURSE OF CTHULHU (Chaosium 3306)
+
+CAR WARS [SJG]
+  Reviews:
+    Autoduel Champions					#35	pg 33
+
+CHAINSAW WARRIOR [GW]
+  Reviews:
+    Chainsaw Warrior					#47	pg 31-32
+
+CHAMPIONS [Hero Games]
+  Adventures:
+    The Star-Devourer, by Steve Perrin			#35	pg M1-M7
+    Threat of the Nighthaunt, by Jon Mattson		#32	pg M1-M7
+  NPCs:
+    DNAgents, by Ray Greer				#34	pg 6-7
+    The New Teen Titans, by Steve Peterson		#30	pg 8-11
+    Role-playing the X-Men, by Glenn Thain		#23	pg 22-26
+  Rules, Misc:
+    How to Really do Unto Others, by Quentin Long	#38	pg 9
+    The Joys of Autofire, by Quentin Long		#37	pg 20
+  Rules, Official Questions & Answers:
+    Designer's Notes, by Steve Peterson			#23	pg 20-21
+  Reviews, Hero:
+    Champions						#17	pg 42-43
+    Champions II					#30	pg 28
+    Champions III					#39	pg 34-35
+    Adventure 1: The Island of Dr. Destroyer		#36	pg 32-33
+    Adventure 3: Deathstroke				#35	pg 36-37
+    Adventure 5: The Coriolis Effect			#45	pg 30
+    Enemies						#32	pg 33
+    Enemies II						#32	pg 33
+    Organization Book 1: The Circle & M.E.T.E.		#40	pg 31-32
+  Reviews, SJG:
+    Autoduel Champions					#35	pg 33
+
+CHILL [Pacesetter, Mayfair]
+  Reviews, Pacesetter:
+    Chill						#37	pg 27-28
+    Black Morn Manor					#44	pg 30
+    Death on Tour					#43	pg 29
+    Vampires						#43	pg 29
+    Village of Twilight					#37	pg 27-28
+
+CHIVALRY AND SORCERY [FGU]
+  Background, Campaigns:
+    Archaeron, by Ed Simbalist				#1	pg 29-33
+  Campaign Design, Cities:
+    How to Design Cities, by Patrick Amory		#18	pg 28-29
+  Reviews:
+    Chivalry and Sorcery, Second Edition		#36	pg 26
+    C&S Sourcebook II					#22	pg 38
+
+CONAN [TSR]
+  Reviews:
+    Conan						#45	pg 27-28
+
+DANGER INTERNATIONAL [Hero Games]
+  Reviews:
+    Espionage!						#31	pg 34-35
+    Danger International				#44	pg 26
+
+DAREDEVILS [FGU]
+  Reviews:
+    Daredevils						#27	pg 43-44
+
+DC HEROES [Mayfair]						 
+  Reviews:
+    DC Heroes						#41	pg 27-28
+    Batman Sourcebook					#45	pg 29-30
+    Countdown to Armageddon				#46	pg 28-29
+    Four Horsemen of Apokolips				#46	pg 28-29
+    Siege						#44	pg 34
+    Wheel of Destruction				#45	pg 29-30
+
+DELTA FORCE [Task Force Games]
+  Reviews:
+    Delta Force						#47	pg 26-27
+
+THE DOCTOR WHO ROLE PLAYING GAME [FASA]
+  Reviews:
+    The Doctor Who Role Playing Game			#41	pg 28-29
+    The Lords of Destiny				#44	pg 32-33
+    The Ityean Menace					#44	pg 32-33
+
+DRAGONQUEST [SPI, TSR]
+  Races:
+    The Angels, by Paul Crabaugh			#28	pg 12
+  Reviews:
+    Dragonquest						#11	pg 28-30
+    The Enchanted Wood					#18	pg 42-43
+
+DROIDS [Integral Games]
+  Reviews:
+    Droids						#31	pg 35-36
+
+DUNGEONS & DRAGONS [TSR]
+  Adventures, Misc:
+    Dungeon of Pelius Mright, by Ken Rolston		#10	pg 10-15
+  Adventures, Blackmoor:
+    Garbage Pits of Despair, Part 1, by Dave Arneson	#42	pg M1-M7
+    Garbage Pits of Despair, Part 2, by Dave Arneson	#43	pg M1-M7
+  Background, Scorpio:
+    Scorpio Rising, by John Sapienza, Jr.		#11	pg 32-35
+  Creatures:
+    Scorpio Rising, by John Sapienza, Jr.		#11	pg 32-35
+  Equipment, Magic Items:
+    Devious Magic, by Robert Plamondon			#17	pg 38-39
+    Making a Magic Staff, by Gerald Schmitt		#21	pg 34-35
+    Scorpio Rising, by John Sapienza, Jr.		#11	pg 32-35
+  Magic, Misc:
+    Devious Magic, by Robert Plamondon			#17	pg 38-39
+    It it... Magic?, by John Sapienza, Jr.		#18	pg 22-23
+    Sleep vs. Mixed Parties, by John Sapienza, Jr. (1)	#8	pg 7
+  Magic, Clerics:
+    New Cleric Cure System, by John Sapienza, Jr. (2)	#3	pg 34-38
+  Magic, Magic-Users:
+    Making Life Hard for Magic-Users, by Lewis Pulsipher
+							#15	pg 30-31
+    Specialty Mages, Part 1, by Mike Gunderloy		#1	pg 6-8
+    Specialty Mages, Part 2, by Mike Gunderloy		#2	pg 9-14
+    Specialty Mages, Part 3, by Mike Gunderloy		#3	pg 11-17
+  Rules, Misc:
+    Giving Birth, by Roby Ward				#20	pg 18-19
+    Non-human Level Limits, by John Sapienza, Jr.	#17	pg 40-41
+    Uniform Experience Points, by John Sapienza, Jr.	#26	pg 30-32
+  Rules, Character Creation:
+    Dragons Demand Equality, by John Sapienza, Jr.	#28	pg 4-6
+  Rules, Combat:
+    Speed in Melee, by Ronald Pehr			#17	pg 8-9
+    Vardy Combat System, Part 1, by John Sapienza, Jr.	#6	pg 16-25
+    Vardy Combat System, Part 2, by Joen Sapeinza, Jr.	#7	pg 16-23
+  Reviews:
+    Basic Set						#12	pg 26
+    Expert Set						#12	pg 26
+    Basic Rules Set 1					#33	pg 29-30
+    B2: The Keep on the Borderlands			#8	pg 27
+    B3: Palace of the Silver Princess			#19	pg 40-42
+    B4: The Lost City					#28	pg 44-45
+    M1: Blizzard Pass					#37	pg 33-34
+    X1: The Isle of Dread				#12	pg 24
+    The Book of Treasure Maps				#46	pg 33
+    City of Valla					#12	pg 25
+    Judges Guild and D&D				#14	pg 4-8
+  Reviews, John Scott Clegg:
+    The Tombs of Valla					#11	pg 21
+  Reviews, Judges Guild:
+    Verbosh						#9	pg 22
+
+(1) Originally appeared in Alarums & Excursions #38
+(2) Variants of this article appeared in Alarums & Excursions #40 & #42, as
+    well as The Wild Hunt #34 & #36
+
+EARTH, GENERAL
+  Background, Misc:
+    Juvenile Non-Fiction Sourcebooks, by Ken Rolston	#33	pg 12-15
+  Background, Misc, Magic:
+    The Kabbalah and FRPGs, by Simcha Kuritzky		#32	pg 14-18
+    Kabbalistic Magic, by Simcha Kurizky		#36	pg 16-22
+  Background, Misc, Organizations:
+    [See Background, Misc, Secret Societies]
+  Background, Misc, Pulp:
+    The Adventures of the Destroyer, by Michael Szymanski
+							#44	pg 10-13
+    The Adventures of Doc Savage, by Michael Szymanski	#41	pg 10-14
+    The Adventures of Solar Pons, by Michael Szymanski	#43	pg 10-13
+  Background, Misc, Secret Societies:
+    The Assassins, by E. S. Erkes			#37	pg 10-12
+    The Rosicrucians, by E. S. Erkes			#38	pg 12-15
+    The African Leapard Men, by E. S. Erkes             #39	pg 6-7
+    The Chinese Secret Societies, by E. S. Erkes        #40	pg 6-7
+    The Druids, by E. S. Erkes				#41	pg 6-7
+    The Tongs of America, by Michael Szymanski		#43	pg 16-19
+  Background, Historical, 1920s:
+    Occult Organizations of the 1920s, by Richard Kaczynski
+							#45	pg 14-16
+    An Occult Who's Who for the 1920s, by Richard Kaczynski
+							#43	pg 34-38
+  Background, Historical, Medieval:
+    Facts of Life in the Middle Ages, by Paul Crabaugh	#42	pg 36-38
+    Heraldry, by Robin Wood				#20	pg 10-17
+  Background, Africa:
+    The African Leapard Men, by E. S. Erkes             #39	pg 6-7
+    Amazon Artuams Part One, by Ernest Hogan		#35	pg 16-20
+    Amazon Artuams Part Two, by Ernest Hogan		#37	pg 14-18
+  Background, Asia:
+    The Assassins, by E. Erkes				#37	pg 10-12
+    The Chinese Secret Societies, by E. S. Erkes        #40	pg 6-7
+    The Life and Legacy of Ivan the Terrible, by ES Erkes
+							#45	pg 10-12
+    Samurai Swords, by Stephen Marsh			#13	pg 24-28
+  Background, Australia:
+    The Mimi, by Ernest Hogan				#20	pg 44-45
+  Background, Europe, Misc:
+    The Druids, by E.S. Erkes				#41	pg 6-7
+  Background, Europe, Norse:
+    Berserkers, by Laurence Gillespie			#12	pg 16-19
+    Norse Religion in FRPs, by Patrick Amory		#26	pg 14-1
+    The Undead of Norse Folklore, by Laurence Gillespie	#26	pg 24-29
+  Background, North America:
+    Indians: The Cliff Dwellers, by Ken Rolston		#32	pg 4-7
+    The Tongs of America, by Michael Szymanski		#43	pg 16-19
+  Background, South America:
+    Aztecs: Dressed for a Flowery Death, by Ernest Hogan
+							#27	pg 36-37
+    Dwellers in the Aztec Night, by Ernest Hogan	#39	pg 18-20
+    Empire of the Incas, by Michael Szymanski		#42	pg 10-14
+    Lost Ball Games of Meso-America, by Ernest Hogan	#32	pg 8-12
+
+ELEMENT MASTERS [Escape Ventures]
+  Reviews:
+    Element Masters					#39	pg 27-28
+
+ELFQUEST [Chaosium]
+  Background, Introduction:
+    Adventuring in the World of Elfquest, by Michael Szymanski
+							#45	pg 18-21
+  Reviews:
+    Elfquest						#46	pg 27-28
+    The Elfquest Companion				#46	pg 27-28
+    The Sea Elves					#46	pg 27-28
+
+EMPIRE OF THE PETAL THRONE [TSR, Adventure Games, Gamescience, Tekumel 
+			    Games, DWP]
+  Reviews:
+    Tekumel Player's Book				#38	pg 27-28
+    Tekumel Source Book					#38	pg 27-28
+
+FANTASY, GENERAL
+  Meta, Gamemasters:
+    Gamemaster Styles, by Lewis Pulsipher		#8	pg 18-21
+  Meta, RPGs:
+    A Christian Looks at RPGs, by W. Kirkconnell	#36	pg 6-7
+    The Usefulness of FRP Games, by Steven Horst	#10	pg 20-22
+  Misc:
+    Alignment on Trial, by David Dunham			#8	pg 40-42
+    Character Personality Profile, by Mark Lukens	#14	pg 9-11
+    Variable Alignment System, by David Nalle		#9	pg 26-29
+  Advice, Gamemasters:
+    How to Make Monsters Interesting, by Lee Gold	#6	pg 14-15
+    Religion & Race: A Plea for Diversity, by Tom Grant	#43	pg 24-25
+    Running Low Level Dungeons, by Robert Plamondon	#11	pg 4-5
+    Training the Novice GM, by Howard Mahler		#16	pg 28-30
+    [Also see Campaign Design]
+  Advice, Players:
+    Role-Playing Humans, by John Sapienza, Jr.		#28	pg 15-17
+    Role-Playing Nonhumans, by Mason Jones		#28	pg 14-15
+  Background, Misc:
+    Juvenile Non-Fiction Sourcebooks, by Ken Rolston	#33	pg 12-15
+  Background, Campaigns:
+    Archaeron, by Ed Simbalist				#1	pg 29-33
+    Godwar, by Mike Sweeney                             #29	pg 24-27
+    The World of Slobbovia, by Greg Costikyan		#29	pg 16-20
+    Zarzeena's World, by Steve Perrin			#20	pg 8-9
+  Background, Folklore:
+    Dwarves, by Poul Anderson				#24	pg 8-9
+    The Land of Faerie, by Scott Turner			#13	pg 4-8
+  Background, Magic:
+    Divination Skills, by Randy McCall			#25	pg 8-11
+    Gems & Magic, by Stephen Marsh & Margaret Gemignani	#11	pg 10-13
+    Magic: Metaphor Made Manifest, by Greg Costikyan	#33	pg 22-23
+    The Powers of the Pentacle, by James Norris		#47	pg 10-15
+  Campaign Design, Adventures:
+    Place for Adventure, by Lewis Pulsipher		#9	pg 41
+    Prophets & Role-Playing, by Jeff Swycaffer		#34	pg 18-21
+  Campaign Design, Campaigns (as a whole):
+    Building the Campaign: A Literary Model, by Ken Rolston
+							#29	pg 10-15
+    The Entrebor Campaign, by David Frauenfelder and Michael Vinson
+							#29	pg 22-23
+    How to Start Easily & Quickly, by George Emery      #40	pg 14-17
+  Campaign Design, Cities:
+    Creating Realistic Cities, by William Hamblin	#39	pg 10-17
+    Fast Towns, by Martin Connel			#18	pg 26-27
+    How to Design Cities, by Patrick Amory		#18	pg 28-29
+    Taverns and Inns, by Lewis Pulsipher		#14	pg 20-22
+  Campaign Design, Cults:
+    Favorites of the Gods, by David Nalle		#15	pg 24-26
+    How to Design a Mythology, by David Joiner		#20	pg 30-32
+    The Sunstone Multiverse, by W. Kirkconnell		#31	pg 4-7
+  Campaign Design, Encounters:
+    Encounter Systems, by Stephen Lortz			#5	pg 26-29
+  Campaign Design, Social:
+    Magic & Social Structure, by David Dunham		#36	pg 10-13
+  Campaign Design, Worlds:
+    Plausible Geography, by George Hersh		#14	pg 26-27
+    Rational World Creation, by Arlen Walker		#29	pg 28-31
+  Equipment, Misc:
+    Healing Plants and Other Herbs, by Robin Wood	#21	pg 10-16
+    Poison: The Cup of Death, by Larry DiTillio		#31	pg 8-15
+  Equipment, Combat:
+    Composite Bows, by Simon Magister			#8	pg 22-23
+  Equipment, Magic Items:
+    Enchanted Weapons Table, by John Sapienza, Jr.	#4	pg 12-25
+  Magic, Misc:
+    Familiars, by David Nalle				#14	pg 24-25
+    Illusion, by Richard L. Snider			#25	pg 28-32
+    Illusion Magic, by David Nalle			#16	pg 24-27
+  Races, Misc:
+    Racial Sight Differences, by Shadowhawk		#21	pg 8-9
+    Winged Humanoids, by Jane and Morgan Woodward	#28	pg 8-11
+  Races, Hobbit:
+    A Change of Hobbit, by Ronald Mark Pehr		#11	pg 6-8
+  Random Tables:
+    Character Name Tables, by Elaine Normandy and John Sapienza, Jr.
+							#2	pg 15-16
+    Developing a Character's Appearance, by John Sapienza, Jr.
+							#5	pg 10-15
+    Enchanted Weapons Table, by John Sapienza, Jr.	#4	pg 12-25
+    Encounter Systems, by Stephen Lortz			#5	pg 26-29
+    Familiars, by David Nalle				#14	pg 24-25
+    Gem Types & Values, by Kathryn Shapero		#10	pg 26-29
+    Insanity Table, by Lewis Pulsipher			#6	pg 32-33
+    Talent Tables, by John Sapienza, Jr.		#8	pg 10-16
+    Taverns and Inns, by Lewis Pulsipher		#14	pg 20-22
+  Rules, Character Creation:
+    Character Name Tables, by Elaine Normandy and John Sapienza, Jr.
+							#2	pg 15-16
+    Developing a Character's Appearance, by John Sapienza, Jr.
+							#5	pg 10-15
+    Meaningful Names for Characters			#12	pg 4-13
+    Talent Tables, by John Sapienza, Jr.		#8	pg 10-16
+  Reviews, Misc:
+    FRP Town Design Survey				#27	pg 4-7
+  Reviews, Avalon Hill:
+    Heroes I, 1						#39	pg 35
+    Herose I, 2						#39	pg 35
+  Reviews, Bard Games:
+    The Compleat Alchemist				#34	pg 33-34
+  Reviews, Bearhug Enterprises:
+    Bearhug Game Accessories				#8	pg 17
+  Reviews, The Companions:
+    Places of Mystery 1: Chilling Chambers		#36	pg 33
+  Reviews, Flying Buffalo:
+    Citybook I						#24	pg 39
+    Grimtooth's Traps					#14	pg 35-36
+  Reviews, Infinity Limited:
+    The Dungeon of King Lout				#22	pg 38-39
+  Reviews, Judges' Guild:
+    Ravenscrag						#17	pg 43
+    Masters of the Mind					#24	pg 40
+    The Tower of Indomitable Circumstance		#18	pg 43
+
+FANTASY HERO [Hero Games]
+  Reviews:
+    Fantasy Hero					#42	pg 29-30
+
+THE FANTASY TRIP [Metagaming]
+  Background, Horseclans:
+    The Horseclans Player, by Ronald Pehr		#17	pg 18-19
+  Creatures:
+    Mythological Monsters for TFT, by Ronald Pehr	#16	pg 12-13
+  Rules, Misc:
+    A Modest Proposal for TFT, by David Dunham		#15	pg 27
+  Rules, Character Creation:
+    The Horseclans Player, by Ronald Pehr		#17	pg 18-19
+  Reviews:
+    Advanced Melee					#8	pg 46
+    Advanced Wizard					#8	pg 46
+    The Forest Lords of Dihad				#30	pg 31
+    In the Labyrinth					#7	pg 27
+    The Warrior Lords of Darok				#30	pg 31
+
+FICTION
+  Misc:
+    The Basilisk, by Robert Murray Gilchrist		#44	pg 8-9
+  Call of Cthulhu:
+    Dagon Manor, by Robert E. Howard & CJ Henderson	#42	pg 16-22
+  RuneQuest:
+    Bad Example, by Oliver Dickinson (1)		#44	pg 36-37
+    Down Among the Dead Men, by Oliver Dickinson (1)	#43	pg 20-22
+    Good Advice, by Oliver Dickinson (1)		#45	pg 36
+
+(1) These Griselda stories were reprinted in The Collected Griselda,
+    published by Reaching Moon Megacorp.
+
+FIREBREAKS [Ground Zero]
+  Reviews:
+    Firebreaks						#33	pg 10-11
+
+FLASHING BLADES [FGU]
+  Reviews:
+    Flashing Blades					#43	pg 27-28
+    High Seas						#46	pg 32
+    Parisian Adventure					#43	pg 27-28
+
+GAMMA WORLD [TSR]
+  Rules, Character Creation:
+    To be or not to be a Pure Strain Human, by James M. Ward
+							#5	pg 31
+  Reviews:
+    GW2: Famine in Far-Go				#36	pg 34
+
+GANGBUSTERS [TSR]
+  Reviews:
+    Gangbusters						#29	pg 42-43
+
+GANGSTER! [FGU]
+  NPCs:
+    The Gang Leaders, by Glenn Rahman			#19	pg 24-28
+    Mob Leaders, by Glenn Rahman			#27	pg 16-21
+  Reviews:
+    Gangster!						#6	pg 4-5
+
+GENERAL
+  Meta, Misc:
+    Live Role-Playing, by Mark Simmons			#28	pg 36-37
+    A Perspective on Role-Play, by Stephen Lortz	#4	pg 26-28
+    Solo Role-Playing, by Lewis Pulsipher		#16	pg 23
+    System Snobbery, by Larry DiTillio			#7	pg 36-38
+    Violence in Role-Playing, by Michael Kelly		#28	pg 34-36
+    Women & Gaming, by Lewis Pulsipher			#38	pg 20
+  Meta, Gamers:
+    Aspects of Adventure Gaming, by Glenn Blacow	#10	pg 36-39
+    The Fourfold Way of FRP, by Jeffrey Johnson		#11	pg 18-19
+    Personalities of Role-Playing Gamers, by Lewis Pulsipher
+							#11	pg 42
+    Profiles from the Four-Fold Way, by Greg Costikyan	#37	pg 22-23
+  Misc, Introduction:
+    Role-Playing, by Steve Lortz			#1	pg 36-41
+  Advice, Game Designers:
+    Games to Gold, by Rudy Kraft			#4	pg 4-6
+    Games to Gold Update, by Rudy Kraft			#5	pg 9
+  Advice, Gamemasters, Misc:
+    Dramatic Structure of RPGs, by Steven Lortz		#2	pg 32-35
+    Monty Haul Gamemaster, by Brian Underhill		#47	pg 6-7
+    Power Groups and PCs in RPGs, by James M Ward	#7	pg 28-29
+    Teaching Role-Playing, by Robert Harder		#8	pg 4-6
+    Tournament Role-Playing, Part 1, by Ken Rolston	#15	pg 6-15
+    Tournament Role-Playing, Part 2, by Ken Rolston	#16	pg 6-11
+    You Gotta Be Fiendish, by Larry DiTillio		#10	pg 4-7
+  Advice, Gamemasters, Adventure by Design:
+    Introduction, by Paul Jaquays			#23	pg 41
+    Ideas and Themes, by Paul Jaquays			#24	pg 35
+    Outlining your Ideas, by Paul Jaquays		#25	pg 32
+    Ad Lib Adventuring, by David Dunham			#26	pg 34
+    Designer, Entertain Thyself, by Greg Stafford	#27	pg 48
+    GM Tips and Scenerio Design, by Sandy Petersen	#28	pg 39
+    Gamemastering on a Budget, by Ken Rolston		#29	pg 37
+    Plotting the Adventure, by Ken Rolston		#30	pg 27
+    Using Published Scenerios, by Ken Rolston		#31	pg 40
+    Adapting Published Materials, by Ken Rolston	#32	pg 40
+    Tragedy or Melodrama, by Ken Rolston		#33	pg 40
+  Advice, Gamemasters, Beginner's Brew:
+    What is all this Stuff?, by Charlie Krank		#1	pg 2-5
+    ..and you say that this is a game, by Charlie Krank	#2	pg 4-7
+    Mastering your First Adventure, by Charlie Crank	#4	pg 7-8
+  Advice, Players, Misc:
+    Flippancy in FRP, by Greg Costikyan			#9	pg 4-5
+    Role-Playing : How to Do It (An Immodest Proposal), by Clint Bigglestone
+							#3	pg 18-21 
+  Advice, Players, Beginner's Brew:
+    What is all this Stuff?, by Charlie Krank		#1	pg 2-5  
+  Campaign Design, Misc:
+    The Calendar & Your Campaign World, by John T. Sapienza, Jr.
+							#25	pg 12-13
+  Campaign Design, Maps:
+    Supermap 1 : The Waterfront, by Michael Gray	#39	pg center
+    Supermap 2 : Business District, by Michael Gray	#40	pg center
+  Rules, Misc:
+    Universal Resolution Matrix, by Harry White		#24	pg 30-31
+
+GOLDEN HEROES [GW]
+  Reviews:
+    Golden Heroes					#43	pg 26-27
+
+GUMSHOE [Sleuth]
+  Reviews:
+    Gumshoe						#47	pg 33
+
+GURPS [SJG]
+  Reviews:
+    Man to Man						#43	pg 28
+    Orcslayer						#43	pg 28
+    Gurps Basic Set					#47	pg 27-28
+    Gurps Horror					#47	pg 28
+
+HARNMASTER [Columbia Games]
+  Reviews:
+    Harn						#34	pg 35
+
+HEROES OF OLYMPUS [Task Force Games]
+  Rules, Conversion, Thieves' World:
+    Thieves of Sparta, by B. Dennis Sustare		#19	pg 32-35
+  Reviews:
+    Heroes of Olympus					#30	pg 29-31
+
+HEROES UNLIMITED [Palladium Books]
+  Reviews:
+    Heroes Unlimited					#40	pg 28
+
+HIGH FANTASY [Fantasy Productions, Reston Publishing]
+  Reviews:
+    High Fantasy, First Edition				#11	pg 21-22
+    Fortress Ellendar Moorguard				#11	pg 22-23
+
+HORROR, GENERAL
+  Meta:
+    Contemporary Ideas about the Necronomicon, by Richard Kaczynski
+							#44	pg 14-16
+    Lovecraft and the Necronomicon, by Peter Larsen	#47	pg 16-19
+  Background, Misc:
+    Dennis Weatley's Tales of Black Magic, by Michael Szymanski
+							#47	pg 20-22
+  Campaign Design, Adventuring in the Worlds of HP Lovecraft:
+    Part I: The Cthulhu Mythos, by Keith Herber         #40	pg 10-12
+    Part II: Dreamworld, by Keith Herber		#41	pg 16-18
+  Games, RPG:
+    Scary Monster Horror Picture Show RPG, by Brian Underhill
+							#45	pg 6-7    
+  Magic:
+    Divination Skills, by Randy McCall			#25	pg 8-11
+    The Powers of the Pentacle, by James Norris		#47	pg 10-15
+
+INTERVIEWS
+  Misc:
+    Frazetta, Frank					#41	pg 36-38
+  My Life & Role-Playing:
+    Allston, Aaron					#39	pg 22-23
+    Arneson, Dave					#3	pg 6-8
+    Bizar, Scott					#5	pg 23-24
+    Brennan, Herbie					#30	pg 24
+    Costikyan, Greg					#1	pg 17-18
+    D'arn, Gigi						#31	pg 28-29
+    Feldt, David A.					#2	pg 19-21
+    Gold, Lee						#1	pg 21-22
+    Hargrave, Dave					#31	pg 26-27
+    Hargrave, David A.					#1	pg 27-28
+    Jackson, Steve					#2	pg 17-19
+    Jaquays, Paul					#1	pg 24-26
+    Kanterman, Lenard H.				#1	pg 9-11
+    Lortz, Stephen L.					#1	pg 26-27
+    Marsh, Steve					#1	pg 13-15
+    Miller, Marc W.					#1	pg 15
+    Perrin, Steve					#3	pg 8-10	
+    Petersen, Sandy					#32	pg 28-29
+    Seypura, Gerald					#31	pg 27-28
+    Shapero, Niall					#1	pg 11-12
+    Simbalist, Ed					#1	pg 22-24
+    Snider, John					#5	pg 20-23
+    St Andre, Ken					#1	pg 12-13
+    St Andre, Ken					#33	pg 25-26
+    Stackpole, Michael A.				#35	pg 9
+    Sustare, B. Dennis					#1	pg 18-21
+    Swanson, Mark A.					#1	pg 15-17
+    Voss, H. N.						#33	pg 24-25
+
+JAMES BOND 007 [Victory Games]
+  Adventures:
+    The Sounds of Danger, by Robert Rosenthal		#46	pg M1-M8
+  Reviews:
+    James Bond 007					#34	pg 28-29
+    Gamesmaster Pack					#34	pg 28-29
+    Octopussy						#39	pg 29-30
+    Q Manual						#35	pg 29-30
+    You Only Live Twice					#39	pg 92-30
+
+JUSTICE INC. [Hero]
+  Reviews:
+    Justic Inc.						#38	pg 28-29
+    Lands of Mystery					#41	pg 33-34
+
+KINGS & THINGS [WEG]
+  Reviews:
+    Kings & Things					#47	pg 32-33
+
+LAND OF THE RISING SUN [FGU]
+  Rules, Official Questions & Answers:
+    How I Designed Land of the Rising Sun, by Lee Gold	#8	pg 38-39
+  Reviews:
+    Land of the Rising Sun				#13	pg 36-38
+
+LANDS OF ADVENTURE [FGU]
+  Reviews:
+    Lands of Adventure					#36	pg 28-30
+
+LEGACY [Legacy Press]
+  Reviews:
+    Legacy						#2	pg 8
+
+LORDS OF CREATION [Avalon Hill]
+  Reviews:
+    Lords of Creation					#37	pg 28-29
+
+LOST WORLDS [Nova]
+  Reviews:
+    Lost Worlds						#40	pg 29-30
+
+MAN, MYTH AND MAGIC [Yaquinto Games]
+  Rules, Official Questions & Answers:
+    Designer's Notes, by Herbie Brennan			#33	pg 43
+  Reviews:
+    Man, Myth and Magic					#25	pg 34-35
+
+MARVEL SUPER HEROES [TSR]
+  Reviews:
+    Marvel Super Heroes					#38	pg 32-33
+    Marvel Super Heroes Advanced Set			#47	pg 28-29
+    The Breeder Bombs					#46	pg 33-34
+
+MECHANOIDS [Palladium]
+  Reviews:
+    Vol 1: The Mechanoid Invasion			#31	pg 32-33
+    Vol 2: The Journey Homeworld			#31	pg 32-33
+
+MEKTON [R. Talsorian]
+  Reviews:
+    Mekton, Second Edition				#47	pg 26
+
+MELANDA [Wilmark Dynasty]
+  Reviews:
+    Melanda: Land of Mystery				#16	pg 42
+    Journey to the Center of the Circle			#21	pg 38
+
+MERC [FGU]
+  Reviews:
+    Merc						#32	pg 35-37
+    Supplement 1: In Country				#32	pg 35-36
+
+MERCENARIES, SPIES & PRIVATE EYES [Flying Buffalo, Sleuth]
+  Misc:
+    Maps & Stats for the Jade Jaguar, by David Arneson	#46	pg 22-25
+  Reviews:
+    Mercenaries, Spies & Private Eyes			#36	pg 26-28
+    Stormhaven						#37	pg 30-31
+
+MERP [ICE]
+  Reviews:
+    MERP						#46	pg 26
+
+MIDKEMIAN GAME SYSTEM [Midkemia Press]
+  Reviews:
+    The Black Tower					#14	pg 34-35
+    Cities						#25	pg 36-37
+    Heart of the Sunken Lands				#33	pg 38-39
+    Jonril						#28	pg 43-44
+    Towns of the Outlands				#14	pg 36
+
+MIDNIGHT AT THE WELL OF SOULS [TAG Industries]
+  Reviews:
+    Midnight at the Well of Souls			#42	pg 30
+
+THE MORROW PROJECT [Timeline Ltd]
+  Adventures:
+    Operation: Link-Up, by Baron Barnett and William A. Barton
+							#33	pg M1-M7
+    Operation: Deep Freeze, by Robert Rosenthal		#41	pg M1-M7
+  Advice, Players:
+    Playing Hints, by Bill Worzel			#33	pg 8-9
+  Background, Introduction:
+    Adventuring in the World of TMP, by Josepher Benedetto, Jr.
+							#46	pg 16-19
+   Previews:
+    Playtesting the Morrow Project, by Bill Worzel	#33	pg 4-6
+   Reviews:
+    The Morrow Project					#33	pg 32
+    Morrow Project Modules				#46	pg 17
+    The Ruins of Chicago				#34	pg 33
+  
+ODYSSEUS [FGU]
+  Reviews:
+    Odysseus						#11	pg 20-21
+
+THE OFFICIAL SUPERHERO ADVENTURE GAME [Brian Philips]
+  Reviews:
+    The Official Superhero Adventure Game		#23	pg 42-43
+
+OGRE [SJG]
+  Rules, Misc:
+    Boardgames to RPGs, by Glenn L. Williams		#9	pg 6-11
+
+OTHER SUNS [FGU]
+  Reviews:
+    Other Suns						#39	pg 31-32
+
+PARANOIA [WEG]
+  Reviews:
+    Paranoia						#39	pg 26-27
+    Send in the Clones					#47	pg 29-30
+
+PENDRAGON [Chaosium]
+  Background:
+    Facts of Life in the Middle Ages, by Paul Crabaugh	#42	pg 36-38
+    Heraldry, by Robin Wood				#20	pg 10-17
+  Reviews:
+    Pendragon						#42	pg 26-27
+    The Pendragon Campaign				#42	pg 26-27
+
+PHOENIX COMMAND [Leading Edge Games]
+  Reviews:
+    Phoenix Command					#47	pg 30
+
+PIRATES AND PLUNDER [Yaquinto]
+  Reviews:
+    Pirates and Plunder					#32	pg 34-35
+
+POWERS & PERILS [Avalon Hill]
+  Reviews:
+    Powers & Perils					#38	pg 29-30
+
+PRIVATEERS AND GENTLEMEN [FGU]
+  Reviews:
+    Privateers and Gentlemen				#33	pg 34-35
+    Decision at Djerba					#41	pg 32-33
+    The King Over the Water				#41	pg 32-33
+
+PSI WORLD [FGU]
+  Reviews:
+    Psi World						#44	pg 28-29
+
+RECON [RPG Inc]
+  Reviews:
+    Recon						#26	pg 38
+    The Revised Recon					#46	pg 26-27
+
+RIDDLE OF THE RING [ICE]
+  Reviews:
+    Riddle of the Ring					#43	pg 31-32
+
+RINGWORLD [Chaosium]
+  Adventures:
+    Louis Wu & His Motley Crew, by Ed Gore		#37	pg M1-M7
+  Rules, Official Questions & Answers:
+    Errata						#36	pg 15
+  Previews:
+    Ringworld Preview, by John Hewitt (1)		#29	pg 4-9
+  Reviews:
+    Ringworld						#37	pg 26-27
+
+(1) Largely composed of text from RINGWORLD (Chaosium 2501-X)
+
+ROLEMASTER [ICE]
+  Reviews:
+    Rolemaster, First Edition				#37	pg 29-30
+    Spell Law, First Edition				#26	pg 37-38
+    The Iron Wind					#20	pg 35
+
+RUNEQUEST [Chaosium, Avalon Hill]
+  Accessories, Record Sheets:
+    Glorantha Rune Calendar				#7	pg 15
+  Adventures, Misc:
+    The Tale of the Jolly Soldier, by Ken Rolston	#18	pg 30-35
+  Adventures, HeroQuest:
+    Pavis Quest, by Anthony Gresham			#45	pg 22-24
+    Waha's Quest, by Greg Stafford (1)			#4	pg 29-33
+  Adventures, SoloQuest:
+    Ware Hall, by Sandy Petersen			#17	pg 7
+    Where's Ogmar, by Alan LaVergne			#36	pg M1-M7
+  Background, Alternate Earth: 
+    Oriental Weapons for RuneQuest, by Sean Summers	#7	pg 40-42
+  Background, Glorantha:
+    Disease in Glorantha, by Oliver Dickinson		#46	pg 36-37
+    Gloranthan Birthday Tables, by Morgan Woodward III	#7	pg 14-15
+    Gloranthan Military Experience, by Greg Stafford	#28	pg 28-33
+    Pavis, by Greg Stafford and Steve Perrin  (2)	#27	pg 8-11
+  Background, Questworld:
+    Juvenile Non-Fiction Sourcebooks, by Ken Rolston	#33	pg 12-15
+    Questworld, by Lynn Willis, Greg Stafford, etc (3)	#17	pg 24-30
+  Background, Variant:
+    RandomQuest, by Paul Carlson and Rodney Sauer	#43	pg 14-15
+  Creatures:
+    Come, Clash with the Titans, by Larry DiTillio	#14	pg 28-33
+  Cults, Alternate Earth:
+    Apollo, by Geoffrey Dalcher				#5	pg 17-19
+    Dionysus, by Michael Kolb				#22	pg 8-10
+    Kali, by Greg Costikyan				#11	pg 36-38
+    Odin, by Angus MacDonald				#26	pg 16-23
+  Cults, Gateway:
+    Enuk Manamee, by Greg Wilson			#17	pg 12-17
+    Erlin the Harper, by Jane Woodward			#13	pg 14-22
+  Cults, Glorantha:
+    Cacodemon, by Steve Perrin (4)			#2	pg 30-31
+    Caladra & Aurelion, by Charles Huber		#15	pg 16-23
+    Foundchild, by Sandy Petersen (4)			#7	pg 24-26
+    Geo, by Greg Stafford				#1	pg 34-35
+    The Three Feathered Rivals, by Ray Turney		#3	pg 27-30
+    The Tiger, by Steve Perrin				#9	pg 34-36
+    Uleria, by Sandy Petersen and Greg Stafford		#38	pg 6-7
+    Zelan the Beast, by Ron Weaver			#8	pg 28-32
+  Cults, QuestWorld:
+    Taigaluk the Hunter, by Greg Wilson			#28	pg 20-23
+  Cults, Satire:
+    Indlas Somer, by Angus MacDonald			#16	pg 14-22
+    Gestetner, by Greg Costikyan			#6	pg 34-35
+  Fiction:
+    Bad Example, by Oliver Dickinson (5)		#44	pg 36-37
+    Down Among the Dead Men, by Oliver Dickinson (5)	#43	pg 20-22
+    Good Advice, by Oliver Dickinson (5)		#45	pg 36
+  Races, Mostali:
+    Creating Jolanti, by Michael Malony and Greg Stafford
+							#21	pg 30-32
+    Dwarf Senses, by Sandy Petersen			#24	pg 22-23
+    Dwarf Weapons for Runequest, by Steve Perrin	#24	pg 20-21
+    Mostal-Dwarfs, by Greg Stafford			#24	pg 14-19
+    Why I Dislike Mostali, by Greg Stafford		#24	pg 10-14
+  Rules, Misc:
+    Another Look at RuneQuest Movement, by Mark Woodward III
+							#10	pg 24-25
+    Disease in Glorantha, by Oliver Dickinson		#46	pg 36-37
+    Finding Levels in Runequest, by Ray Turney		#6	pg 10-12
+    RuneFix 1, by Greg Stafford				#22	pg 12-15
+  Rules, Character Creation:
+    Gloranthan Birthday Tables, by Morgan Woodward III	#7	pg 14-15
+    Gloranthan Military Experience, by Greg Stafford	#28	pg 28-33
+  Rules, Combat:
+    Eight New Weapons for RuneQuest, by Paul Cardwell, Jr.
+							#22	pg 32-35
+    Oriental Weapons for RuneQuest, by Sean Summers	#7	pg 40-42
+  Rules, Official Questions and Answers:
+    Advice from Rurik, by Steve Perrin			#22	pg 11
+    Advice from Rurik, by Steve Perrin			#29	pg 38
+  Previews, RuneQuest III:
+    A Game Forever, by Tadashi Ehara			#30	pg 43
+    Playtesting RuneQuest, by Jeff Okamoto		#35	pg 38
+    RQ3 Preview, by Greg Stafford			#32	pg 20-22
+    What Happened to RQ, by The Chaosium Staff (6)	#37	pg 6-7
+  Reviews, Avalon Hill:
+    RuneQuest III					#41	pg 26-27
+    Box 5: Gods of Glorantha				#45	pg 28-29
+  Reviews, Chaosium:
+    Borderlands						#25	pg 37
+    Cults of Prax					#7	pg 13
+    Cults of Terror					#17	pg 45
+    Gateway Bestiary					#9 	pg 45
+    Pavis						#33	pg 36-37
+    Plunder						#12	pg 24
+    Rune Masters					#12	pg 25
+    Runequest Companion					#31	pg 38
+    Soloquest						#27	pg 44
+    Soloquest 3: The Snow King's Bride			#40	pg 32
+    Trollpak						#24	pg 38-39
+  Reviews, Judges Guild:
+    The City of Lei Tabor				#11	pg 30-31
+    Duck Tower						#11	pg 25-26
+
+(1) Reprinted in BOOK OF DRASTIC RESOLUTIONS #2
+(2) This article is included as a part of both PAVIS (Chaosium 4021-X) and
+    RIVER OF CRADLES (Avalon Hill 8591)
+(3) This article is also printed in WYRM'S FOOTNOTES #13 and included
+    as a part of QUESTWORLD (Chaosium 4018-X)
+(4) Identical versions of these cults may be found in GRIFFIN MOUNTAIN 
+    (Chaosium 4013)
+(5) These Griselda stories were reprinted in THE COLLECTED GRISELDA,
+    published by Reaching Moon Megacorp.
+(6) Also appeared in Heroes VI.5
+
+SANDMAN [Pacesetter]
+  Reviews:
+    Sandman						#41	pg 29-30
+
+SCIENCE-FICTION, GENERAL
+  Meta:
+    Man Bites Dog, by Ken St. Andre			#15	pg 28-29
+  Rules, Misc:
+    Other Senses, by Sandy Petersen			#28	pg 18-19
+  Reviews:
+    Port O' Call : Tarlkin's Landing			#20	pg 36
+
+SHERLOCK HOLMES CONSULTING DETECTIVE [Sleuth]
+  Adventures:
+    Sherlock Holmes & the Baby, by David & Frankie Arneson
+							#44	pg M1-M6
+
+SKULL & CROSSBONES [FGU]
+  Adventures:
+    The Log of the Lively Lady, by Gerald Seypura	#17	pg 20-23
+  Reviews:
+    Skull & Crossbones					#11	pg 26-27
+
+SKYREALMS OF JORUNE [SkyRealms Publishing]
+  Reviews:
+    Skyrealms of Jorune, Second Edition			#45	pg 26-27
+
+SPACE OPERA [FGU]
+  Reviews:
+    Casino Galactica					#40	pg 32-33
+    Vault of the Ni'er Queyon				#31	pg 37-38
+
+SPAWN OF FASHAN [The Games of Fashan]
+  Reviews:
+    Spawn of Fashan					#19	pg 39
+
+STALKING THE NIGHT FANTASTIC [Tri-Tac Inc]
+  Reviews:
+    Stalking the Night Fantastic			#39	pg 32-33
+
+STAR FRONTIERS [TSR]
+  Reviews:
+    Star Frontiers					#29	pg 40-42
+    Knight Hawks					#40	pg 28-29
+
+STAR PATROL [Gamescience]
+  Reviews:
+    Star Patrol						#16	pg 40-41
+
+STAR TREK, GENERAL
+  Reviews:
+    Star Trek Games					#46	pg 6-7
+
+STAR TREK [Heritage]
+  Rules, Misc:
+    Kirk on Karit 2, by Emmet F. Milestone		#4	pg 9-11
+
+STAR TREK : THE ADVENTURE GAME [WEG]
+  Reviews:
+    Star Trek : The Adventure Game			#41	pg 30
+
+STAR TREK : THE ROLE PLAYING GAME [FASA]
+  Advice, Players:
+    Philosophy & Attitudes, by Paul Crabaugh		#34	pg 24-26
+  Races:
+    Deltans for Star Terk, by Paul Crabaugh		#37	pg 36
+  Rules, Misc:
+    Beyond the Final Frontier, by Paul Crabaugh		#18	pg 10-16
+  Reviews:
+    Star Trek : The Role-Playing Game			#30	pg 28-29
+    Denial of Destiny					#38	pg 35-36
+    The Klingons					#42	pg 28-29
+    The Romulans					#41	pg 34
+    Ship Recognition Manual: The Federation		#37	pg 32-33
+    Ship Recognition Manual: The Klingon Empire		#37	pg 32-33
+    Star Trek III Sourcebook Update			#39	pg 35-36
+    Trader Captains and Merchant Princes		#43	pg 30-31
+    The Vanished					#40	pg 33-34
+    Witness for the Defense				#36	pg 32
+
+STARFLEET VOYAGES [Terra Games]
+  Reviews:
+    Starfleet Voyages					#29	pg 43
+
+STARSHIPS & SPACEMEN [FGU]
+  Adventures:
+    Alien and S&S, by Leonard Kanterman			#8	pg 8-9
+  Misc:
+    Starships & Spacemen Expansion Kit			#2	pg 22-23
+
+STORMBRINGER [Chaosium]
+  Adventures, Misc:
+    Bastions of Balo, by Ken St. Andre			#31	pg M1-M7
+  Adventures, Solo:
+    Sea Battle at Melnibone, by Ken St Andre (1)	#21	pg 24-29
+  Rules, Official Questions & Answers:
+    Errata						#21	pg 29
+  Reviews:
+    Stormbringer Second Edition				#38	pg 30-31
+    Black Sword						#45	pg 32-33
+    Stealer of Souls					#45	pg 32-33
+    Stormbringer Companion				#41	pg 34-35
+
+(1) Reprinted in STORMBRINGER COMPANION (Chaosium 2102)
+    
+SUPERGAME [DAG Productions]
+  Rules, Official Questions & Answers:
+    Designer's Notes, by Jay and Aimee Hartlove		#23	pg 16-19
+
+SUPERHERO: 44 [Donald Saxman, Lou Zocchi]
+  Misc:
+    Part-time Superhero, by Donald Saxman		#23	pg 9-11
+  Adventures:
+    Hendrex Island, by Donald Saxman			#23	pg 11-13
+  Rules, Misc:
+    Super Rules for Superhero : 44, by Brian Wagner	#6	pg 6-9
+
+SUPERHEROES, GENERAL
+  Misc:
+    Things Your GM Never Told You, by Quentin Long	#39	pg 9
+  Advice, Gamemasters:
+    Subplots & Supervillains, by John Carnahan		#30	pg 4-6
+  NPCs:
+    Starring: DNAgents, by Steve Perrin			#34	pg 4-5
+  
+SUPERVILLAINS [Task Force Games]
+  Reviews:
+    Supervillains					#23	pg 42
+
+SUPERWORLD [Chaosium]
+  Adventures:
+    The Star-Devourer, by Steve Perrin			#35	pg M1-M7
+    Threat of the Nighthaunt, by Jon Mattson		#32	pg M1-M7
+  NPCs:
+    DNAgents, by Steve Perrin				#34	pg 8-9
+    The New Teen Titans, by Steve Perrin		#30	pg 12-16
+    The X-Men, by Steve Perrin & Karl Maurer		#23	pg 37-39
+  Rules, Official Questions & Answers:
+    Designer's Notes, by Steve Perrin			#23	pg 34-35
+    Errata, by Steve Perrin				#23	pg 35-36
+    Errata, by Steve Perrin				#32	pg 39-38
+    Errata 2, by Steve Perrin				#34	pg 14-15
+  Reviews:
+    Superworld						#33	pg 33-34
+    Bad Medicine for Dr. Drugs				#37	pg 33
+    Trouble for Havoc					#42	pg 32-33
+
+SWORDBEARER [Heritage, FGU]
+  Reviews:
+    Swordbearer						#27	pg 42-43
+
+TALES OF THE ARABIAN NIGHTS [WEG]
+  Reviews:
+    Tales of the Arabian Nights				#42	pg 27-28
+
+TALISMAN [GW]
+  Reviews:
+    Talisman						#44	pg 29-30
+
+TEENAGE MUTANT NINJA TURLES [Palladium]
+  Reviews:
+    TMNT & Other Strangeness				#44	pg 26-27
+    Adventures!						#46	pg 31
+    After the Bomb					#46	pg 31
+
+THIEVES' GUILD [Gamelords] (1)
+  Reviews:
+    Thieves' Guild					#12	pg 28-30
+    Thieves' Guild, Second Edition			#39	pg 33
+    Thieves' Guild 2					#12	pg 28-30
+    Thieves' Guild 3 : The Duke's Dress Ball		#12     pg 28-30
+    Thieves' Guild 4					#34	pg 31-32
+    Thieves' Guild 5					#34	pg 31-32
+    Thieves' Guild 6					#34	pg 31-32
+    Thieves' Guild 7					#45	pg 30-31
+    Thieves' Guild 8					#45	pg 30-31
+    Thieves' Guild 9 : Escape from the Ashwood Mines	#45	pg 30-31
+    Thieves' Guild 10 : Bandits Gangs and Caravans	#45	pg 30-31
+    The Free City of Haven				#20	pg 34
+    The Mines of Keridav				#35	pg 35-36
+
+(1) Most of these are meant to work as GENERAL FANTASY too
+
+THIEVES WORLD [Chaosium] 
+  Misc:
+    The Full Circle (1)	 				#12	pg 14-15
+  Campaign Design, Cities:
+    The Empty Buildings of Sanctuary, by Anders Swenson	#27	pg 15
+  Rules, Conversion, Heroes of Olympus:
+    Thieves of Sparta, by B. Dennis Sustare		#19	pg 32-35
+  Reviews:
+    Thieves' World					#35	pg 32
+    T1: Traitor						#33	pg 38
+    T2: The Spirit Stones				#34	pg 34
+    T3: Dark Assassin					#36	pg 31-32
+
+(1) This article is drawn from THIEVES' WORLD (Chaosium 2007-X)
+
+TIME & TIME AGAIN [Timeline Ltd]
+  Reviews:
+    Time & Time Again					#40	pg 27-28
+    Holy Warriors					#44	pg 33-34
+
+TIMEMASTER [Pacesetter]
+  Reviews:
+    Timemaster						#39	pg 30-31
+    Timemaster Screen					#39 	pg 30-31
+    Crossed Swords					#39	pg 30-31
+
+TIMESHIP [Yaquinto]
+  Reviews:
+    Timeship						#33	pg 35-46
+
+TO CHALLENGE TOMORROW [Ragnorak]
+  Reviews:
+    To Challenge Tomorrow				#38	pg 31-32
+
+TOON [SJG]
+  Reviews:
+    Toon						#38	pg 26-27
+
+TOP SECRET [TSR]
+  Misc:
+    Top Secret Contact
+  Reviews:
+    Lady in Distress					#31	pg 37
+
+TRAVELLER, ORIGINAL [GDW]
+  Adventures, Spinward Marches:
+    Race for the "Specter", by Doug Houseman		#20	pg 20-28
+  Background, Misc:
+    The Travellers' Aid Society, by Iain Delaney	#13	pg 10-11
+  Background, Introduction:
+    The Imperium, by Marc Miller and Frank Chadwick	#9	pg 16-20
+  Background, Technology:
+    Genetic Engineering, by Dave Bryant			#38	pg 16-19
+    Terraforming, Part 1, by Doug Houseman		#22	pg 16-21
+    Terraforming, Part 2, by Doug Houseman		#23	pg 28-33
+  Campaign Design, Encounters:
+    Make Love, Not War, by Terrence McInnes		#32	pg 24-26
+    Planetary Encounters, by Mason Jones		#28	pg 26
+  Equipment, Combat:
+    Pistols, by Paul Crabaugh				#21	pg 17
+  Equipment, Computers:
+    A New Computer System, by Martin Connell		#11	pg 14-17
+  Equipment, Ships, Misc:
+    Battleriders vs. Battleships, by Paul Crabaugh	#26	pg 13
+    Battleriders vs. Battleships, by John Harshman	#29	pg 21
+  Equipment, Ships, Designs:
+    For Sale : Three New Fighters, by Paul Crabaugh	#17	pg 10-11
+    Starfreighter Athena, by Henry Padilla		#18	pg 24-25
+    Terraforming, Part 1, by Doug Houseman		#22	pg 16-21
+    Terraforming, Part 2, by Doug Houseman		#23	pg 28-33
+  Rules, Misc:
+    Effects of Mass in Traveller, by William Lowe	#25	pg 15
+  Rules, Board Games, Azhanti High Lightning:
+    Swords on Deck, by Paul Crabaugh			#18	pg 7
+  Rules, Board Games, Trillion Credit Squadron:
+    Changes for TCS, by Doug Houseman			#18	pg 8-9
+  Rules, Character Creation, Misc:
+    Make Love, Not War, by Terrence McInnes		#32	pg 24-26
+    Traveller Mutations, by Iain Delaney		#10	pg 8-9
+  Rules, Character Creation, Careers:
+    Cops!, by Terry McInnes (1)				#46	pg 10-14
+    More Citizens, by Paul Crabaugh			#15	pg 4-5
+    The Underworld, by Jon Mattson			#33	pg 16-19
+  Rules, Combat:
+    Pistols, by Paul Crabaugh				#21	pg 17
+  Reviews, GDW:
+    The Traveller Book					#30	pg 33-34
+    The Traveller Adventure				#36	pg 30-31
+    Adventure 2: Research Station Gamma			#11	pg 26
+    Adventure 6: Expedition to Zhodane			#44	pg 32
+    Adventure 7: Broadsword				#23	pg 45
+    Adventure 8: Prison Planet				#32	pg 37
+    Adventure 9: Nomads of the World-Ocean		#33	pg 37-38
+    Alien Module 1: Aslan				#37	pg 31-32
+    Alien Module 3: Vargr				#43	pg 29-30
+    Book 6: Scouts					#41	pg 31-32
+    Book 7: Merchant Prince				#45	pg 31-32
+    Double Adventure 2: Across the Bright Face/Mission on Mithril
+							#11	pg 26
+    Double Adventure 3: The Argon Gambit/Death Station	#14	pg 34
+    Game 3: Azhanti High Lightning			#11	pg 20
+    Supplement 6: 76 Patrons				#22	pg 37
+    Supplement 8?: Library Data (N-Z)			#30	pg 31
+    Supplement 11: The Solomani Rim			#28	pg 45
+    Supplement 12: Forms and Charts			#35	pg 37
+    Supplement 13: Veterans				#39	pg 36-37
+    The Atlas of the Imperium				#42	pg 31
+    Beltstrike						#38	pg 36-37
+    Tarsus						#34	pg 30-31
+  Reviews, FASA:
+    Action Aboard					#18	pg 42
+    Adventure Class Ships, Vol. 1			#19	pg 40
+    Aslan Mercernary Ships				#25	pg 36
+    Deckplans: ISCV King Richard			#18	pg 41
+    Deckplans: ISCV Leander				#18	pg 41
+    Deckplans: ISPMV Fenris				#18	pg 41
+    Deckplans: ISPMV Tethys				#18	pg 41
+    Deckplans: ZISMV Vlezhdahl				#18	pg 41
+    Far Traveller, Issue 1				#34	pg 34-35
+    Fate of the Sky Raiders				#35	pg 34-35
+    The FCI Consumer Guide				#28	pg 44
+    High Passage, Issue 1				#15	pg 38
+    High Passage, Issue 2				#18	pg 40
+    Legend of the Sky Raiders				#21	pg 37-38
+    Ordeal by Eshaar					#18	pg 39
+    Rescue on Galatea					#23	pg 45
+    Starport Module One : Hotel Complex			#27	pg 45
+    The Trail of the Sky Raiders			#27	pg 44-45
+    Uragyad'n of the Seven Pillars			#22	pg 37-38
+  Reviews, Gamelords:
+    Ascent to Anekthor					#40	pg 30-31
+    The Desert Environment				#42	pg 31-32
+    The Drenslaar Quest					#38	pg 34-35
+    Duneraiders						#42	pg 31-32
+    Lee's Guide to Interstellar Adventure, Vol. 1	#46	pg 32-33
+    The Mountain Environment				#40	pg 30-31
+    A Pilot's Guide to the Drexilthar Subsector		#41	pg 33
+    Startown Liberty					#37	pg 34
+    The Undersea Environment				#36	pg 33-34
+    Wanted: Adventurers					#47	pg 31
+  Reviews, Judges' Guild:
+    Crucis Margin					#20	pg 36-37
+    Glimmerdrift Reaches				#20	pg 36-37
+    Simba Safari					#18	pg 40-41
+    Waspwinter						#21	pg 36-37
+  Reviews, Marischal Adventures:
+    Flight of the Stag					#18	pg 39-40
+    Salvage Mission Fleetwatch				#18	pg 39-40
+    Trading Team					#23	pg 41
+  Reviews, Paranoia Press:
+    Merchants and Merchandise				#16	pg 41-42
+    Sorag						#15	pg 36
+
+(1) A variant of this article appeared in DRAGON MAGAZINE #113
+
+TRILLION CREDIT SQUADRON [GDW]
+  Rules, Misc:
+    Changes for TCS, by Doug Houseman			#18	pg 8-9
+
+TUNNELS & TROLLS [Flying Buffalo Inc]
+  Adventures, Solo:
+    Hela's House of Dark Delights, by Ken St. Andre	#22	pg 23-30
+  Background, Campaigns:
+    Ten Days in the Arena of Khazan, by Ken St. Andre	#7	pg 6-12
+  Reviews:
+    Tunnels & Trolls					#11	pg 23-25
+    Dargon's Dungeon					#17	pg 45-46
+    Sea of Mystery					#15	pg 36-37
+    Sewers of Oblivion					#12	pg 31
+    The Toughest Dungeon in the World			#12	pg 27
+
+TWILIGHT: 2000 [GDW]
+  Reviews:
+    Twilight: 2000					#40	pg 26-27
+    The Free City of Krakow				#46	pg 29-30
+
+UNIVERSE [SPI]
+  Reviews:
+    Universe						#15	pg 32-34
+
+THE VALLEY OF THE PHARAOHS [Palladium]
+  Reviews:
+    The Valley of the Pharaohs				#45	pg 27
+
+VILLAINS AND VIGILANTES [FGU]
+  Adventures: 
+    The Star-Devourer, by Steve Perrin			#35	pg M1-M7
+  NPCs:
+    DNAgents, by Jack Herman				#34	pg 12-13
+    The New Teen Titans, by Jack Herman			#30	pg 18-22
+  Rules, Misc:
+    Shields and Weapon Parrying, by Jeff Dee		#33	pg 20
+  Rules, Official Q&A:
+    Designer's Notes, by Jeff Dee			#23	pg 14-15
+  Reviews:
+    Villains and Vigilantes Second Edition		#32	pg 32-33
+    Death Duel with the Destroyers			#23	pg 43
+    From the Deeps of Space				#45	pg 33
+    The Island of Doctor Apocalypse			#37	pg 34-35
+
+WILD WEST [FGU]
+  Reviews:
+    Wild West						#18	pg 38-39
+
+WITCH HUNT [StatCom Simulations Inc]
+  Reviews:
+    Witch Hunt						#35	pg 30
+
+WIZARD'S REALM [Mystic Swamp]
+  Reviews:
+    Wizard's Realm					#26	pg 39
+
+WORLD WAR II [TSR]
+  Rules, Official Q&A:
+    World War II Game Errata				#42	pg 35
+  Reviews:
+    World War II					#42	pg 34
+
+WORLDS OF WONDER [Chaosium]
+  Background, Magic World:
+    Zarzeena's World, by Steve Perrin			#20	pg 8-9
+  Reviews:
+    Worlds of Wonder					#22	pg 36-37
+  [Also See SUPERWORLD]
+
+YSGARTH [Ragnarok Enterprises]
+  Reviews:
+    The Ysgarth Rule System				#23	pg 43-44
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

@@ -1,0 +1,1733 @@
+			   THE SHADIS INDEX
+			     VERSION 0.70
+
+		    Including Shadis [issues 8-29]
+
+		and Shadis Presents [issues 17.5-20.5]
+
+                           by Shannon Appel
+                           (appel@erzo.org)
+
+HISTORY, 1990-PRESENT
+
+Shadis magazine was founded in January of 1990. Originally Shadis,
+then subtitled "The Fantasy Games Magazine", had a heavy basis in the
+editor's fantasy world of Alderac. In fact, the name of the magazine
+is derived from the name of one of the moons of that world. 
+
+Early issues were strictly fanzine material: they featured mainly
+fiction and background regarding Alderac, although in later issues,
+emphasis on the rest of the industry slowly began to increase. The
+first six issues of Shadis were 60-64 page black and white digests.
+The seventh and eighth issues, though still black and white were
+full-sized magazines.
+
+Shadis magazine was almost killed by Operation Desert Storm. Because
+Jolly Blackburn, the Editor, was a Sergeant in the US armed forces,
+other duties called him away from Shadis in 1992 and 1993. Between
+issues 6 and 8, a full year and a half passed.
+
+Between June and September of 1993, Shadis magazine underwent a huge
+metamorphosis: it managed to make the leap from fanzine to
+full-fledged gaming magazine. The cover became full color, and
+three-colors began being used on some interior pages. The subtitle of
+Shadis was changed to "The Independent Games Magazine", and the
+magazine did an excellent job of expanding to cover the entire
+industry. Since then, Shadis has slowly and steadily improved,
+becoming occasionally longer, and making more use of interior color.
+
+From mid-1993 to the end of 1994, Shadis was released on a bi-monthly
+basis. For the year of 1995, this changed. A companion magazine to
+Shadis was created, called Shadis Presents. Issues of Shadis Presents
+were released in between issues of Shadis, and numbered in the same
+sequence. The first issue of Shadis Presents was #17.5. Although
+Shadis Presents included many of the same features as Shadis, it was
+more likely to devote an entire issue to one specific aspect of the
+gaming hobby. Shadis' schedule slipped slightly due to Shadis
+Presents, but a total of 10 issues of Shadis (and Shadis Presents)
+were shipped in 1995.
+
+After issue 21, Shadis underwent another change. The original editor,
+Jolly Blackburn left, and was replaced by DJ Trindle. Shadis Presents
+was cancelled as a regular magazine as of #20.5 (although it still may
+return as an infrequent bonus issue), and Shadis became monthly. With
+issue 23, certain new features began to appear in Shadis, including
+reviews and fiction. A more graphical layout appeared at the same
+time. Sadly, the layout is a bit over the edge, into the realm of d8
+and Inphobia, two magazines which recently failed, due to their
+concentration on style over substance; in addition, some of the
+professionalism of the magazine has been scraped away, replaced by the
+type of chummy commentary that one would expect in a fanzine.
+
+Of special note is the fact that Strange Vistas, the magazine which
+Alderac at one time promised, seems to have been totally incorporated
+into the new rejuvenated magazine.
+
+Despite its recent changes, Shadis is still one of the top few
+magazines in the RPG industry. It tends to feature not only articles
+for a variety of different game systems, but it also a very large
+number of generic articles, applicable for any system of a specific
+genre. The newest issues raise some doubt about that rating, but
+hopefully things will stabilize, and the new Shadis will find its own,
+new center, as a professional gaming magazine for the entire industry.
+
+THEME ISSUES
+
+#17.5	Shadis Presents: The World of Collectible Card Games 	(CCG)
+#18.5	Shadis Presents: It Came from Hollywood 		(MOVIE/TV)
+#19.5	Shadis Presents: All Things Dark and Dangerous		(HORROR)
+
+CONTACT INFO
+
+Shadis can be contacted on the net at:
+
+	shadis2@aol.com
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems.  In
+addition, there are also a number of GENERAL categories, for CCGs
+(Collectible Card Games), CYBER, EARTH, FANTASY, HORROR, LARPs,
+MILITARY, MODERN, PIRATE, SCIENCE FICTION, SPY, STEAMPUNK,
+SUPERHEROES, TIME TRAVEL, WAR GAMES and WESTERNS. All of the GENERAL
+categories are for articles about the appropriate genre that may be
+applied to any game that uses that background. There are also
+categories for FICTION, INTERVIEWS and SPOTLIGHTS.
+
+A NOTE ON THIS INDEX
+
+This index only includes the issues of Shadis which were widely
+available in gaming shops, namely 8 and up. I will add the rest of the
+fanzine issues, if I can get my hands on a set of them. If anyone can
+help me obtain the first seven issues, please drop me a line.
+
+Shadis Presents is also included in this index.
+
++------------------------------------------------------------------+
+| This index is Copyright 1996 Shannon Appel.  It may be freely    |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+REGULAR FEATURES
+  Misc:
+    An Axe to Grind, INDUSTRY DISCUSSIONS, #13			[AATG:]
+    Electronic Frontiers, INTERNET INFO, #11-13
+    Fun & Games, GAMING INTERVIEWS, #8				[Fun...]
+    Knight Gallery, ARTIST SPOTLIGHTS, #9-17			[KG:]
+    Shadis Interrogations, GAMING INTERVIEWS, #9-10,12,17,18.5	[SI:]
+  Comic Strips:
+    Bright Future, SF COMIC, #9-16,18
+    Dirk, #23-29
+    Fineous Fingers (1), FANTASY COMIC, #12-16,18-21,23,25
+    Joe Genero, HUMOR COMIC, #10-11,13-21,23,25
+    Knights of the Dinner Table (2), HUMOR COMIC, #8,10-21,17.5-20.5
+    Parting Shots, HUMOR COMIC, #8
+    Stick Figure Theatre!, HUMOR COMIC, #20-22,20.5
+    That's New, HUMOR COMIC, #13
+    Towers in Time Adventures, TOWERS IN TIME COMIC, #17.5
+  Gaming Aids:
+    All Things Magic, MAGIC IDEAS, #8				[ATM:]
+    Close Encounters of the Random Kind, RND TABLES, #14-19,23-25
+								[CERK:]
+    The Good, The Bad & The Ugly, NPCs, #14-19,21-22,25-26,28,19.5
+    Hook, Line and Sinker, VIGNETTES, #8-21,18.5		[HLS:]
+    Lights, Camera, Action, VIGNETTES, #24-29			[LCA:]
+    Plotwerks, GENERIC BACKGROUND, #19.5,20.5			[PW:]
+    Real Spies, SPY BACKGROUND, #17-20,22			[RS:]
+    Reality Check, GENERAL BACKGROUND INFO, #27-28		[RC:]
+    Rustlers of the Night, AD&D ALDERAC CREATURES, #8		[RotN:]
+    Shadis Realty Company, GENERIC MAPS, #14			[SRC:]
+    Strange Vistas, GAME FICTION, #23-28			[SV:]
+  News:
+    Bits N' Pieces, NEWS & NEW RELEASES, #8-20,18.5
+    Damage Control, CARP-GA NEWS, #8				[DC:]
+    Gaming Industry News, INDUSTRY NEWS, #25
+    The Other Stuff, INDUSTRY NEWS, #23-24
+    In the Cards, CARD GAME NEWS, #17.5
+    Up My Sleeve, CARD GAME NEWS ETAL, #15-21
+  Reviews:
+    Cardiology, FANTASY ART CARD REVIEWS, 18-20,17.5,19.5
+    Casting Call, MINIATURES REVIEWS, #23-27,29			[CC:]
+    Closer Look, COMPUTER REVIEWS, #8-9
+    Disks of Wondrous Power, COMPUTER REVIEWS, #10-11,14-16
+    Lost Treasures, CLASSIC REVIEWS, #27-29			[LT:]
+    New Perspectives, MINIATURE REVIEWS, #10-22			[NP:]
+    The Flag Bridge, PBM SECTION, #19-22
+    Post Marque, PBM SECTION INCLUDING REVIEWS, #9-18
+    Reviews, COMPUTER REVIEWS, #23-26
+    Zine Scene, FANZiNE REVIEWS, #11-20,20.5			[ZS:]
+
+Note: an entry such as "17-18" includes issues 17 and 18 only, not
+17.5. An entry such as "17.5-18.5" includes issues 17.5 and 18.5 only,
+not 18. The half issues are listed after the normal issues.
+
+(1) Fineous Fingers has previously appeared in DRAGON MAGAZINE
+    #3-4,6-7,9-22,25-28,30,33,35, THE FINEOUS TREASURY (TSR), some
+    further issues of DRAGON MAGAZINE, and SPACE GAMER. Of note is the
+    fact that the FINEOUS TREASURY reprinted the run in DRAGON from #3
+    to 35, besides including a brand-new story. The current
+    incarnation of Fineous Fingers is written by JA Holmgren, not the
+    creator, JD Webster. The style has been decidedly different from
+    the original.
+
+(2) Some Knights of the Dinner Table strips have been reprinted in
+    KNIGHTS OF THE DINNER TABLE #1-3. In addition, new comics have
+    appeared there. After Knights of the Dinner Table finished its
+    Shadis run, it began appearing in DRAGON magazine, starting with
+    #226
+
+2300 AD	[GDW]						**RPG SF**
+  Reviews:
+    LT: 2300AD						#28	pg 84
+
+ABALONE [Galoob]					**BOARD MISC**
+  Reviews:
+    Abalone [mini]					#10	pg 60
+
+ADVANCED DUNGEONS & DRAGONS [TSR]			**MISC FANTASY**
+  Adventures, Kingspoint:
+    The Blue Robed Man at the Iron Mule, by Luke Ahearn	#9	pg 17-19
+  Class, Paladin:
+    Rethinking the Paladin, by Leonard & Ann Wilson	#19	pg 53-58
+  Creatures, Misc:
+    The Necrology of the Vampire, by Spike Y. Jones	#17	pg 20-22
+    ATM: Sentient Spell Creations, by Charles Caffrey	#8	pg 39-41
+  Creatures, Alderac, Stats:
+    RotN: Dark Gouger, by JR Blackburn			#8	pg 33-34
+    RotN: Saw-Backed Lunger, by JR Blackburn		#8	pg 31
+    RotN: Sturm-Wolf, by JR Blackburn			#8	pg 32
+  Magic, Misc:
+    ATM: Sentient Spell Creations, by Charles Caffrey	#8	pg 39-41
+  Races, Sasti:
+    Developing New Races, by Ken J. Carpenter		#17	pg 35-40
+  Reviews, Kenzer & Company:
+    Tragedy in the House of Brodeln			#21	pg 10
+  Reviews, Star Quest Games:
+    ZS: Dungeonier Digest				#14	pg 54
+  Reviews, TSR:
+    Birthright						#21	pg 9
+    Birthright Product Line				#24	pg 87
+    Dark Sun Campaign Setting				#24	pg 86
+    PHBR5: The Psionic Handbook				#8	pg 43-44
+    PHBR10: The Complete Book of Humanoids		#9	pg 35
+    Spellbound						#23	pg 84-85
+
+ADVENTURE MAXIMUM [Worldmaster Designs]			**RPG MISC**
+  Reviews:
+    Adventure Maximum				[mini]	#10	pg 59
+    Adventure Maximum					#15	pg 77-79
+    ZS: Gaming Maximum					#14	pg 55
+
+AMBER DICELESS ROLE-PLAYING [Phage]			**RPG FANTASY**
+  Advice, Game Master:
+    Amber Diceless, by Nicole Lindroos Frein		#12	pg 25-26
+  Reviews:
+    Amber Diceless Role-Playing				#10	pg 55
+
+ARIA: CANTICLE OF THE MONOMYTH [Last Unicorn Games]	**RPG FANTASY**
+  Reviews:
+    Aria: Canticle of the Monomyth			#17	pg 71-73
+    Aria: Canticle of the Monomyth			#18	pg 69-72
+
+THE BABYLON PROJECT [Wireframe]				**RPG SF**
+  Previews:
+    The Babylon Project					#29	pg 90
+
+BATTLELORDS [Optimus Design]				**CCG SF**
+  Accessories, Card Lists:
+    Battlelords						#22	pg 42-43
+
+BATTLELORDS OF THE 23RD CENTURY [Optimus Design]	**RPG SF**
+  Adventures:
+    Bug Hunt, by DBA Productions			#23	pg 46-59
+    Bug Hunt Part Two, by DBA Productions		#24	pg 53-63
+  Reviews:
+    Battlelords of the 23rd Century Product Line	#23	pg 82-83
+    Battlelords of the 23rd Century		[mini]	#10	pg 58
+
+BATTLETECH [FASA]					**BOARD SF**
+  Adventures:
+    NP:Jade Falcon Scenerio, by Ken Carpenter		#15	pg 83-86
+    Pirates of Eagle Talon III, by Zinser & Satchell	#12	pg 28-32
+  Background, Historical:
+    CC: All About BT*, by Ken Carpenter			#27	pg 78-79
+  Reviews:
+    NP: Citytech, Second Edition			#20	pg 97-98
+    Virtual World Center				#11	pg 33-36
+
+BLACKBEARD [Avalon Hill]				**BOARD PIRATE**
+  Reviews:
+    Blackbeard						#11	pg 71
+
+BLACK DEATH [BTRC]					**BOARD MISC**
+  Reviews:
+    Black Death						#9	pg 36
+
+BLOOD BERETS [Heartbreaker Games]			**MINIATURES SF**
+  Reviews:
+    Blood Berets					#10	pg 69-70
+
+BLOOD DAWN [Optimus Design]				**RPG SF**
+  Reviews:
+    Blood Dawn						#26	pg 75
+
+BLOODSHADOWS [West End Games]				**RPG FANTASY**
+  Reviews:
+    Bloodshadows					#16	pg 72
+
+BLOOD WARS [TSR]					**CCG FANTASY**
+  Accessories, Card Lists:
+    Blood Wars						#19	pg 96-97
+    Blood Wars						#22	pg 43-44
+    Escalation Pack I					#22	pg 44
+
+BOARD GAMES, GENERAL					**BOARD MISC**
+  Advice, Players:
+    Weasel Games #1, by Lester Smith			#23	pg 68-69
+    Weasel Games #2, by Lester Smith			#24	pg 68-69
+    Weasel Games #3, by Lester Smith			#25	pg 68-69
+    Weasel Games #4, by Lester Smith			#26	pg 68-69
+
+BUBBLE GUM CRISIS [R. Talsorian]			**RPG SF**
+  Previews:
+    Bubble Gum Crisis					#29	pg 90
+
+BUREAU 13 [Tri Tac Systems]				**RPG OCCULT**
+  Reviews:
+    Bureau 13						#17	pg 74
+    ZS: Terror Watch					#17	pg 74
+
+BUSHIDO [FGU]						**RPG ORIENTAL**
+  Reviews:
+    LT: Bushido						#29	pg 86
+  
+CALL OF CTHULHU [Chaosium]				**RPG HORROR**
+  Meta:
+    To Do What We Must, by John Wick			#22	pg 85-87
+  Adventures, 1920s:
+    Crude Oil, Part 1, by Matt Staroscik & John Wick	#26	pg 38-51
+  Adventures, 1990s:
+    Crude Oil, Part 2, by Matt Staroscik & John Wick	#27	pg 27-38
+  NPCs, 1920s:
+    Bad Company, by Jolly R. Blackburn			#13	pg 39-45
+  Rules, Death:
+    Is This Heaven?, by Ben Leeb			#19.5	pg 66-68
+  Rules, Insanity:
+    Modern Madness, by Maria Alexander Douglas		#19.5	pg 42-52
+  Review, Chaosium:
+    Call of Cthulhu Line				#26	pg 76-77
+  Review, Pagan Publishing:
+    Pagan Publising Line				#26	pg 84
+    Coming Full Circle					#26	pg 85
+    Devil's Children					#13	pg 71
+    Grace Under Pressure			[mini]	#10	pg 58
+    Walker in the Wastes				#26	pg 85
+    ZS: The Unspeakable Oath				#17	pg 96
+  [Also See: EARTH, GENERAL]
+
+CASTLE FALKENSTEIN [R. Talsorian]			**RPG FANTASY**
+  Reviews:
+    Castle Falkenstein					#16	pg 71-72
+    The Book of Sigils					#26	pg 87
+    Comme Il Faut					#24	pg 85
+    The Lost Notebooks of Leonardo da Vinci		#26	pg 87
+    Six-Guns adn Sorvery				#29	pg 94
+
+CASTLE OF MAGIC [Riddle Master Games]			**BOARD FANTASY**
+  Reviews:
+    Castle of Magic					#13	pg 73
+
+
+CCG, GENERAL						**CCG MISC**
+  Games:
+    Bicycle: The Gathering, by Ryan Dancey		#17.5	pg 62
+  Meta:
+    Guide to the Card Game Aftermarket, by D. Williams	#17.5	pg 20-21
+
+CHAMPIONS [Hero]					**RPG SUPERHEROES**
+  Adventures:
+    Reflections, by Chris Avellone			#18	pg 38-46
+  Fiction, Dark Champions:
+    SV: Heartwrencher's Lament, by Edward J. Carmien	#26	pg 16-23
+  Reviews:
+    Dark Champions					#9	pg 36
+    Hudson City Blues					#18	pg 67
+    Viper						#11	pg 40-41
+  [Also See: HERO SYSTEM]
+
+CHANGELING: THE DREAMING [White Wolf]			**RPG FANTASY**
+  Reviews:
+    Changeling: The Dreaming				#23	pg 84-85
+    Immortal Eyes: The Toybox				#24	pg 84-85
+
+CHILL [Mayfair]						**RPG HORROR**
+  Reviews:
+    The Chill Product Line				#19.5	pg 74-77
+
+CONSPIRACY X [New Millennium Entertainment]		**RPG SF**
+  Reviews:
+    Conspiracy X					#25	pg 89
+
+CYBER, GENERAL						**RPG CYBER**
+  Advice, Gamemaster:
+    Walking on the Cybernetic Edge, by Dave Pilurs	#14	pg 48-51
+  Vignettes:
+    HLS: Price of Success, by J. Scott Garibay		#13	pg 31
+    HLS: Problem Politics, by J. Scott Garibay		#13	pg 30-31
+    LCA: The SHipment, by Fredrich Passow		#27	pg 63
+
+CYBERPUNK 2020 [R. Talsorian]				**RPG CYBER**
+  Adventures, Cybergeneration:
+    "...And Jack Left Town", by DBA Productions		#25	pg 44-52
+    "...And Jack Left Town", Part II, by Stolze & Williams                                                                              #26     pg 57-61
+  Background, Organizations, Yogangs:
+    Ferals, by Serge Stelmack				#25	pg 39-43
+  Rules, Insanity:
+    Psychology of Insanity, by Maria Alexander Douglas	#15	pg 17-24
+  Reviews, Atlas Games:
+    Bonin Horse						#9	pg 34
+  Reviews, R. Talsorian:
+    Cyber Generation				[mini]	#10	pg 58
+    Cyber Generation					#25	pg 80
+
+CYBERWORLD [Dark Age Games]				**LARP SF**
+  Reviews:
+    Cyberworld						#26	pg 91
+    
+DARK CONSPIRACY [GDW]					**RPG HORROR**
+  Adventures, Proto-Dimension:
+    Shades of Despair, by William Spencer-Hale		#19.5	pg 18-20
+  Background, Proto-Dimension:
+    Journeys Beyond, by William Spencer-Hale		#19.5	pg 13-20
+  Reviews:
+    Minion Nation					#9	pg 31
+
+DARKURTHE LEGENDS [Black Dragon Press]			**RPG FANTASY**
+  Reviews:
+    Darkurthe Legends					#9	pg 34
+    ZS: Lost Legends Quarterly				#14	pg 54
+
+DCS [David M. Fitzgerald]				**RPG MISC**
+  Reviews:
+    DCS Basic Book					#10	pg 56
+
+DIXIE [Columbia Games]					**CCG WAR**
+  Accessories, Card Lists:
+    Dixie: First Bull Run Edition			#17.5	pg 45
+  Adventures:
+    The First Battle of Manassas			#17.5	pg 44
+  Reviews:
+    Dixie						#17.5	pg 35
+
+DON'T LOOK BACK [Mind Ventures Games]			**RPG HORROR**
+  Reviews:
+    Don't Look Back					#21	pg 10
+
+DOOM TROOPER [Heartbreaker]				**CCG SF**
+  Accessories, Card Lists:
+    Doom Trooper					#16	pg 65
+  Rules, Variant:
+    Combat Card Chess, by David Williams		#17.5	pg 8-13
+  Reviews:
+    Doom Trooper					#17.5	pg 34
+    NP: Inquisition Expansion				#20	pg 102-103
+  [Also See: MUTANT CHRONICLES]
+
+DREAM PARK [R. Talsorian]				**RPG MISC**
+  Reviews:
+    Dream Park						#11	PG 38-39
+
+DUNGEONS & DRAGONS [TSR]				**RPG FANTASY**
+  Reviews:
+    LT: B1: In Search of the Unknown			#28	pg 85
+    LT: B2: The Keep on the Borderlands			#29	pg 86
+
+EARTH, GENERAL						**RPG MISC**
+  Background, Misc, Organizations:
+    Nazis... I Hate These Guys, by Dave Dollar		#20.5	pg 34-46  
+  Background, Geographical, Misc:
+    CERK: Myth and Magic Locations, by Jolly Blackburn	#17	pg 52-55
+    Tomb of Turases III, by Blackburn & Jacobs		#17	pg 56-57
+  Background, Geographical, Germany:
+    Nazis... I Hate These Guys, by Dave Dollar		#20.5	pg 34-46  
+  NPCs, 1920s:
+    Bad Company, by Jolly R. Blackburn			#13	pg 39-45
+  Random Tables:
+    CERK: Myth and Magic Locations, by Jolly Blackburn	#17	pg 52-55
+
+EARTHDAWN [FASA]					**RPG FANTASY**
+  Background, Causoban:
+    Causoban, by Kevin Jones & etal			#24	pg 44-52
+    Causoban, Part Two, by Kevin Jones			#25	pg 25-31
+  Character Generation, Disciplines:
+    Assassin Discipline, by Kevin Jones			#25	pg 30-31
+  Vignettes:
+    HLS: The Blunderer, by Ian Reid			#18	pg 63
+  Vignettes, Causoban:
+    Causoban, Part Two, by Kevin Jones			#25	pg 25-31
+  Reviews:
+    Earthdawn Product Line				#24	pg 76-77
+    Earthdawn						#10	pg 29-31
+    ZS: Earthdawn Journal				#19	pg 76
+
+ECHELONS [Medallion Simulations]			**CCG WAR**
+  Accessories, Card Lists:
+    Echelons of Fire					#19	pg 93
+    Echelons of Fury					#19	pg 93
+  Previews:
+    Echelons of Fire					#19	pg 92
+    Echelons of Fury					#19	pg 92
+
+EVERWAY [WotC]						**RPG FANTASY**
+  Reviews:
+    Everway						#25	pg 83
+
+EXILE [White Wolf]					**RPG SF**
+  Previews:
+    Exile						#29	pg 91
+
+FADING SUNS [Holistic]					**RPG SF**
+  Adventures:
+    Pandemonium Unchained, by Andrew Greenberg		#28	pg 39-44
+  Reviews:
+    Fading Suns						#29	pg 93
+
+FAMILY BUSINESS [Mayfair]				**CARD GANGSTER**
+  Rules, Variant:
+    Mobsters on the Block, by Darwin Bromley		#17.5	pg 64
+
+FANTASY, GENERAL					**MISC FANTASY**
+  Adventures:
+    Code of the Rats, by Dave Dollar			#21	pg 30-60
+    The Dread Forest Biyll, by WM. L. Hahn		#22	pg 73-77
+  Advice, Players, Role-Playing:
+    Role-Playing the Romantic Heroine, by G. LaBrie	#22	pg 89-93
+  Background, Misc, Cities:
+    SRC: Generic Port, by E. Ken Cox			#14	pg 61
+    Henley's (Tavern), by Michael Lambert		#18	pg 13-21
+    CERK: Tavern or Inn, by John W. Baichtal		#16	pg 55
+    CERK: Waterfront/Wharf Area, by Jolly R. Blackburn	#14	pg 60
+  Background, Misc, Folklore:
+    Role of Gemstones, by Jeffrey Yette			#22	pg 15-18
+  Background, Misc, Law:
+    Just Spoils for the Unjust, by Jolly Blackburn (1)	#8	pg 12-27
+  Background, Misc, Organizations:
+    The Importance of Family Clans, Pt 1: The Medieval Clan, by L. & A. Wilson                                                          #20     pg 47-50
+    The Importance of Family Clans, Pt 2: Developing Clans, by L. & A. Wilson                                                           #21     pg 24-29
+  Background, Alderac, Bowmar Island:
+    Bowmar Island, by Jolly R. Blackburn		#12	pg 44-52
+  Background, Alderac, Grod Mondre:
+    Arena of Death, by Jolly R. Blackburn		#10	pg 40-54
+  Background, Alderac, Teron:
+    Teron: Den of Thieves, by Jolly R. Blackburn	#18	pg 50-57
+  Background, Movies, Braveheart, Introduction:
+    Angry Men in Kilts, by Rob Vaux			#20	pg 21-29
+  Campaign Design, Adventures:
+    The Aliens Are Coming!, by Larry Granato		#26	pg 5-14
+    Back to the Dungeons, by Rich Warren		#18.5	pg 8-10
+    The Best Things in Life... Aren't Things, by Steve Madill                                                                           #20     pg 51-59
+    Facing Death in RPGs, by Todd Cumming		#20	pg 66-67
+  Campaign Design, Cities:
+    Town Generator, by Neale Davidson			#18	pg 23-24
+  Campaign Design, Encounters:
+    CERK: Woodland Fairie Encounters, by Paul Lucas	#23	pg 61-63
+  Campaign Design, Wilderness:
+    CERK: Woodland Fairie Encounters, by Paul Lucas	#23	pg 61-63
+  Creatures, Misc:
+    And The Ugly, by Misc				#14	pg 67
+  Cults, Ork:
+    Ork: A New Look, by John Wick			#24	pg 8-18
+  Equipment, Magic Items:
+    Holy Swords for Any Campaign			#19	pg 69-75
+    Role of Gemstones, by Jeffrey Yette			#22	pg 15-18
+  Fiction, Alderac:
+    Bones of Ruin, Part VIII: The Road Home, by Jolly R. Blackburn                                                                      #8      pg 6-10,52-59
+  Magic:
+    The Divine Sibyls, by Tonia Walden			#29	pg 67-69
+    Familiars for Scoundrels, by Steve Berman		#28	pg 23-26
+    Magical Merchants, by Christina Wald		#15	pg 40-44
+    RC: Magicians, by John Wick				#28	pg 91
+    CERK: Magical Side Effects Table, by Frank Merenda	#18	pg 48-49
+    Role of Gemstones, by Jeffrey Yette			#22	pg 15-18
+  NPCs, Misc:
+    Armies on the March, by Larry Granato		#21	pg 17-22
+    The Divine Sibyls, by Tonia Walden			#29	pg 67-69
+    Illuminating the Enemy, by Phillips & Sanderson	#17	pg 24-28
+    Magical Merchants, by Christina Wald		#15	pg 40-44
+    Noble Encounters, by Larry Granato			#20.5	pg 71-76
+    NPCs Get a Life, by Larry Granato			#17	pg 30-34
+    Tuning Up Your Armies, by Brian J. Philips		#16	pg 10-13
+  NPCs, Misc, Stats:
+    The Good, The Bad & The Ugly, by Misc		#14	pg 65-66
+    The Good, The Bad & The Ugly, by Misc		#16	pg 43-45
+    The Good, The Bad & The Ugly, by Misc		#17	pg 49-51
+    The Good, The Bad & The Ugly, by Misc		#19	pg 82-84
+    The Good, The Bad & The Ugly, by Misc		#21	pg 61-64
+    The Good, The Bad & The Ugly, by Misc		#25	pg 53-55
+  NPCs, Alderac, Stats:
+    Arena of Death, by Jolly R. Blackburn		#10	pg 53-54
+  NPCs, Movies, Braveheart, Stats:
+    Angry Men in Kilts, by Rob Vaux			#20	pg 21-29
+  Races, Misc:
+    Developing New Races, by Ken J. Carpenter		#17	pg 35-40
+  Races, Ork:
+    Ork: A New Look, by John Wick			#24	pg 8-18
+  Races, Sasti:
+    Developing New Races, by Ken J. Carpenter		#17	pg 35-40
+  Random Tables:
+    CERK: Magical Side Effects Table, by Frank Merenda	#18	pg 48-49
+    CERK: Tavern or Inn, by John W. Baichtal		#16	pg 55
+    CERK: Waterfront/Wharf Area, by Jolly R. Blackburn	#14	pg 60
+    CERK: Woodland Fairie Encounters, by Paul Lucas	#23	pg 61-63
+  Rules, Clans:
+    The Importance of Family Clans, Pt 2: Developing Clans, by L. & A. Wilson                                                           #21     pg 24-29
+  Rules, Combat, Misc:
+    Arena of Death, by Jolly R. Blackburn		#10	pg 40-54
+  Rules, Combat, Mass:
+    Armies on the March, by Larry Granato		#21	pg 17-22
+    Mapless System for Mass Combat, by Greg Stolze	#12	pg 9-14
+    Tuning Up Your Armies, by Brian J. Philips		#16	pg 10-13
+  Vignettes, Misc:
+    The Divine Sibyls, by Tonia Walden			#29	pg 67-69
+    Hook, Line & Sinker, by Misc			#8	pg 36-38
+    Hook, Line & Sinker, by Misc			#9	pg 13-15
+    Hook, Line & Sinker, by Misc			#10	pg 61-63
+    Hook, Line & Sinker, by Misc			#11	pg 26-28
+    Hook, Line & Sinker, by Misc			#12	pg 55-56
+    Hook, Line & Sinker, by Misc			#13	pg 25-29
+    Hook, Line & Sinker, by Misc			#14	pg 62-63
+    Hook, Line & Sinker, by Misc			#15	pg 45-46
+    Hook, Line & Sinker, by Misc			#16	pg 46-48
+    Hook, Line & Sinker, by Misc			#17	pg 47-48
+    Hook, Line & Sinker, by Misc			#18	pg 62-63
+    Hook, Line & Sinker, by Misc			#18.5	pg 25-27
+    Hook, Line & Sinker, by Misc			#19	pg 67
+    Hook, Line & Sinker, by Misc			#20	pg 76    
+    Hook, Line & Sinker, by Misc			#21	pg 65-66
+    Lights, Camera, Action, by Larry Granato		#24	pg 19
+    Lights, Camera, Action, by Misc			#27	pg 62-63
+    Lights, Camera, Action, by Misc			#28	pg 64-65
+    Lights, Camera, Action, by Misc			#29	pg 65
+    LCA: Dead From the Hills, by John Wick		#25	pg 58
+    LCA: Not Drowning, Waving, by Tonia Walden		#26	pg 62-63
+    NPCs Get a Life, by Larry Granato			#17	pg 30-34
+  Vignettes, Alderac, Grod Mondre:
+    HLS: The Assassination, by John Zinser		#10	pg 63
+    HLS: The Great Dilemma, by Jolly Blackburn		#10	pg 62-63
+    HLS: The Sand of Death, by John Zinser		#10	pg 63
+    HLS: The Scout, by John Ziner			#10	pg 63
+    HLS: A Slave's Life, by John Zinser			#10	pg 62
+  Reviews, Misc, 'zines:
+    ZS: Realms of Fantasy				#19	pg 77
+  Reviews, Cloud Kingdom Games Inc:
+    Riddle Rooms #1					#13	pg 67
+  Reviews, Flying Buffalo:
+    Maps Book 1: Cities				[mini]	#10	pg 60
+  Reviews, Kenzer & Company:
+    The Kingdoms of Kalamar				#16	pg 70-71
+    Tragedy in the House of Brodeln			#24	pg 84
+  Reviews, Ragnorak:
+    The Art of Role-Playing, Vol. One			#11	pg 42
+
+(1) Revised form of an article which originally appeared in SHADIS #2.
+
+FENG SHUI [Daedelus]					**RPG SF**
+  Fiction:
+    Like A Rat, by Greg Stolze				#27	pg 18-24
+  Reviews:
+    Feng Shui						#27	pg 84-85
+    Marked for Death					#28	pg 88
+  [Also See: SHADOWFIST]
+
+FICTION							**MISC MISC**
+  Fantasy, General, Alderac:
+    Bones of Ruin, Part VIII: The Road Home, by Jolly R. Blackburn                                                                      #8      pg 6-10,52-59
+  Champions:
+    SV: Heartwrencher's Lament, by Edward J. Carmien	#26	pg 16-23
+  Feng Shui:
+    Like A Rat, by Greg Stolze				#27	pg 18-24
+  Legacy:
+    SV: All that Cuts, by Douglas Hulick		#24	pg 26-33
+  Lost Souls:
+    SV: Mate in Three, by Greg Stolze			#23	pg 34-42
+  Paranoia:
+    The Heroes of Alpha Complex, by Jonathan Tweet	#29	pg 34-41
+  Pod Blue:
+    Pod Blue, Part I: Massacre at Devon's Reef, by JR Blackburn                                                                         #19    pg 31-41
+  Talislanta:
+    SV: Key of Green, by Douglas Hulick			#25	pg 32-38
+  Torg:
+    The Heroes of Alpha Complex, by Jonathan Tweet	#29	pg 34-41
+
+FLASHPOINT! [Virtual Fusion]				**MINIATURES SF**
+  Reviews:
+    NP: Flashpoint!					#16	pg 83-84
+
+FLIGHTS OF FANTASY [Destini]				**CARD MISC**
+  Accessories, Card Lists:
+    Flights of Fantasy					#18	pg 77
+  Previews:
+    Flights of Fantasy					#16	pg 62
+
+FRINGEWORTHY [Tri Tac Games]				**RPG SF**
+  Reviews:
+    Fringeworthy					#17	pg 74
+
+FTL:2448 [Tri Tac Games]				**RPG SF**
+  Reviews:
+    FTL:2448						#17	pg 74
+
+FUDGE [Steffan O' Sullivan, Wild Mule]			**RPG MISC**
+  Reviews:
+    FUDGE						#17	pg 78-81
+
+FULL THRUST [Ground Zero Games]				**MINIATURES SF**
+  Reviews:
+    Full Thrust						#11	pg 42
+
+GALACTIC EMPIRES [Companion]				**CCG SF**
+  Accessories, Card Lists:
+    Galactic Empires					#16	pg 64
+  Reviews:
+    Galactic Empires					#17.5	pg 34-35
+
+GANGBUSTERS [TSR]					**RPG GANGSTER**
+  NPCs:
+    Bad Company, by Jolly R. Blackburn			#13	pg 39-45
+
+GANGLAND! [Corglenberg Ltd.]				**CARD GANGSTER**
+  Reviews:
+    Gangland!						#25	pg 87
+
+GANGSTERS [Avalon Hill]					**BOARD GANGSTER**
+  Reviews:
+    Gangsters						#11	pg 70
+
+GATECRASHER [Hot Tub Dragon Games]			**RPG FANTASY/SF**
+  Reviews:
+    Gatecrasher						#10	pg 55-56
+
+GATEWAR [Escape Ventures, Inc.]				**RPG FANTASY**
+  Reviews:
+    Gatewar						#26	pg 86
+
+GENERAL							**MISC MISC**
+  Meta:
+    
+    DC: The Evidence on Role-Playing Games, by Paul Cardwell, Jr.                                                                       #8      pg 47-48
+    AATG: Industry Parallels, by Greg Stolze		#13	pg 8-9
+    A Look at Role-Playing in Hungary, by Nadori Gergel	#13	pg 18-19
+    Making the Scene, by Spike Y. Jones			#20.5	pg 85-91
+    Shakespeare Didn't Need Dice, by John Wick		#19	pg 63-64
+    The Unofficial Gamer's Lexicon, by Paul Lucas	#27	pg 57-60
+  Introduction, Misc:
+    An Introduction to the World of Role-Playing, by Michael Halse                                                                      #12     pg 6-7
+  Introduction, History:
+    Part 1: Pre-History and the Early Days: RPGs to 1976, by Victor Raymond                                                             #17     pg 12-19
+  Accessories:
+    Playing with Props, by Roger Spendlove		#22	pg 10-13
+  Adventures:
+    Ridiculous Manor, by Dave & Michele Newton		#16	pg 26-39
+  Advice, Gamemasters:
+    The Big Event, by Larry Granato			#25	pg 19-22
+    The Case of the Missing Player, by Robert Baldwin	#29	pg 19-21
+    Creating Characters for Conventions, by Mark Durall	#28	pg 19-22
+    Playing with Props, by Roger Spendlove		#22	pg 10-13
+  Advice, Players, Misc:
+    Playing with Props, by Roger Spendlove		#22	pg 10-13
+    Weasel Games #5, by Lester Smith			#27	pg 68-69 
+    Weasel Games #6, by Lester Smith			#28	pg 76-77
+    Weasel Games #7, by Lester Smith			#29	pg 74-75
+  Advice, Players, Role-Playing:
+    Character for Characters, by Jeff Tidball		#22	pg 78-84
+  Background, Misc:
+    The Beauty of the Slums, by Joseph Johaneman	#29	pg 23-25
+  Background, Legal:
+    Police Encounters!, by Larry Granato		#15	pg 26-30
+    Travel Papers in RPGs, by PJ Masters		#18	pg 26-31
+  Background, Science:
+    Forensic Facts, by Matt Staroscik			#19.5	pg 21-26
+  Campaign Design, Misc:
+    And the Devil Will Drag You Under, by Larry Granato	#22	pg 36-39
+    The Big Event, by Larry Granato			#25	pg 19-22
+    Creating Your Favority RPG, by Louis J. Prosperi	#18.5	pg 51-67
+    Foundations of Civilization, by Roger P. Spendlove	#23	pg 7-17
+  Campaign Design, Adventures:
+    CERK: Scenario Creation System, by Matt Stevens	#25	pg 59-63
+  Campaign Design, Encounters:
+    Police Encounters!, by Larry Granato		#15	pg 26-30
+  NPCs:
+    Archetypes for NPCs, by Larry Granato		#20	pg 60-65
+    Malicious Intent, by Serge Stelmack			#23	pg 43-44
+  Random Tables:
+    CERK: Scenario Creation System, by Matt Stevens	#25	pg 59-63
+  Vignettes:
+    HLS: BBC Calling, by Jolly R. Blackburn		#18.5	pg 25-27
+    The Big Event, by Larry Granato			#25	pg 19-22
+    HLS: Sorry, Wrong Car, by Matt Staroscik		#21	pg 66
+  Reviews, Misc, 'zines, Misc:
+    ZS: The Adult Gamer					#15	pg 59
+    ZS: Adventures Unlimited				#20.5	pg 79
+    ZS: Alarums & Excursions				#13	pg 75
+    ZS: Australian Realms				#19	pg 77
+    ZS: Camelot '94					#15	pg 59
+    ZS: Collectible Games Monthly			#15	pg 58
+    ZS: Cons Unlimited					#20	pg 75
+    ZS: The Familiar					#18	pg 82
+    ZS: The Galleon					#15	pg 58
+    ZS: Gaming & Education				#15	pg 59
+    ZS: Fractal Spectrum				#18	pg 83
+    ZS: The Gamer's Connection				#11	pg 53
+    ZS: The Gamer's Connection				#20	pg 75
+    ZS: Idolum Quarterly				#20.5	pg 78
+    ZS: Interregnum					#17	pg 96
+    ZS: The Last Province				#12	pg 61
+    ZS: Luminary					#17	pg 96
+    ZS: Morningstar Rising				#11	pg 53
+    ZS: Networks					#13	pg 74
+    ZS: Papyrus						#16	pg 50
+    ZS: Parallel Universe Parking			#16	pg 50
+    ZS: Psychobabble					#20.5	pg 79
+    ZS: Ragnarok					#20.5	pg 80
+    ZS: Re:Quests!					#20	pg 74
+    ZS: The Scroll					#12	pg 61
+    ZS: Serendipity's Circle				#19	pg 76
+    ZS: Silver Griffin					#11	pg 52
+    ZS: The Strategic Review				#11	pg 52
+    ZS: Valkyrie					#20.5	pg 80
+    ZS: The World Builder				#12	pg 61
+    ZS: XataxombE					#12	pg 60
+  Reviews, Misc, 'zines, Foreign:
+    ZS: Biborhold					#20.5	pg 83
+    ZS: Claymore					#20.5	pg 83
+    ZS: Excalibur					#20.5	pg 83
+  Reviews, Biohazard:
+    Killer Crosshairs					#26	pg 92
+  Reviews, Britton:
+    Timetracker Deluxe				[mini]	#10	pg 60
+
+GUARDIANS [FPG]						**CCG FANTASY**
+  Accessories, Card Lists:
+    Guardians						#21	pg 78-79
+
+GURPS [SJG]						**RPG MISC**
+  Magic, Old West:
+    Navajo Magic, by Ann Dupuis				#19	pg 22-30
+  NPCs:
+    NPC Templates, by Brandon Cope			#20	pg 69-73
+  Rules, Character Creation:
+    Two Dozen New Advantages and Disadvantages, by Spike Y. Jones                                                                       #20.5   pg 47-54
+  Reviews:
+    The GURPS Line					#28	pg 80-81
+    GURPS Vehicles				[mini]	#10	pg 59
+
+HAHLMABREA [Sutton Hoo Games]				**RPG FANTASY**
+  Reviews:
+    Hahlmabrea					[mini]	#10	pg 59
+
+HEAVY GEAR [Ianus]					**CARD SF**
+  Adventures:
+    Gaia's Vengeance, by Jeff Mackintosh		#28	pg 27-38
+    Trust No One, by Jeff Mackintosh			#29	pg 59-62
+  Reviews:
+    Heavy Gear						#16	pg 62
+
+HERESY: KINGDOM COME [Last Unicorn Games]		**CCG CYBER**
+  Accessories, Card Lists:
+    Heresy: Kingdom Come				#22	pg 46
+  Reviews:
+    Heresy: Kingdom Come				#23	pg 74-75
+
+HERO SYSTEM [Hero Games]				**RPG MISC**
+  Reviews, Misc:
+    ZS: Haymaker!					#16	pg 51
+  [Also See: CHAMPIONS]
+
+HIDDEN INVASION [Nightshift Games]			**RPG SF**
+  Reviews:
+    Hidden Invasion					#23	pg 89
+ 
+HIGHLANDER: THE CARD GAME [Thunder Castle Games]	**CCG FANTASY**
+  Accessories, Card Lists:
+    Highlander						#20	pg 94
+    Highlander						#22	pg 47
+  Previews:
+    HIghlander: The Card Game				#18.5	pg 44
+  Reviews:
+    Highlander: The Card Game				#21	pg 72
+
+HISTORY OF THE WORLD [Avalon Hill]			**BOARD WAR**
+  Reviews:
+    History of the World				#13	pg 72
+
+HOL [Dirt Merchant Games]				**RPG SF**
+  Reviews:
+    Hol							#27	pg 89
+
+HORROR, GENERAL						**RPG HORROR**
+  Advice, Gamemaster:
+    The Art of Horror, by William Spencer-Hale		#13	pg 17
+    Up Against the Wall, Suckers!, by John Tynes	#19.5	pg 54-57
+  Background, Misc, Cities:
+    The Bousacc Problem, by Jolly R. Blackburn		#19.5	pg 31-41
+    Portrait of an Urban Landscape at Night		#19.5	pg 58-61
+  Background, TV, X-Files, Introduction:
+    The X-Files, by Louis J. Prosperi			#14	pg 8-17
+  Campaign Design, TV, X-Files:
+    Creating Your Favority RPG, by Louis J. Prosperi	#18.5	pg 51-67
+  Creatures:
+    Anatomy of a Haunting, by Justin Schmid		#29	pg 27-32
+    Fearless Vampire Slaying, by Gary Gygax		#10	pg 4-9
+  NPCs, Misc:
+    The Villain Who Wouldn't Die, by Rob Vaux		#19.5	pg 69-72
+  NPCs, Misc, Stats:
+    The Good, the Bad, and the Ugly, by Misc		#18	pg 58-61
+    The Good, the Bad, and the Ugly, by Misc		#19.5	pg 82-84
+    The Good, the Bad and the Ugly, by Donald Brynelsen	#22	pg 95-98
+    The Good, the Bad, and the Ugly, by Wonia Walden	#26	pg 52-54
+  NPCs, TV, X-Files, Stats:
+    The X-Files, by Louis J. Prosperi			#14	pg 13-14
+  Vignettes:
+    HLS: Trainees' First Day				#18	pg 63
+    LCA: The Hunter and the Hunted, by John Wick	#26	pg 63
+    LCA: NDE, by Matt Staroscik				#25	pg 58
+
+HYBORIAN GATES [Cardz]					**CCG FANTASY**
+  Accessories, Card Lists:
+    Hyborian Gates					#22	pg 47-49
+
+ILLUMINATI: NEW WORLD ORDER [SJG]			**CCG HUMOR**
+  Accessories, Card Lists:
+    INWO						#17.5	pg 48-49
+    INWO						#22	pg 49-50
+  Rules, Variant:
+    Combat Card Chess, by David Williams		#17.5	pg 8-13
+  Reviews:
+    INWO						#17.5	pg 33-34
+
+IMMORTAL [Precedence Publishing]			**RPG FANTASY**
+  Reviews:
+    Immortal						#15	pg 79
+
+INCURSION [Tri Tac Games]				**RPG SF**
+  Reviews:
+    Incursion						#17	pg 74-75
+
+INFERNO [Death's Edge Games]				**RPG HORRORR**
+  Reviews:
+    Inferno						#17	pg 73
+
+INTERVIEWS						**MISC MISC**
+  Gaming, Misc:
+    SI: Blackburn, Jolly				#10	pg 26-27
+    Cole, Steve						#19	pg 19-20
+    SI: Felton, BA					#10	pg 23-24
+    Findley, Nigel					#20.5	pg 6-12
+    SI: Newton, Dave					#9	pg 9-11
+    SI: Seay, Dave					#10	pg 24-25
+    SI: Spencer-Hale, William				#12	pg 21-23
+    SI: Zinser, John					#10	pg 25-26
+  Gaming, Fun & Games:
+    Gygax, Gary						#9	pg 20-22
+  Gaming, Game Systems:
+    SI: Murphy's World					#17	pg 44-46
+  TV:
+    SI: Mystery Science Theater 3000			#18.5	pg 8-14
+    Koenig, Walter					#29	pg 5-9
+
+IT CAME FROM THE LATE, LATE, LATE SHOW [Stellar Games]	**RPG HUMOR**
+  Adventures:
+    Bikini Monsters of the Atomic Planet		#18.5	pg 37-42
+
+THE JAMES BOND ROLE-PLAYING GAME [Victory Games]	**RPG SPY**
+  Reviews:
+    LT: James Bond RPG					#27	pg 87
+
+JOURNEYMAN [Infinity Games]				**RPG SF**
+  Reviews:
+    Journeyman						#13	pg 66-67
+
+JUSTICE INC. [Hero Games]				**RPG PULP**
+  Reviews:
+    LT: Justice Inc.					#28	pg 84
+
+JYHAD [WotC]						**CCG HORROR**
+  Accessories, Misc:
+    Jyhad Cheat Sheet, by Eric Allison			#16	pg 63
+  Accessories, Card Lists:
+    Jyhad						#15	pg 68-69
+  Rules, Leagues:
+    Jyhad League, by Jim Pinto				#17.5	pg 50-51
+  Rules, Variant:
+    Combat Card Chess, by David Williams		#17.5	pg 8-13
+  Reviews:
+    Jyhad						#17.5	pg 32
+  [Also See: MIND'S EYE THREATRE, RAGE, VAMPIRE, WEREWOLF]
+
+KANAR [Falchion Publications]				**LARP FANTASY**
+  Reviews:
+    Kanar						#26	pg 91
+
+KHAOTIC [Marquee Press]					**RPG SF**
+  Reviews:
+    Khaotic						#17	pg 73
+
+KULT [Metropolis Ltd.]					**RPG HORROR**
+  Reviews:
+    Kult					[mini]	#10	pg 59
+    Kult						#25	pg 84
+    Metropolis Sourcebook				#25	pg 85
+
+LARPS, GENERAL						**LARP MISC**
+  Meta:
+    Making Dream Park a Reality, by Gerald L. Wallner	#9	pg 5-7
+  Reviews:
+    The IFGS						#27	pg 92-95
+
+THE LAWNMOWER MAN [Leading Edge Games]			**BOARD SF**
+  Reviews:
+    The Lawnmower Man				[mini]	#10	pg 59
+
+LEGACY [Black Gate]					**RPG FANTASY**
+  Fiction:
+    SV: All that Cuts, by Douglas Hulick		#24	pg 26-33
+  Reviews:
+    Legacy						#17	pg 71
+
+LEGEND OF THE FIVE RINGS [Alderac]			**CCG FANTASY**
+  Accessories, Card Lists:
+    Legend of the Five Rings				#22	pg 51
+  Fiction:
+    SV: Starlight, by Rob Vaux				#28	pg 57-62 
+
+LEGEND QUEST [Board Enterprises]			**RPG FANTASY**
+  Creatures, Titans:
+    Picatawny, by John G. Josten			#14	pg 38-39
+    Titans, by John G. Josten				#14	pg 38
+    Virdoci, by John G. Josten				#14	pg 39
+  Reviews:
+    Legend Quest				[mini]	#10	pg 56
+    Legend Quest					#15	pg 77
+
+LEGENDARY LIVES [Marque Press]				**RPG FANTASY**
+  Reviews:
+    Legendary Lives				[mini]	#10	pg 58
+    Legendary Lives					#13	pg 69-70
+  
+LEGIONS OF STEEL [Global Games]				**RPG SF**
+  Reviews:
+    Legions of Steel					#9	pg 34
+    NP: Legions of Steel, Second Printing		#16	pg 84-85
+    Scenario Pack 1				[mini]	#10	pg 58
+
+LOST SOULS [Marquee Press]				**RPG HORROR**
+  Adventures:
+    Patterns of Evil, by Kathleen & Joe Williams	#14	pg 18-25
+  Fiction:
+    SV: Mate in Three, by Greg Stolze			#23	pg 34-42
+
+LOST WORLDS [Chessex]					**BOARD FANTASY**
+  Games:
+    Mattha, Huntress of Denglade			#28	pg 6-55   
+    Veltigg the Forest Shade				#28	pg 6-55
+  Reviews:
+    Lost Worlds						#28	pg 89
+  
+MAGE: THE ASCENSION [White Wolf]			**RPG FANTASY**
+  Reviews:
+    Mage, Second Edition				#27	pg 88
+
+MAGIC: THE GATHERING [WotC]				**CCG FANTASY**
+  Accessories, Card Lists:
+    M:TG Alpha/Beta/Unlimited				#10	pg 21
+    M:TG Alpha/Beta/Unlimited				#13	pg 37-38
+    M:TG Alpha/Beta/Unlimited/Revised/Fourth		#22	pg 52-53
+    Antiquities						#13	pg 38
+    Antiquities						#22	pg 54
+    Arabian Nights					#11	pg 18
+    Arabian Nights					#13	pg 38
+    Arabian Nights					#22	pg 53-54
+    Chronicles						#22	pg 56
+    The Dark						#15	pg 67
+    The Dark						#22	pg 55-56
+    Fallen Empires					#17	pg 62
+    Fallen Empires					#22	pg 56
+    Homelands						#21	pg 80
+    Homelands						#22	pg 58
+    Ice Age						#22	pg 56-58
+    Legends						#14	pg 27-28
+    Legends						#22	pg 54-55
+    Promotional Cards					#22	pg 58
+  Advice, Players, Misc:
+    Magic: The Gathering, by Jolly R. Blackburn		#10	pg 17-20
+  Advice, Players, Cards:
+    Atog, by Jeff Scott Franzman			#17.5	pg 60-61
+    Chub Toad, by Jeff Scott Franzman			#20	pg 91
+    Creature Bond, by Jeff Scott Franzman		#16	pg 60
+    Diabolic Vision, by Jeff Scott Franzman		#21	pg 68-70
+    Erg Raiders, by Jeff Scott Franzman			#17.5	pg 60-61
+    Essence Flare, by Jeff Scott Franzman		#18	pg 75-76
+    Lure, by Jeff Scott Franzman			#17	pg 58-59
+    Magnetic Mountain, by Jeff Scott Franzman		#19	pg 90
+    Norritt, by Jeff Scott Franzman			#18	pg 75-76
+    Orcish Lumberjack, by Jeff Scott Franzman		#20	pg 91
+    Psychich Venom, by Jeff Scott Franzman		#21	pg 68-70
+    Reverse Polarity, by Jeff Scott Franzman		#17.5	pg 60-61
+  Advice, Players, Colors:
+    The (Dis)Advantages of Black magic, by William D. Tilman                                                                            #13     pg 36
+  Advice, Players, Deck Construction, Misc:
+    Flashpoint!, by Douglas Wilkening			#17.5	pg 55
+    Turn Six, Kid!, by John K. Lewis			#17.5	pg 56-57
+  Advice, Players, Deck Construction, Specific:
+    Meet Frugality!, by DJ Trindle			#17.5	pg 58-59
+    The Winning Deck, by Bo Bell			#16	pg 60-62
+  Rules, Official Q&A:
+    The Ebon Praetor, by Randy Asplund-Faith		#21	pg 70-72
+  Rules, Tournament:
+    New Duelist's Convocation Rules, by WotC		#17.5	pg 70-72
+  Rules, Variant, Misc:
+    Magic: The Blitzkrieg, by Ken Carpenter		#13	pg 33-36
+    Combat Card Chess, by David Williams		#17.5	pg 8-13
+  Rules, Variant, The Conquering:
+    The Conquering, by David Williams			#17	pg 63-70
+    The Conquering Continues, by David Williams		#19	pg 90
+    The Conquering Continues, by David Williams		#18	pg 76
+    The Conquering Returns, by David Williams		#17.5	pg 53
+  Reviews:
+    Magic: The Gathering				#10	pg 12-21
+    Magic: The Gathering				#17.5	pg 31
+
+MANHUNTER [Myrmidon Press]				**RPG SF**
+  Adventures, Introduction:
+    Pledging "The Sorority", by Brian Townsend		#15	pg 9-15
+  NPCs:
+    Wanted: Dirk Debastion, by John Zinser		#10	pg 39
+  Reviews:
+    Manhunter					[mini]	#10	pg 59
+    Rifts Manhunter					#21	pg 10
+
+MAN-O-WAR [GW]						**MINIATURES SF**
+  Adventures:
+    Cthul-O-War, by John Kovalic			#19.5	pg 7-12
+  Creatures:
+    Cthul-O-War, by John Kovalic			#19.5	pg 7-12
+
+MASTERBOOK [West End Games]				**RPG MISC**
+  Reviews:
+    Masterbook Line					#26	pg 88
+
+MARE NOSTRUM [Gavin Tovrea Games]			**BOARD HISTORICAL**
+  Reviews:
+    Mare Nostrum					#17	pg 83-84
+
+MECHA [Seventh Street Games]				**BOARD SF**
+  Reviews:
+    Mecha						#11	pg 39
+
+MEKTON [R. Talsorian]					**RPG SF**
+  Reviews, Ianus:
+    Jovian Chronicles				[mini]	#10	pg 59
+  Reviews, R. Talsorian:
+    Operation Rimfire				[mini]	#10	pg 58
+    Mekton Zeta						#25	pg 88
+
+MIDDLE EARTH: THE WIZARDS [ICE]				**CCG FANTASY**
+  Accessories, Card Lists:
+    ME:TW						#23	pg 28-29
+
+MILITARY, GENERAL					**RPG MILITARY**
+  Reviews, Palladium:
+    The Compendium of Contemporary Weapons		#13	pg 67-68
+
+MILLENIUM'S END [Chameleon Eclectic]			**RPG SF**
+  Reviews:
+    Millenium's End					#13	pg 68-69
+
+MIND'S EYE THEATRE [White Wolf]				**LARP HORROR**
+  Reviews:
+    Mind's Eye Theatre					#28	pg 92-93
+  [Also See: JYHAD, RAGE, VAMPIRE, WEREWOLF]
+
+MODERN, GENERAL						**RPG MODERN**
+  Equipment:
+    RC: Guns, by Matt Staroscik				#27	pg 75
+  Vignettes:
+    Lights, Camera, Action, by Misc			#28	pg 64-65
+    LCA: Bug Powder Dust, by Tonia Walden		#26	pg 63
+    LCA: The Hunter and the Hunted, by John Wick	#26	pg 63
+
+MUTANT CHRONICLES [Heartbreaker]			**RPG SF**
+  Reviews:
+    Mutant Chronicles					#16	pg 73-74
+    NP: Algeroth - The Apostle of War			#20	pg 102
+    The Brotherhood					#16	pg 73-74
+    NP: Capitol - Pride and Profit			#20	pg 103-104
+    NP: Fury of the Clansmen				#16	pg 85
+    NP: Imperial - The Clans of Damnation		#20	pg 103
+  [Also See: DOOM TROOPER]
+
+MYTHOS [Chaosium]					**CCG HORROR**
+  Reviews:
+    Mythos						#26	pg 80
+
+MYTHUS [GDW]						**RPG FANTASY**
+  Reviews:
+    Mythus						#8	pg 44-45
+    Gamemaster's Screen					#9	pg 33
+
+NEPHILIM [Chaosium]					**RPG OCCULT**
+  Reviews:
+    Nephilim						#16	pg 72-73
+
+NETRUNNER [WotC]					**CCG SF**
+  Accessories, Card Lists:
+    Netrunner						#26	pg 94-95
+
+NEXUS [Daedelus Games]					**RPG MISC**
+  Background:
+    Nexus Park, by Rob Heinsoo				#22	pg 31-35
+
+NIGHTSPAWN [Palladium]					**RPG HORROR**
+  Reviews:
+    Nightspawn						#24	pg 88
+
+NUCLEAR WAR [Flying Buffalo]				**CARD NUCLEAR**
+  Rules, Official Q&A:
+    The Seeds of War, by Rick Loomis			#17.5	pg 76
+
+ON THE EDGE [Atlas Games]				**RPG SF**
+  Accessories, Card Lists:
+    On the Edge						#20.5	pg 14-15
+    On the Edge Unlimited				#22	pg 59
+    Arcana						#20.5	pg 16-17
+    Arcana						#22	pg 60-61
+    The Cut-Ups Project					#20.5	pg 15-16
+    The Cut-Ups Project					#22	pg 60
+    Promotional Cards					#20.5	pg 17
+    Promotional Cards					#22	pg 59-60
+    Shadows						#20.5	pg 16
+    Shadows						#22	pg 60
+  Advice, Players:
+    Strategy for Powermad Control Freaks, by Greg Stolz	#17	pg 59
+  Rules, League:
+   The OTE Omni-League, by Spike Y. Jones		#20.5	pg 27-32
+  Rules, Variant:
+    Anti-Claus is COming to Town, by Greg Stolze	#17.5	pg 38-41
+    Business as Usual, by Hans Knudsen			#20.5	pg 20-23
+    Combat Card Chess, by David Williams		#17.5	pg 8-13
+  Previews:
+    Through the Gate of Dead Birds			#20.5	pg 18-20
+  Reviews:
+    On the Edge						#17.5	pg 32-33
+
+ONCE UPON A TIME [Atlas Games]				**CARD FANTASY**
+  Reviews:
+    Once Upon a Time, Second Edition			#27	pg 82
+
+ORIENTAL, GENERAL					**RPG ORIENT**
+  Background:
+    Courting the Orient, by James R. Collier		#25	pg 13-18
+  Campaign Design:
+    Courting the Orient, by James R. Collier		#25	pg 13-18
+  NPCs:
+    Courting the Orient, by James R. Collier		#25	pg 13-18
+    The Good, the Bad, and the Ugly			#28	pg 67-70
+
+OVER THE EDGE [Atlas Games]				**RPG SF**
+  Adventures:
+    Deja Vu, by John Wick				#25	pg 5-12
+    Omnimart, by Greg Stolze				#13	pg 9-14
+  Reviews:
+    Over the Edge					#9	pg 31-32
+    Over the Edge					#11	pg 39-40
+
+OVERPOWER, MARVEL [Fleer, Inc.]				**CCG SUPERHEROES**
+  Accessories, Card Lists:
+    Marvel: Overpower					#22	pg 61-62
+
+PARANOIA [West End Games]				**RPG HUMOR**
+  Fiction:
+    The Heroes of Alpha Complex, by Jonathan Tweet	#29	pg 34-41
+
+PENDRAGON [Chaosium]					**RPG FANTASY**
+  Reviews:
+    ZS: Beaumains					#20.5	pg 80
+
+PIRATE, GENERAL						**MISC PIRATE**
+  Game, Miniatures:
+    Legoland Pirate Wars, by Stephen W. Gabriel		#19	pg 43-52
+    Lego Pirate Wars: Optional Rules, by S. Gabriel	#24	pg 20-23
+
+PLAGUE AND PESTILENCE [Hillary's Tox Box]		**CARD HISTORICAL**
+  Reviews:
+    Plague and Pestilence				#14	pg 69
+
+POD [POD Games]						**BOARD SF**
+  Reviews:
+    POD							#9	pg 36
+
+POD BLUE [Alderac]					**RPG SF**
+  Fiction:
+    Pod Blue, Part I: Massacre at Devon's Reef, by JR Blackburn                                                                         #19    pg 31-41
+
+THE PRIMAL ORDER [WotC]					**RPG FANTASY**
+  Reviews:
+    Knights					[mini]	#10	pg 56
+
+QUEST FOR THE FAYSYLWOOD [Faysylwood Press]		**CARD FANTASY**
+  Reviews:
+    Quest for the Faysylwood				#14	pg 71
+
+RAGE [White Wolf]					**CCG HORROR**
+  Accessories, Card Lists:
+    Rage						#20	pg 88-89    
+    Rage						#22	pg 63-64
+    The Umbra						#22	pg 64
+    War in the Amazon					#26	pg 93
+    The Wyrm						#22	pg 64-65
+  Previews:
+    Rage						#18	pg 76
+  Reviews:
+    Rage						#20	pg 86
+  [Also See: JYHAD, MIND'S EYE THEATRE, VAMPIRE, WEREWOLF]
+
+RAVEN STAR [Raven Star Game Designs]			**RPG SF**
+  Reviews:
+    Raven Star						#17	pg 75-77
+
+REALMS OF THE UNKNOWN [Walnut Group]			**RPG MISC**
+  Reviews:
+    Realms of the Unknown				#11	pg 42-43
+
+RENEGADE LEGION [FASA]					**BOARD SF**
+  Reviews, Crunchy Frog:
+    ZS: Renegade Transmissions				#16	pg 51
+
+RIFTS [Palladium]					**RPG MISC**
+  Reviews, Myrmidon Press:
+    Rifts Manhunter					#21	pg 10
+  Reviews, Palladium:
+    Rifts World Book 7: Underseas			#21	pg 10
+
+RINGWORLD [Chaosium]					**RPG SF**
+  Reviews:
+    LT: Ringworld					#27	pg 87
+
+ROBORALLY [WotC]					**BOARD SF**
+  Reviews:
+    RoboRally						#18	pg 63
+
+ROBOTANKS [Gamesmiths]					**BOARD SF**
+  Reviews:
+    RoboTanks						#26	pg 82
+
+RUNEQUEST [Avalon Hill]					**RPG FANTASY**
+  Accessories, Index:
+    RQ3 Cults for Glorantha, by Curtis Taylor		#20	pg 30
+
+SAGA [TSR]						**RPG FANTASY**
+  Reviews:
+    Dragonlance: The Fifth Age				#27	pg 74
+
+SCIENCE FICTION, GENERAL				**RPG SF**
+  Advice, Gamemaster:
+    Technobabble, by Curtis Craddock			#20	pg 42-46
+  Background, Misc, Law:
+    "Book 'em Starbuck!", by Frederick Goff		#10	pg 33-38
+  Background, Misc, Sports:
+    Slaughterball!, by Serge Selmack			#19	pg 60-62
+  Background, Misc, Star Ports:
+    CERK: Starbase/Star Port, by Blackburn & Felton	#15	pg 55
+  Background, Fiction, Worldwar, Introduction:
+    Space Iguanas Uber Alles, by Rob Vaux		#22	pg 20-29
+  Background, Technology:
+    New & Improved, by Paul Lucas			#28	pg 11-16
+  Campaign Design, Adventures:
+    The Aliens Are Coming!, by Larry Granato		#26	pg 5-14
+    Scanners Say it's a... dragon, by Frederick Goff	#13	pg 21-23
+  Campaign Design, Planets:
+    CERK: Planet Peculiarities, by Paul Lucas		#19	pg 79-81
+  Campaign Design, Technology:
+    Technobabble, by Curtis Craddock			#20	pg 42-46
+  Games, Board:
+    Space Fleet - Warp One, by D. Shaw & S. Patterson	#19	pg 13-19
+  Magic, Dark Future:
+    Taggers, by David Seay & John Zinser		#12	pg 16-20
+  NPCs:
+    The Good, The Bad, and The Ugly, by Misc		#15	pg 50-52
+    The Good, The Bad & The Ugly, by Misc		#25	pg 53-55
+  Random Tables:
+    CERK: Planet Peculiarities, by Paul Lucas		#19	pg 79-81
+    CERK: Starbase/Star Port, by Blackburn & Felton	#15	pg 55
+  Vignettes, Misc:
+    HLS: The Insufferable Imp, by Donald E. Brynelsen	#18	pg 63
+    HLS: Let's Make a Deal?, by Pierre Savoie		#13	pg 30
+    HLS: Life of an Anthropologist, by Wayne Wallace	#18.5	pg 27
+    HLS: The Lonely Mech, by Paul Stachel		#13	pg 29-30
+    HLS: Starbase Dread, by George Wakemen		#18.5	pg 27
+    HLS: With Friends Like This..., by Matt Staroscik	#19	pg 67
+    HLS: With References, by BA Felton			#11	pg 27-28
+    LCA: An Offer You Can't Refuse, by John Wick	#26	pg 62
+  Reviews, 'zines:
+    ZS: The Tech Factory				#19	pg 77
+  [Also See: TIME TRAVEL, GENERAL]
+
+SHADOWFIST [Daedalus]					**CCG FANTASY**
+  Accessories, Card Lists:
+    Shadowfist						#22	pg 65-66
+  [Also See: FENG SHUI]
+
+SHADOWRUN [Fasa]					**RPG MISC**
+  Magic:
+    Chinese Hermetic Magic, by Kathleen Malone		#20	pg 10-19
+  Reviews, AWOL:
+    ZS: KA*GE						#14	pg 55
+  Reviews, FASA:
+    Aztlan						#21	pg 9
+    California Free  State				#27	pg 90
+
+SHATTERED DREAMS [Apex]					**RPG FANTASY**
+  Reviews:
+    ZS: Sedated						#16	pg 51
+
+SHATTERZONE [WEG]					**RPG SF**
+  Equipment, Ships:
+    Stock Ships: The Missing Vessels, by Dave Pilurs	#20	pg 32-41
+  Reviews:
+    Shatterzone					[mini]	#10	pg 59-60
+
+SILENT DEATH [ICE]					**BOARD SF**
+  Adventures:
+    NP: Colos Knives, by Ken Carrpenter			#22	pg 101-104
+  Reviews:
+    NP: Silent Death: The Next Millenium Deluxe Ed.	#22	pg 101
+
+SIM CITY [Mayfair]					**CCG MISC**
+  Introduction:
+    Sim City						#17.5	pg 14-16
+
+SKYREALMS OF JORUNE [Chessex]				**RPG SF**
+  Reviews:
+    ZS: Sholari						#14	pg 55
+
+SLASHER! [Precedence Publishing]			**CARD HORROR**
+  Previews:
+    Slasher!						#17.5	pg 37
+  Reviews:
+    Slasher: The Final Cut				#18.5	pg 22-23
+
+SPACE: 1889 [GDW]					**RPG SF**
+  Adventures:
+    The Sentinel Awaits, by Donald E. Brynelsen		#11	pg 20-24
+  Reviews, Dragonshead Gaming:
+    LT: Space: 1889					#27	pg 86
+    ZS: Brittanic Technological Society			#11	pg 53
+ 
+SPELLFIRE [TSR]						**CCG FANTASY**
+  Accessories, Card Lists:
+    Expansion 1: Ravenloft				#16	pg 67
+  Rules, Variant:
+    Combat Card Chess, by David Williams		#17.5	pg 8-13
+  Reviews:
+    Spellfire						#17.5	pg 31-32
+
+SPOTLIGHT						**MISC MISC**
+  Artist:
+    KG: Breault, Greg					#11	pg 30-31
+    KG: Hobbs, Bob E.					#9	pg 28-29
+    KG: Holmgren, Jason Adam				#14	pg 52-53
+    KG: Ryan, Shea					#13	pg 47-48
+    KG: Siegenthaler, Cline A.				#17	pg 42-43
+    KG: Smith, Dan					#12	pg 62-63
+    KG: Szczudlo, Anthony P.				#16	pg 40-41
+    KG: Thomas, Tina					#10	pg 64-65
+    KG: Vrbanic, George					#15	pg 48-49
+
+SPY, GENERAL						**RPG SPY**
+  Background:
+    A Guide to Real-Life Spies, by John W.  Baichtal	#29	pg 11-18
+    RS: French Food and Micronauts, by Dave Dollar	#19	pg 11-12
+    RS: Love and Rocket Launchers, by Dave Dollar	#20	pg 8-9
+    RS: Real Spies, by Dave Dollar			#17	pg 9-10
+    RS: Spies Fly Coach, by Dave Dollar			#18	pg 9-10
+    RS: Spies for the Holidays, by Dave Dollar		#22	pg 6-7
+  NPCs:
+    A Guide to Real-Life Spies, by John W.  Baichtal	#29	pg 11-18
+
+STAR OF THE GUARDIANS					**CCG SF**
+  Accessories, Card Lists:
+    Star of the Guardians				#17.5	pg 46-47
+  Introduction:
+    Star of the Guardians				#17.5	pg 22-23
+
+ST:TNG CCG [Decipher]					**CCG SF**
+  Accessories, Card Lists:
+    ST:TNG CCG						#17	pg 60-61
+    ST:TNG CCG						#22	pg 67-68
+    Alternate Universe					#22	pg 68
+  Rules, Variant:
+    More Multiplayer ST:CCG, by Decipher		#18.5	pg 47-48
+    Star Trek: The Conquering, by Karol Pajak		#18.5	pg 45-46
+  Reviews:
+    ST:TNG CCG						#17.5	pg 33
+
+STAR WARS [WEG]						**RPG SF**
+  Adventures:
+    Slaver's Chains, by James MacDuff			#28	pg 45-55
+    Strange Bedfellows, by John Zinser			#14	pg 40-47
+  Background, Historical, Pre-New Hope:
+    The Spark Before the Flame, by Sean Patrick Fannon	#18.5	pg 15-20
+  Games, Board:
+    Corellian Smuggler, by Dan Verssen			#27	pg 42-55
+  Reviews:
+    Star Wars, Second Edition				#11	pg 31-32
+    Star Wars, Second Edition				#27	pg 76-77
+    Dark Empire Sourcebook			[mini]	#10	pg 56-57
+    The Dark Stryder Campaign				#21	pg 11
+    Movie Trilogy Sourcebook				#11	pg 43
+
+STAR WARS CCG [Decipher]				**CCG SF**
+  Accessories, Card Lists:
+    Star Wars						#23	pg 30-31
+
+STEAMPUNK, GENERAL					**RPG SF**
+  Background:
+    Babbage's World, by Joseph Johaneman		#26	pg 27-30
+  Campaign Design:
+    Babbage's World, by Joseph Johaneman		#26	pg 27-30
+
+STREET FIGHTER [White Wolf]				**RPG COMBAT**
+  Reviews:
+    Street Fighter					#15	pg 80-81
+
+SUN AND STORM [Storm Press]				**RPG FANTASY**
+  Equipment, Wyrmships:
+    Of Technomancy and Wyrmships, by Dave Pilurs	#11	pg 5-9
+  Magic:
+    Of Technomancy and Wyrmships, by Dave Pilurs	#11	pg 5-9
+  Reviews:
+    Sun and Storm				[mini]	#10	pg 60
+    Sun and Storm					#15	pg 81-82
+
+SUPER DECK! [?]						**CCG SUPERHEROES**
+  Rules, Variant:
+    Souping Up Super Deck!, by Spike Y. Jones		#17.5	pg 18-19
+
+SUPERHEROES, GENERAL					**RPG SUPERHEROES**
+  Campaign Design, Background:
+    The Hero Support Group, by Chris Avellone		#27	pg 5-9
+  Campaign Design, Campaigns (as a whole:
+    Running Superheroes in Alternate History Campaigns, by Rob Vaux                                                                     #27     pg 11-15
+  NPCs:
+    The Hero Support Group, by Chris Avellone		#27	pg 5-9
+  Vignettes:
+    HLS: Hollywood Hijinx, by Wayne Wallace		#15	pg 45-46
+    HLS: Money, Money, Phoney Money, by Thornton Kimes	#13	pg 30
+
+TALES FROM THE FLOATING VAGABOUND [Avalon Hill]		**RPG HUMOR**
+  Reviews:
+    Where's George				[mini]	#10	pg 58-59
+
+TALISLANTA [WotC]					**RPG FANTASY**
+  Fiction:
+    SV: Key of Green, by Douglas Hulick			#25	pg 32-38
+  Reviews:
+    Talislanta Product Line				#9	pg 32-33
+    ZS: The Crucible					#20	pg 74
+
+TALISMAN [GW]						**BOARD FANTASY**
+  Reviews:
+    NP: Talisman					#16	pg 85-86
+
+THEATRIX [Backstage Press]				**LARP MISC**
+  Reviews:
+    Theatrix: The Core Rules				#21	pg 11
+    Theatrix						#26	pg 86
+
+THE END [Scapegoat Games]				**RPG SF**
+  Reviews:
+    The End						#23	pg 87
+
+TIME TRAVEL, GENERAL					**MISC TIME TRAVEL**
+  Background:
+    Just a Matter of Time, Part One, by Jolly Blackburn	#11	pg 44-51
+    Just a Matter of Time, Part Two, by Jolly Blackburn	#12	pg 33-43
+    The Time Travelers, by Larry Granto			#18.5	pg 28-35
+  Campaign Design:
+    The Time Travelers, by Larry Granto			#18.5	pg 28-35
+  Rules:
+    Just a Matter of Time, Part One, by Jolly Blackburn	#11	pg 44-51
+    Just a Matter of Time, Part Two, by Jolly Blackburn	#12	pg 33-43
+    The Time Travelers, by Larry Granto			#18.5	pg 28-35
+  Vignettes:
+    HLS: Information isn't a "Real" Commodity, by SD Anderson                                                                           #21     pg 65-66
+    HLS: A Snitch in Time, by Pierre Savoie		#19	pg 67
+
+TOON [SJG]						**RPG HUMOR**
+  Reviews:
+    LT: Toon						#28	pg 85
+
+TORG [WEG]						**RPG MISC**
+  Adventures:
+    Mr Tode's Wild Ride, by John Zinser & Brian Peters	#9	pg 24-27
+  Fiction:
+    The Heroes of Alpha Complex, by Jonathan Tweet	#29	pg 34-41
+  NPCs:
+    Hail to the King, Baby, by Rob Vaux & John Wick	#23	pg 19-26
+  Reviews:
+    Torg						#8	pg 44
+
+TOWERS IN TIME [Thunder Castle]				**CCG FANTASY**
+  Accessories, Card Lists:
+    Towers in Time					#16	pg 68
+  Advice, Players:
+    Building a Tower, by Bob Iliff			#17.5	pg 25
+  Previews:
+    Towers in Time					#16	pg 63
+
+TRAVELLER, MEGA [GDW]					**RPG SF**
+  Reviews:
+    Astrogator's Guide to the Diaspora Sector		#9	pg 33-34
+
+TRAVELLER, THE NEW ERA [GDW]				**RPG SF**
+  Equipment, Computers:
+    Sentient Circuits, Part 1, by Dave & Michele Newton	#14	pg 30-36
+    Sentient Circults, Part 2, by Dave & Michele Newton	#15	pg 32-40
+  NPCs, Virus:
+    Sentient Circuits, Part 1, by Dave & Michele Newton	#14	pg 30-36
+    Sentient Circults, Part 2, by Dave & Michele Newton	#15	pg 32-40
+  Reviews:
+    Traveller: The New Era				#9	pg 34-35
+    Brilliant Lances					#12	pg 58-59
+
+TRAVELLER, MARC MILLER'S [IMPERIUM]
+  Reviews:
+    Marc Miller's Traveller				#28	pg 79
+
+TUNNELS & TROLLS [Flying Buffalo]			**RPG FANASY**
+  Reviews:
+    Tunnels & Trolls					#14	pg 71-72
+
+TWILIGHT: 2000 [GDW]					**RPG MILITARY**
+  Adventures:
+    The Last Argument of Kings, by W. Spencer-Hale	#16	pg 23-24
+  Background, Misc:
+    Nuclear Weapons, by William Spencer-Hale		#16	pg 20-24
+  Rules, Combat:
+    Nuclear Weapons, by William Spencer-Hale		#16	pg 20-24
+  Reviews:
+    LT: Twilight: 2000					#27	pg 86
+    Referee's Screen					#9	pg 32
+
+ULTIMATE COMBAT! [Upper Deck]				**CCG COMBAT**
+  Accesories, Card Lists:
+    Ultimate Combat!					#19	pg 94-95
+    Ultimate Combat!					#22	pg 69
+    Ancient Fighting Arts of China			#22	pg 70
+  Previews:
+    Ultimate Combat!					#17	pg 76
+
+UNDERGROUND [Mayfair]					**RPG SF**
+  Background, Organizations:
+    Team Phoenix, by Rich Warren			#26	pg 31-37
+  Background, Technology:
+    New Uses for Virtual Reality, by Spike Y. Jones	#16	pg 14-18
+
+UPPER DECK GRIDIRON FANTASY FOOTBALL [Prec. Publishing]	**CCG MISC**
+  Accessories, Card Lists:
+    Upper Deck Gridiron Fantasy Football		#22	pg 45
+
+VAMPIRE: THE DARK AGES [White Wolf]			**RPG HORROR**
+  Reviews:
+    Vampire: The Dark Ages				#24	pg 89
+    The Book of Storyteller's Secrets			#28	pg 90
+    A World of Darkness, Second Edition			#29	pg 88
+
+VAMPIRE: THE ETERNAL STRUGGLE [WotC]			**CCG HORROR**
+  [See: JYHAD]
+
+VAMPIRE: THE MASQUERADE [White Wolf]			**RPG HORROR**
+  Adventures:
+    The Black Curtain Theatre, by Douglas Seacat	#29	pg 43-58
+  Campaign Design, Towns:
+    Roleplaying in Small Towns, by ANthony Grabski	#24	pg 35-43
+  Reviews:
+    Vampire, Second Edition				#9	pg 36
+    Vampire, SEcond Edition				#29	pg 82-83
+    Elysium						#18	pg 65-66
+  [Also See: JYHAD, MIND'S EYE THEATRE, RAGE, WEREWOLF]
+
+WARGAMES, GENERAL					**BOARD WAR**
+  Reviews:
+    ZS: Berg's Review of Games				#18	pg 82
+
+WARHAMMER FANTASY BATTLE [GW]				**MINIATURES FANTASY**
+  Adventures:
+    Norse Raid, by Ken Carpenter			#19	pg 100-102
+
+WARHAMMER 40K [GW]					**MINIATURES SF**
+  Reviews:
+    ZS: Inquisitor					#17	pg 95
+    ZS: Louis Porter's Fallout				#20.5	pg 79
+
+WEBS BASIC GAMING SYSTEM [Web Games]			**RPG MISC**
+  Reviews:
+    Webs Basic Gaming System				#23	pg 85
+    Web of Stars					#23	pg 85
+
+WEREWOLF: THE APOCALYPSE [White Wolf]			**RPG HORROR**
+  Background, Cities:
+    Mad Dog City, by Jim Parks				#18	pg 32-36
+  Reviews, Fiction:
+    When Will You Rage?					#16	pg 70
+  [Also See: JYHAD, MIND'S EYE THEATRE, RAGE, VAMPIRE]
+
+WESTERN, GENERAL					**RPG WESTERN**
+  Background, Misc, San Diablo, Introduction:
+    Into the Sunset?, by Rob Vaux			#20.5	pg 55-68
+  Background, TV, Brisco County, Introduction:
+    The Adventures of Brisco Country, Jr, by Jolly R. Blackburn                                                                         #11     pg 12-17
+  NPCs, TV, Brisco County:
+    The Adventures of Brisco Country, Jr, by Jolly R. Blackburn                                                                         #11     pg 15-17
+  Vignettes:
+    HLS: Here They Come a Burstin' Out!, by Matt Wilson	#18.5	pg 27
+
+THE WHISPERING VAULT [Pariah Press]			**RPG HORROR**
+  Reviews:
+    The Whispering Vault				#14	pg 68-69
+
+WILDSTORMS [Farchild & Aegis]				**CCG SUPERHEROES**
+  Accessories, Card Lists:
+    Wildstorms						#22	pg 70-71
+  
+WIZARDS [Whit]						**RPG FANTASY**
+  Rules, Misc:
+    Wizards Revisited, by Jeff Zitomer			#18.5	pg 71-79
+  Reviews:
+    Wizards					[mini]	#10	pg 59
+
+THE WORLD OF INDIANA JONES [West End Games]		**RPG PULP**
+  Background, Misc:
+    CERK: Myth and Magic Locations, by Jolly Blackburn	#17	pg 52-55
+  Random Tables:
+    CERK: Myth and Magic Locations, by Jolly Blackburn	#17	pg 52-55
+
+THE WORLD OF SYNNIBARR [Wonder World Press]		**RPG FANTASY**
+  Reviews:
+    The World of Synnibarr			[mini]	#10	pg 60
+
+WYVERN [US Games]					**CCG FANTASY**
+  Accessories, Card Lists:
+    Wyvern						#17.5	pg 43
+    Wyvern						#22	pg 72
+    Phoenix						#22	pg 72
+  Advice, Players:
+    A Dragon Primer, by Robert Morss			#18	pg 79
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

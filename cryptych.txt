@@ -1,0 +1,652 @@
+			  THE CRYPTYCH INDEX
+			     CERSION 1.01
+
+			  [issues I.1-II.2]
+
+			   by Shannon Appel
+			   (appel@erzo.org)
+
+HISTORY, 1993-1994
+
+Cryptych magazine was founded in July 1993 by ILM International Inc.,
+a Florida group. From its foundation, Wizards of the Coast supported
+Cryptych, dealing with sales and distribution. There is little doubt
+that Cryptych was originally helped no small amount by the tremendous
+success of WoTC's Magic game. From the first issue, the art and layout
+in Cryptych were both good. In addition, page count rapidly rose from
+64 to 96 pages.
+
+The emphasis on Cryptych was slightly different from the other
+industry magazines. Some emphasis was placed on LARPs, comic books,
+science fiction and other topics familiar to most gamers. Recently
+Inphobia and d8 have both following the same path, mixing role-playing
+with other aspects of modern culture.
+
+In addition, there was a concerted effort in Cryptych to bring the
+different game publishers into the magazine. Crypytch was full of
+newsletters from gaming companies, including big names like Mayfair,
+West End and Wizards of the Coast.
+
+Finally, Cryptych also placed some emphasis on more generic articles,
+like Different Worlds used to long ago, and as Shadis does now.
+
+Unfortunately, Cryptych suffered the fate of many young gaming
+magazines. After just 8 issues, it ceased publication. Volume II,
+issue 2 was the last. According to the editor of Cryptych, the
+magazine is currently on indefinite hiatus, because the company's
+other magazine, Scrye, is taking up too much of their resources. Now,
+nearly a year and a half later, it seems unlikely that the magazine
+will ever be revived.
+
+THEME ISSUES
+
+#I.2 Horror
+#I.3 Science Fiction
+#I.4 Fantasy
+#I.5 Magic
+#I.6 Cybertech
+#II.2 Horror
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems.  In
+addition, there are also a number of GENERAL categories, for CYBER,
+EARTH, FANTASY, GENERAL, HORROR, LARP and SCIENCE FICTION. Additional
+categories include FICTION, INTERVIEWS and NEWSLETTERS.
+
++------------------------------------------------------------------+
+| This index is Copyright 1995-6 Shannon Appel.  It may be freely  |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+REGULAR FEATURES
+  Comic Strips:
+    A Hero Named Harold, COMIC STRIP, VI.3-5,VII.2
+  Gaming Aids:
+    Art of the Gamemaster, GAMING ADVICE, VI.2-4,6,VII.2	[AotGM:]
+    Daggers Drawn, GAMING ADVICE, VI.6-VII.2			[DD:]
+    Dear Abertanthus, GAMING ADVICE, VI.1-3			[Dear Aber...]
+    Dr. Tomorrow's Lessons From the Future, BACKGROUND, VI.4-6	[DTLFTF:]
+    Cryptology, BACKGROUND, VI.2-5				[Cryptology:]
+    Things That Go Bump in My Head, GAMING AIDS, VI.3-VII.1	[TTGBIMH:]
+    World Building 101, GAMING DESIGN, VI.1-4			[WB101:]
+  News:
+    The Herald, NEW RELEASES, VI.1-VII.1
+    World Beat, INTERNATIONAL NEWS, VI.5-VII.2
+  Reviews:
+    Comic Culture, COMIC REVIEWS, VI.3-5,VII.1
+    Demonna's Movie Views, MOVIE REVIEWS, VI.4-VII.2
+    The Open Book, BOOK REVIEWS, VI.2-VII.2
+    Tabletop Revue, MINIATURES REVIEWS, VI.4-5
+    Video Wizardry, COMPUTER GAME REVIEWS, VI.2-3
+
+ADVANCED DUNGEONS & DRAGONS [TSR]			**RPG FANTASY**
+  Reviews, Misc:
+    Lankhmar: City of Adventure, Second Edition		VI.6	pg 90-91
+  Reviews, Dragonlance, Fiction:
+    The Covenant of the Forge				VI.3	pg 72
+  Reviews, Forgotten Realms, Fiction:
+    Starless Night					VI.2	pg 70
+    Harpers6: Crypt of the Shadowking			VI.4	pg 76
+  Reviews, Ravenloft, Fiction:
+    I, Strahd						VI.2	pg 70
+
+ARDUIN [Grimoire Games]					**RPG FANTASY**
+  Rules, Official Q&A:
+    Error & Omissions Dept.				VI.6	pg 15
+  Reviews:
+    The Compleat Arduin, Book I-II			VI.5	pg 76
+
+ARMAGEDDON [GW]						**BOARD SF**
+  Reviews:
+    Armageddon						VI.3	pg 67
+
+ARS MAGICA [WotC]					**RPG FANTASY**
+  Magic, Bjornaer:
+    The Shifting of Shapes, by Bryan J. Maloney		VII.2	pg 47-49
+  [Also See: EARTH, GENERAL]
+
+ATTACK OF THE HUMANS [Rapport Games]		    	**RPG HORROR**
+  Reviews:
+    Attack of the Humans				VII.2	pg 60
+
+BATTLETECH [FASA]					**BOARD SF**
+  Reviews:
+    Battletech						VI.3	pg 67
+
+BLOOD BOWL [GW]						**BOARD FANTASY**
+  Reviews:
+    Blood Bowl						VI.1	pg 16
+
+BUCK ROGERS [TSR]					**RPG SF**
+  Reviews:
+    Buck Rogers						CI.3	pg 67
+
+CALL OF CTHULHU [Chaosium]				**RPG HORROR**
+  Adventures, 1990s:
+    Bright College Days, by Tim Jennings		VI.2	pg 33-36
+  Reviews, Pagan Publishing:
+    Grace Under Pressure				VII.2	pg 63-64
+    The Unspeakable Oath				VI.5	pg 82
+
+CHILL [Mayfair]						**RPG HORROR**
+  Reviews:
+    The Beast Within					VII.2	pg 60-61
+
+CYBER, GENERAL						**RPG CYBER**
+  Campaign Design, Campaigns (as a Whole):
+    DD: Cyber Settings, by Ed Greenwood			VI.6	pg 25-27
+  Equipment:
+    TTGBIMH: Cyberware, by Travis S. Casey		VI.6	pg 21-23
+    The Virtual Space, by Jaron Lanier			VI.6	pg 45-46
+  NPCs:
+    TTGBIMH: Cyberware, by Travis S. Casey		VI.6	pg 21-23
+
+CYBERPUNK 2020 [R Talsorian]				**RPG CYBER**
+  Reviews, Ianus:
+    Media Junkie 1					VI.6	pg 91-92
+    Night's Edge					VI.5	pg 79
+  Reviews, R Talsorian:
+    Cybergeneration					VI.6	pg 89
+
+DARKURTHE LEGENDS [Black Dragon Press]			**RPG FANTASY**
+  Reviews:
+    Darkurthe Legends					VII.2	pg 61-62
+
+DARKWORLD [Canada Games]				**BOARD FANTASY**
+  Reviews:
+    Darkworld						VI.2	pg 58
+
+DC HEROES [Mayfair]					**RPG SUPERHEROES**
+  Reviews:
+    Who's Who in the DC Universe #2			VI.5	pg 77-78
+
+DRACULA: THE BOARD GAME [LEG]				**BOARD HORROR**
+  Reviews:
+    Dracula: The Board Game				VI.2	pg 63
+    
+DUNGEON QUEST [GW]					**BOARD FANTASY**
+  Reviews:
+    DungeonQuest					VI.2	pg 58
+
+EARTH, GENERAL						**MISC MISC**
+  Background:
+    Alexandria, by J. Paul Hunter			VI.5	pg 60-63
+  Magic:
+    The Art of the Prophet in Ancient Greece, by Doug Easterly                                                                          VII.1   pg 43-44
+
+EARTHDAWN [FASA]					**RPG FANTASY**
+  Reviews:
+    Earthdawn						VI.4	pg 78-79
+
+ELRIC! [Chaosium]					**RPG FANTASY**
+  Reviews:
+    Elric!						VI.3	pg 68-69
+
+EMPIRE BUILDER [Mayfair]				**BOARD RAILROAD**
+  Reviews:
+    British Rails					VI.5	pg 76-77
+
+ENVOY (1) [WotC]					**RPG MISC**
+  Adventures, Fantasy:
+    Mr. Alphabet Says..., by B.A. Gasson		VI.1	pg 17-28
+    Shades of Love, by Travis S. Casey			VI.4	pg 13
+  Adventures, Horror:
+    Shades of Love, by Travis S. Casey			VI.4	pg 13
+  Creatures:
+    TTGBIMH: The New Dinosaurs!, by Travis S. Casey	VI.3	pg 40-45
+    TTGBIMH: The New Dinosaurs!, by Travis S. Casey	VI.4	pg 10-13
+  Creatures, Stats:
+    Tunnel Springer, by Carol Shrieves			VI.4	pg 63
+  NPCs:
+    TTGBIMH: Cyberware, by Travis S. Casey		VI.6	pg 21-23
+  Rules, Complete:
+    Envoy Third Draft					VI.1	pg 38-46
+
+(1) Envoy is a Generic game system designed to be easily convertable
+to other systems on the market.
+
+FANTASY, GENERAL	
+  Adventures:
+    TTGBIMH: Which Way is Which?, by Travis S. Casey	VI.5	pg 19-20
+  Background, Misc:
+    TTGBIMH: A World of Change, by Travis S. Casey	VI.5	pg 17-18
+  Background, Government:
+    AotGM: Government & Your Game, by Ken McGlothlen	VI.4	pg 20-21
+  Campaign Design, Misc:
+    WB101: Civilization, by Tim Jennings		VI.4	pg 17
+    DD: Exotica, by Ed Greenwood			VII.1	pg 18-19
+    DD: Memorable Gaming, by Ed Greenwood		VII.2	pg 13-15
+  Campaign Design, Cities:
+    TTGBIMH: Cities and Other Strange Places, by Travis S. Casey                                                                        VII.1   pg 15-16
+  Campaign Design, Cults:
+    AotGM: Divine Numbers, by Ken McGlothlen		VI.6	pg 13-14
+    WB101: The Gods Have Spoken..., by Tim Jennings	VI.2	pg 54-55
+  Creatures:
+    Cryptology: Lich Hunting, by Charlotte Smith	VI.2	pg 56-57
+  Equipment, Magic Items:
+    TTGBIMH: Lint Remover, by Travis S. Casey		VI.5	pg 18
+    TTGBIMH: Magician's Bag, by Travis S. Casey		VI.5	pg 18-19
+    TTGBIMH: One-key Lock, by Travis S. Casey		VI.5	pg 19
+    TTGBIMH: Preservation Chest, by Travis S. Casey	VI.5	pg 19
+  Fiction:
+    A Dark Reflection, by Harrison, McLaughlin & Richardson                                                                             VI.5    pg 52-57
+  Magic:
+    The Art of the Prophet in Ancient Greece, by Doug Easterly                                                                          VII.1   pg 43-44
+    Cryptology: Behind the Philospher's Stone, by Charlotte Smith                                                                       VI.5    pg 27-28
+    Real Magic, by Travis S. Casey			VII.2	pg 25-27
+    The Shaman, by Mike McDonald			VI.6	pg 61-64
+  Vignettes:
+    TTGBIMH: Just a Little Job, by Ken McGlothlen	VII.1	pg 16
+  Reviews, Flying Buffalo:
+    Maps: Cities					VI.6	pg 91
+
+FICTION							**MISC MISC**
+  Fantasy, General:
+    A Dark Reflection, by Harrison, McLaughlin & Richardson                                                                             VI.5    pg 52-57
+  SLA Industries:
+    Disposable Assets, by J. Paul Hunter		VII.2	pg 50
+
+FUZZY HEROES [Inner City Games Designs]			**RPG HUMOR**
+  Reviews:
+    Fuzzy Heroes					VII.2	pg 62-63
+
+GENERAL							**MISC MISC**
+  Meta, Cons:
+    Convention Etiquette, by Bruce Kirkhope		VI.1	pg 14
+  Advice, Game Masters:
+    Dear Abertanthus, by Bruce Gasson			VI.1	pg 6-7
+    Dear Abertanthus					VI.2	pg 9
+    Dear Abertanthus					VI.3	pg 11-12
+    Hoarding the Copper, by Robert Gregory		VI.1	pg 57-58
+  Background:
+    Cryptology: Ak!, by Charlotte Smith			VI.4	pg 15-16
+    AotGM: Plague, by Ken McGlothlen			VII.2	pg 22-23
+  Campaign Design, Misc:
+    WB101: Caveman vs. Scientist, by Tim Jennings	VI.3	pg 31-32
+  Campaign Design, Maps:
+    AotGM: Cartography 101, by Ken McGlothlen		VI.2	pg 37-39
+    AotGM: Cartography 101, Part 2, by Ken McGlothlen	VI.3	pg 63-65
+  Campaign Design, Props:
+    WB101: A Material World, by Tim Jennings		VI.1	pg 9
+  [See Also: ENVOY]
+
+GREAT DALMUTI [WotC]					**CARD MISC**
+  Previews:
+    Great Dalmuti Game					VI.5	pg 23-24
+
+GURPS [SJG]						**RPG MISC**
+  Reviews:
+    GURPS Magic, Second Edition				VI.6	pg 89-90
+    GURPS Vampire: The Masquerade			VI.2	pg 66
+    GURPS Vehicles					VII.2	pg 66
+
+HEROQUEST [Milton Bradley]				**BOARD FANTASY**
+  Reviews:
+    HeroQuest						VI.2	pg 58-59
+
+HORROR, GENERAL						**MISC HORROR**
+  Advice, Game Masters:
+    The Horror... The Horror, by Bruce Gasson		VI.2	pg 13-14
+    Using Music, by Robert L. Jones			VII.2	pg 28-29
+  Background:
+    Porpyria: The Vampire Disease?, by Travis Casey	VI.2	pg 31-32
+
+HISTORY OF THE WORLD [AH]				**BOARD WAR**
+  Reviews:
+    History of the World				VII.1	pg 90-91
+
+IMMORTAL [Precedence]					**RPG HORROR**
+  Campaign Design, Mantles:
+    Making Immortal Mantles, by Randy L. Lindsay	VII.2	pg 40-45
+
+INDIANA JONES [West End Games]				**RPG PULP**
+  Adventures:
+    Indiana Jones & the Temple of Seth, by Bill Ohlmesdahl                                                                              VII.1   pg 49-52
+
+INTERVIEWS						**MISC MISC**
+  Authors:
+    Baker, Nancy					VI.2	pg 28-30
+    Brooks, Terry					VI.5	pg 45-48
+    Duncan, Dave					VI.4	pg 72-74
+    Friedman, Michael Jan				VI.1	pg 59-60
+    Gibson, William					VI.6	pg 52-55
+    Ogden, Frank					VI.6	pg 66-70
+    Pohl, Frederick					VI.3	pg 56-58
+    Salvatore, RA					VII.1	pg 54-58
+  Comics:
+    Ennis, Garth					VII.2	pg 32-35
+    Shooter, Jim					VII.1	pg 76-79
+    Sim, Dave						VI.2	pg 46-49
+  Gaming:
+    Garfield, Richard					VI.5	pg 68-72
+    Greenwood, Ed					VI.4	pg 34-37
+  Movies:
+    Carpenter, John					VI.4	pg 38-44
+    Craven, Wes						VII.2	pg 51-54
+    Mayherm, Peter					VI.3	pg 47-49
+    Muren, Dennis					VI.4	pg 64-66
+    Prowse, David					VI.3	pg 50-53
+    Russell, Chuck					VII.1	pg 65-67
+    Mulcahy, Russell					VII.1	pg 72-73
+
+JYHAD [WotC]						**CCG HORROR**
+  Rules, Variant:
+    Charged Edge, by Thorin A. Zanger			VII.2	pg 19
+    Hunting for the Hungry, by Thorin A. Zanger		VII.2	pg 19
+    Improved Politics, by Thorin A. Zanger		VII.2	pg 19
+
+KING OF THE SANDBOX [Howling Falcon]			**BOARD HUMOR**
+  Reviews:
+    King of the Sandbox					VI.2	pg 61-62
+
+KULT [Metropolis Games Ltd.]				**RPG HORROR**
+  Adventures:
+    A Pound of Flesh, by J. Paul Hunter			VII.2	pg 36-37
+  Reviews:
+    Kult						VI.2	pg 64-65
+
+LARP, GENERAL						**LARP MISC**
+  Misc:
+    LARP: Nero-Style, by Paul Braun			VI.5	pg 41-42
+    A Recipe for Live ROleplaying, by Sandy Atunes	VI.5	pg 38-40
+
+LOST SOULS [Marquee Press]				**RPG HORROR**
+  Reviews:
+    Lost Souls						VI.5	pg 78-79
+
+MAGE: THE ASCENSION [White Wolf]			**RPG FANTASY**
+  Reviews:
+    Mage: The Ascension					VI.4	pg 79-80
+  [Also See: MIND'S EYE THEATRE, VAMPIRE]
+
+MAGIC: THE GATHERING [WotC]				**CCG FANTASY**
+  Misc:
+    The Sorcerer's Apprentice, by Thorin A. Zanger	VI.3	pg 15-24
+    The Sorcerer's Apprentice, by Thorin A. Zanger	VI.4	pg 22-26
+    The Sorcerer's Apprentice, by Thorin A. Zanger	VI.5	pg 31-36
+    The Sorcerer's Apprentice, by Thorin A. Zanger	VI.6	pg 32-36
+    The Sorcerer's Apprentice, by Thorin A. Zanger	VII.1	pg 27-34
+    The Sorcerer's Apprentice, by Thorin A. Zanger	VII.2	pg 17-19
+  Accessories, Card Lists:
+    Antiquities						VI.6	pg 35-36
+    Arabian Nights					VI.5	pg 35-36
+    Legends						VII.1	pg 32-34
+  Advice, Players:
+    Sneaky Tricks & Strategies, by Thorin A. Zanger	VI.6	pg 34
+    Sneaky Tricks & Strategies, by Thorin A. Zanger	VII.1	pg 29
+    Sneaky Tricks & Strategies, by Thorin A. Zanger	VII.2	pg 18-19
+  Rules, New Cards:
+    Ape-Man, by Thorin A. Zanger			VI.4	pg 23
+    Artificer's Tools, by Thorin A. Zanger		VI.4	pg 23
+    Conjurer's Rod, by Thorin A. Zanger			VI.4	pg 23
+    Dark Channeller, by Thorin A. Zanger		VI.4	pg 23
+    Dove of Peace, by Thorin A. Zanger			VI.4	pg 22
+    Druid's Touch, by Thorin A. Zanger			VI.4	pg 22
+    Evil Eye, by Thorin A. Zanger			VI.4	pg 22
+    Lay on Hands, by Thorin A. Zanger			VI.4	pg 22
+    Merfolk of the Dark Bayou, by Thorin A. Zanger	VII.1	pg 28
+    Merfolk of the Deep Blue, by Thorin A. Zanger	VII.1	pg 28
+    Merfolk of the Coral Lance, by Thorin A. Zanger	VII.1	pg 28
+    Prodigal Apprentice, by Thorin A. Zanger		VI.4	pg 22
+    Safe Haven, by Thorin A. Zanger			VI.4	pg 23
+    Seahourse, by Thorin A. Zanger			VII.1	pg 28
+    Stone Troll, by Thorin A. Zanger			VI.4	pg 23
+    Tiger, by Thorin A. Zanger				VI.3	pg 20-21
+    Trollsong, by Richard Garfield			VI.4	pg 25
+    War Banner of Gurzax, by Thorin A. Zanger		VI.4	pg 23
+    Warlord's Ring, by Thorin A. Zanger			VI.4	pg 23
+  Rules, Official Questions & Answers:
+    FAQ Update, by Dave Howell				VI.3	pg 15-20
+    MTG Frequently Asked Questions, by Dave Howell	VI.2	pg 7-8
+    Antiquities FAQ					VII.1	pg 29-32
+    Arabian Nights Q&A					VI.5	pg 33-35
+  Rules, Variant:
+    Disposable Mana, by Thorin A. Zanger		VII.2	pg 19
+    Hazardous Environment, by Thorin A. Zanger		VI.6	pg 32-34
+    Lichwar, by Thorin A. Zanger			VI.5	pg 32-33
+    Team Play						VI.3	pg 22-24
+    Three Player Variant, by James Ernst		VI.3	pg 28-29
+  Previews:
+    Magic: The Gathering				VI.1	pg A1-A2
+
+MAN O'WAR [GW]						**MINIATURES SF**
+  Reviews:
+    Man O'War						VI.3	pg 67
+
+MINDS EYE THEATRE: THE MASQUERADE [White Wolf]		**LARP HORROR**
+  Reviews:
+    The Masquerade					VI.2	pg 67-68
+  [Also See: MAGE, VAMPIRE]
+
+MILLENNIUM'S END [Chameleon Eclectic]			**RPG SPY**
+  Reviews:
+    Millennium's End					VII.1	pg 88
+
+MYSTIC WAR [Tim Jim/Prism]				**CARD FANTASY**
+  Reviews:
+    Mystic War						VII.2	pg 64-65
+
+NEWSLETTERS						**MISC MISC**
+  Cutting Edge Games:
+    Beyond the Edge					VII.1	pg 46
+  CyberRealms Inc:
+    Maelstrom #1					VII.1	pg 80
+    Maelstrom #2					VII.2	pg 46
+  Daedalus Games:
+    The Labyrinth #1					VI.6	pg 47
+    The Labyrinth #2					VII.1	pg 25
+  Digital Alchemy:
+    Digital Alchemist #1				VI.5	pg 8
+    Digital Alchemist #2				VI.6	pg 28
+    Digital Alchemist #3				VII.1	pg 71
+  Escape Ventures, Inc:
+    Venture #1						VII.1	pg 13
+  Faysylwood Press:
+    Treasures From the Magic Pool			VI.4	pg 70
+    Treasures From the Magic Pool #2			VI.5	pg 85
+  Flying Buffalo:
+    New Releases from Flying Buffalo			VI.6	pg 41-44
+  GAMA:
+    The Gama Reporter					VII.2	pg 30-31
+  Global Games:
+    The Global Warming					VI.4	pg 14
+    The Global Warming					VI.5	pg 81
+    The Global Warming					VI.6	pg 65
+    The Global Warming					VII.1	pg 17
+  Grimoire Games:
+    Arduin Multiversal Enquirer #1			VI.4	pg 33
+    Arduin Multiversal Enquirer #2			VI.5	pg 25
+    Arduin Multiversal Enquirer #3			VI.6	pg 15
+  Grim Reaper Casting:
+    Nasteez Newz #2					VI.5	pg 75
+    Nasteez Newz #3					VI.6	pg 38
+    Nasteez Newz #4					VII.1	pg 87
+  Heartbreaker Miniatures:
+    Heartbeat #4					VI.4	pg 18-19
+    Heartbeat #5					VI.5	pg 29-30
+    Heartbeat #6					VI.6	pg 56-57
+  Hero Games:
+    Hero News						VII.1	pg 42
+  Howling Falcon:
+    Words on the Wind					VI.4	pg 75
+    Words on the Wind					VI.5	pg 44
+    Words on the Wind					VII.1	pg 41
+  ICE:
+    ICE News						VII.1	pg 36
+  Mayfair:
+    The Mayfair Games Train Newsletter			VI.4	pg 9
+    The Mayfair Games Train Newsletter #2		VI.5	pg 5
+    The Mayfair Games Train Newsletter #3		VI.6	pg 71
+    The Mayfair Games Train Newsletter #4		VII.1	pg 5
+    The Mayfair Games Train Newsletter #5		VII.2	pg 6
+  NBOS Software:
+    netBos						VI.5	pg 16
+  Peregrine:
+    Aerie #1						VI.5	pg 73
+    Aerie #2						VI.6	pg 20
+    Aerie #3						VII.1	pg 68
+  Reaper Miniatures:
+    Reaper's Digest					VI.4	pg 45
+    Reaper's Digest					VI.5	pg 58-59
+    Reaper's Digest #3					VI.6	pg 7
+  Studio X:
+    The Rag & Bone Place				VI.3	pg 8-9
+    The Rag & Bone Place				VI.4	pg 67
+    The Rag & Bone Place				VI.5	pg 37
+    The Rag & Bone Place				VI.6	pg 93
+  Wargames West:
+    Wargames West Newsflash				VI.6	pg 24
+    The Knightly News #2				VII.1	pg 14
+  West Ends Games:
+    West End Games News					VI.3	pg 54-55
+    West End Games News Spotlight 1994			VI.4	pg 27-29
+    West End Games News					VI.5	pg 11-12
+    West End Games News					VI.6	pg 86-88
+    West End Games News					VII.1	pg 20-22
+  Wizards of the Coast:
+    The Apothecary #2					VI.1	pg A1-A4
+    The Apothecary #3					VI.2	pg 40-45
+    The Apothecary #4					VI.3	pg 25-30
+    The Apothecary #5					VI.4	pg 59-63
+    The Apothecary #6					VI.5	pg 64-67
+    The Apothecary #7					VI.6	pg 79-84
+    The Apothecary #8					VII.1	pg 59-64
+    The Apothecary #9					VII.2	pg 20-21
+
+NEXUS [Daedelus Games]					**RPG MISC**
+  Background, Sports:
+    'Digm Crawlers, by Robin Laws			VII.1	pg 37-39
+
+NIGHTLIFE [Stellar Games]				**RPG HORROR**
+  Reviews:
+    Nightlife						VII.1	pg 88-89
+
+OGRE [SJG]						**BOARD SF**
+  Reviews:
+    Ogre						VI.3	pg 66
+    GEV							VI.3	pg 66
+    Shockwave						VI.3	pg 66
+
+OVER THE EDGE [Atlas]					**RPG SF**
+  Reviews:
+    Over the Edge					VII.1	pg 89-90
+
+PANDEMONIUM! [MIB Productions]				**RPG HUMOR**
+  Reviews:
+    Pandemonium!					VII.2	pg 65-66
+
+PARANOIA [WEG]						**RPG SF**
+  Adventures:
+    X: Title Deleted for Security Reasons!		VI.3	pg 33-38
+  Reviews:
+    Paranoia, Second Edition				VI.3	pg 70
+    Recycled Pack					VI.3	pg 70
+
+THE PRIMAL ORDER [WotC]					**RPG FANTASY**
+  Reviews:
+    Knights						VII.2	pg 64
+
+PRIME DIRECTIVE [TFG]					**RPG SF**
+  Reviews:
+    Prime Directive					VI.6	pg 92
+
+QUEST FOR THE FAYSYLWOOD [Faysylwood Press]		**CARD FANTASY**
+  Rules, Official Q&A:
+    Quest for the Faysylwood Q&A			VI.5	pg 85
+  Rules, Variant:
+    Optional Rules					VI.5	pg 85
+
+SCIENCE FICTION, GENERAL				**MISC SF**
+  Campaign Design, Misc:
+    DTLFTF: The Information Hunter, by Frank Ogden	VI.4	pg 30-32
+    DTLFTF: Modern Magic, by Frank Ogden		VI.5	pg 9-10
+    Cryptology: Utter Speculation, by Charlotte Smith	VI.3	pg 10
+    DTLFTF: Voodoo, Virgins & VR, by Frank Ogden	VI.6	pg 17-18
+  Equipment:
+    Space Activity Suits, by Sean Barrett		VI.3	pg 14
+
+SHADOWRUN [FASA]					**RPG SF**
+  Adventures:
+    Against the Wind, by William Harrison		VI.6	pg 72-77
+
+SHATTERZONE [West End]					**RPG SF**
+  Reviews:
+    Shatterzone						VI.4	pg 80-81
+
+SLA INDUSTRIES [Nightfall Games]			**RPG FANTASY**
+  Fiction:
+    Disposable Assets, by J. Paul Hunter		VII.2	pg 50
+ 
+SPACE HULK [GW]						**MINIATURES SF**
+  Reviews:
+    Space Hulk						VI.2	pg 59
+    Space Hulk						VI.3	pg 67
+
+SPACE MASTER [ICE]					**RPG SF**
+  Reviews:
+    Aliens & Artifacts					VI.3	pg 71
+
+STAR FLEET BATTLES [FASA]				**BOARD SF**
+  Reviews:
+    Star Fleet Battles					VI.3	pg 66
+
+STAR FRONTIERS [TSR]					**RPG SF**
+  Reviews:
+    Knight Hawks					VI.3	pg 66
+
+STAR WARS: THE ROLEPLAYING GAME [WEG]			**RPG SF**
+  Reviews:
+    Galaxy Guide 7: Mos Eisley				VI.3	pg 71
+    Wanted by Cracken					VI.3	pg 71
+
+SUN & STORM [Storm Press]				**RPG FANTASY**
+  Reviews:
+    Sun & Storm						VI.4	pg 81
+
+TALISLANTA [WotC]					**RPG FANTASY**
+  Adventures:
+    Through the Eye of a Needle, by J. Paul Hunter	VI.4	pg 48-58
+  NPCs:
+    Sarista Guards					VI.4	pg 62
+  Rules, Variant:
+    Talislant Variants, by Misc				VI.2	pg 43-44
+  Previews:
+    THe Lyceum Arcanum					VI.5	pg 66
+    Sarista						VI.4	pg 61-62
+  Reviews:
+    Thustram's Collectanea				VII.1	pg 91
+
+TALISMAN [GW]						**BOARD FANTASY**
+  Reviews:
+    Talisman						VI.2	pg 59
+
+TRAVELLER, THE NEW ERA [GDW]				**RPG SF**
+  Reviews:
+    Traveller, The New Era				VI.5	pg 79-80
+
+UNDERGROUND [Mayfair]					**RPG SF**
+  Previews:
+    Underground						VI.1	pg 49-50
+  Reviews:
+    Underground						VI.4	pg 81-83
+
+VAMPIRE: THE MASQUERADE [White Wolf]			**RPG HORROR**
+  Adventures:
+    Something Wicked..., by Jeff Harrison		VI.2	pg 15-26
+  [Also See MAGE, MIND'S EYE THEATRE]
+
+WARHAMMER 40K [GW]					**MINIATURES SF**
+  Races:
+    Zoats, by Gord Brown				VI.2	pg 52-53
+  Reviews:
+    Warhammer 40k					VI.3	pg 6-7
+    Warhammer 40k Boxed Set				VI.4	pg 83
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

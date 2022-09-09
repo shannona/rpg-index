@@ -1,0 +1,149 @@
+<html>
+<head>
+  <meta name="description" content="Traveller Universal Magazine Profile">
+  <meta name="keywords" content="traveller,magazine,index">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
+  <title>Traveller Universal Magazine Profile</title>
+
+  <LINK rel="stylesheet" TYPE="text/css" HREF="css/general.css">
+  <LINK rel="stylesheet"  TYPE="text/css" HREF="css/index-trav.css">
+
+</head>
+<body bgcolor="#ffffff" link="#ff0000" vlink="#ff0000">
+
+<div class="box">
+ <div class="row">
+    <div class="cover"><img src="images/covers/jtas01.jpg"></div>
+    <div class="cover"><img src="images/covers/jtas08.jpg"></div>
+    <div class="cover"><img src="images/covers/jtas09.jpg"></div>
+    <div class="cover"><img src="images/covers/jtas13.jpg"></div>
+    <div class="cover"><img src="images/covers/jtas21.jpg"></div>
+    <div class="cover"><img src="images/covers/jtas24.jpg"></div>  
+  </div>
+</div>
+
+<h1>Traveller Universal Magazine Profile (UMP)</h1>
+
+<p>Format is:
+  <pre>
+    Era Length Count Type Format Country - Region
+  </pre>
+
+<p><b>Examples:</b>
+  <ul>
+    <li><b>Challenge:</b> 3ABB4A-1
+    <li><b>Freelance Traveller:</b> 7EGE8A-0
+    <li><b>High Passage:</b> 122C5A-2
+    <li><b>JTAS v1:</b> 177A5A-1
+    <li><b>JTAS v2:</b> 521A0A-0
+    <li><b>JTAS v4:</b> 842A7A-1
+    <li><b>The Traveller's Digest:</b> 267C1A-G
+  </ul>  
+      
+<p><b>Era of Publication.</b> General time period of publication,
+mostly categorized by major Traveller edition from the time. Usually
+flagged as the publication of the first issue, except when the vast
+majority of publication happened in a different era.
+
+<ul>
+<li><b>1</b> — Antiquity Traveller (1977-1981)
+<li><b>2</b> — Classic Traveller (1982-1986)
+<li><b>3</b> — MegaTraveller (1987-1992)
+<li><b>4</b> — The New Era (1993-1995)
+<li><b>5</b> — The T4 Era (1996-1997)
+<li><b>6</b> — The Long Night (1998-2007)
+<li><b>7</b> — First Mongoose Imperium (2008-2015)
+<li><b>8</b> — Second Mongoose Imperium (2016-Present)
+</ul>
+
+<p><b>Length of Publication.</b> Year of last publication minus year
+of first publication plus 1.
+
+
+<p><b>Issue Count.</b> Count of published issues, including any specials
+or annuals.
+
+<ul>
+<li><b>1</b> — 1-3.
+<li><b>2</b> — 4-6.
+<li><b>3</b> — 7-9.
+<li><b>4</b> — 10-12.
+<li><b>5</b> — 13-15.
+<li><b>6</b> — 16-20.
+<li><b>7</b> — 21-25.
+<li><b>8</b> — 25-30.
+<li><b>9</b> — 35-40.
+<li><b>A</b> — 41-50.
+<li><b>B</b> — 51-60.
+<li><b>C</b> — 61-70.
+<li><b>D</b> — 71-80.
+<li><b>E</b> — 81-90.
+<li><b>F</b> — 91-100.
+<li><b>G</b> — 101-150.
+</ul>
+
+<p><b>Type.</b> The categorization of the magazine.
+
+<ul>
+<li><b>A</b> — Official Traveller magazine.
+<li><b>B</b> — House organ including Traveller.
+<li><b>C</b> — Licensed Traveller magazine
+<li><b>D</b> — General science-fiction magazine.
+<li><b>E</b> — Traveller fanzine.
+<li><b>H</b> — HIWG fanzine.  
+<li><b>X</b> — General RPG magazine.
+</ul>
+
+<p><b>Format.</b> A bitmask identifying what format the magazine was
+printed in.
+
+<p>The four bits are:
+  <ul>
+<li>0001 = printed as digest
+<li>0010 = printed as hardcover
+<li>0100 = reprinted electronically (officially)
+<li>1000 = initially printed electronically
+  </ul>
+
+<p>Logically ANDing the bits results in the following major format
+categories:
+
+  <ul>
+    <li><b>0</b> — Full-sized print.
+    <li><b>1</b> — Digest-sized print.
+    <li><b>2</b> — Full-sized hardcover.
+    <li><b>3</b> — Digest-sized hardcover.
+    <li><b>4</b> — Full-sized print, reprinted electronically.
+    <li><b>5</b> — Digest-sized print, reprinted electronically.
+    <li><b>6</b> — Full-sized hardcover, reprinted electronically.
+    <li><b>7</b> — Digest-sized hardcover, reprinted electronically..
+    <li><b>8</b> — Full-sized electronic.
+    <li><b>9</b> — Digest-sized electronic.
+    <li><b>X</b> — Undefined format.
+  </ul>      
+      
+<p><b>Country of Origin.</b> Country where magazine was published.
+
+<ul>
+<li><b>A</b> — United States.
+<li><b>B</b> — United Kingdom.
+<li><b>C</b> — Canada.
+<li><b>D</b> — Australia.
+<li><b>X</b> — Other.
+</ul>
+
+<p><b>Region.</b> Main Area of Play
+
+<ul>
+  <li><b>0</b> — No official area.
+  <li><b>1</b> — Spinward Marches
+  <li><b>2</b> — The Old Expanses.
+  <li><b>3</b> — Reaver's Deep.
+  <li><b>4</b> — Trojan Reach.
+  <li><b>5</b> — The Hinterworlds.
+  <li><b>D</b> — Deneb Sector    
+  <li><b>F</b> — Foreven Sector
+  <li><b>G</b> — A Grand Tour of the Imperium.
+  <li><b>X</b> — Non-Canon Creation.
+</ul>    
+</ul>

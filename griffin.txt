@@ -1,0 +1,69 @@
+			  THE GRIFFIN INDEX
+			     VERSION 1.01
+
+			      [issue 1]
+
+			   by Shannon Appel
+			   (appel@erzo.org)
+
+HISTORY, 1984
+ 
+Griffin was a brand new independent magazine which appeared in late
+1984. It was well laid out, had a glossy cover, and was filled with
+professional advertisements. One issue was published, and then the
+entire magazine disappeared back into the void.
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems. In
+addition, there are categories for GENERAL, FANTASY, and INTERVIEWS.
+
++------------------------------------------------------------------+
+| This index is Copyright 1995-6 Shannon Appel.  It may be freely  |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+AD&D [TSR]						**RPG FANTASY**
+  Adventures:
+    Lindenfall, by Robert Waldbauer			#1	pg 14-24
+
+CHILL [Pacesetter]					**RPG HORROR**
+  Reviews:
+    Chill						#1	pg 3
+
+ELFQUEST [Chaosium]					**RPG FANTASY**
+  Reviews:
+    Elfquest						#1	pg 4
+
+FANTASY, GENERAL					**RPG FANTASY**
+  Campaign Design:
+    Campaign Development, by Robert Waldbauer		#1	pg 33-34
+    Towns, by Robert Waldbauer				#1	pg 13
+
+GENERAL							**MISC MISC**
+  Meta, Cons:
+    GenCon 17, by bill Cavalier				#1	pg 25-29
+
+INTERVIEWS						**MISC MISC**
+  Acres, Mark						#1	pg 30-32
+  Ricketts, John					#1	pg 30-32
+
+MARVEL SUPER HEROES [TSR]				**RPG SUPERHEROES**
+  Reviews:
+    Marvel Super Heroes					#1	pg 5
+
+STAR TREK: THE ROLE PLAYING GAME [Fasa]			**RPG SF**
+  Reviews:
+    Star Trek III Starship Combat Game			#1	pg 6-10
+
+TIMEMASTER [Pacesetter]					**RPG SF**
+  Reviews:
+    Timemaster						#1	pg 3-4
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

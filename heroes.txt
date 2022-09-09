@@ -1,0 +1,248 @@
+THE HEROES INDEX
+VERSION 1.07
+
+[issues VI.1-VII.4]
+
+by Shannon Appelcline
+(shannon.appelcline@gmail.com)
+
+HISTORY, 1984-1986
+
+Heroes was a short-lived magazine published by Avalon Hill beginning
+in 1984. At the time Avalon Hill was trying to expand into the
+role-playing industry through the publication of four games: James
+Bond 007, Lords of Creation, Powers & Perils, and RuneQuest. The
+original editor, William E. Peschel, produced a magazine that was
+occasionally useful. He left after the seventh issue, and was replaced
+by Richard Snider, the creator of Powers & Perils. Content and Layout
+both deteriorated at that point. Ultimately, Avalon Hill's RPG
+experiment was an unsuccessful one, and Heroes lasted only a few
+years. The tenth and final issue (labeled Volume II, Number 4) was
+published in 1986.
+
+THEME ISSUES
+
+#I.4 Special RuneQuest Issue
+#I.6 RuneQuest Forever!
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems. In
+addition, there is a GENERAL category for FANTASY, which is for
+articles about the appropriate genre which may be applied to any game
+of that type. Finally, the INTERVIEWS section contains interviews with
+various game designers.
+
+COPYRIGHT
+
+This index is &copy; Copyright 1993-2020 Shannon Appelcline. It is
+released under a cc-by-4.0 (https://creativecommons.org/licenses/by/4.0/)
+license, allowing reuse with attribution.
+
+AMOEBA WARS [Avalon Hill]                               **BOARD MISC**
+  Advice, Players:						
+    Amoeba Wars: An Analysis, by Mike Bennighof         VI.1    pg 14
+
+DUNE [Avalon Hill]                                      **BOARD SF**
+  Rules, Scenerios:
+    Dune Scenario: The Ixian Jihad, by Kenneth Burke    VI.1    pg 46-47
+
+ELRIC BOARD GAME [Avalon Hill]                          **BOARD FANTASY**
+  Background:
+    Of Hordes and Heroes, by Glenn Rahman               VI.2    pg 12-13+
+  Rules, Scenerios:
+    More Elric Scenerios, by Jeffrey Seiken             VI.2    pg 13+
+								
+FANTASY, GENERAL                                        **MISC FANTASY**
+  Adventures, Solo:
+    Avenger Ant, by Richard Snider                      VII.4   pg 5-10+
+    The Crystal Key, by Richard Snider                  VII.3   pg 5-10+
+  Background, Misc:
+    Equal Time for Lycanthropes, by Quentin Long        VI.4    pg 43-44
+
+FREEDOM IN THE GALAXY [Avalon Hill]                     **BOARD SF**
+  Advice, Players:
+    Tips for Tyrants, by Trevor L. Bynum                VII.2   pg 43
+  Rules, Misc:
+    Galactic Freedom, by Charles E. Duke                VI.4    pg 33-37
+    Science Fiction for the Wargamer, by Nicky Palmer   VI.4    pg 38-41
+  Reviews:
+    Freedom in the Galaxy                               VI.4    pg 33-37
+    Freedom in the Galaxy                               VI.4    pg 38-41
+
+GENERAL                                                 **MISC MISC**
+  Advice, Gamemasters:
+    The Care and Feeding of Hungry Villains, by Craig Barrett
+                                                        VI.6    pg 43-44
+    Details, Details, by Craig Barrett                  VII.2   pg 46-47
+    GM Friends, by Jonathan Tweet                       VII.2   pg 45
+    Instant Cures for Campaign Crashes, by Quentin Long VI.6    pg 45
+    Realms of Adventure, by Richard Snider              VII.4   pg 35-38
+    Too Many Monsters, by Craig Barrett                 VI.3    pg 41-42
+  Campaign Design, Misc:
+    Gaming: My Way, by Quentin Long                     VI.3    pg 43
+
+INTERVIEWS                                              **MISC MISC**
+  Opolko, Phyllis                                       VII.4   pg 39-41
+
+JAMES BOND 007 [Victory Games]                          **RPG SPY**
+  Meta:
+    The Design of Octopussy, by Neil Randall            VI.4    pg 14-15
+    The History of the Game, by Gerry Klug              VI.3    pg 15
+    The Making of Goldfinger, by Robert Kern            VI.2    pg 5-6+
+  Equipment:
+    Accessories for Agents, by Greg Gordon              VI.3    pg 5-7
+    More Accessories for Agents, by Greg Gordon         VI.4    pg 8
+    More Q Branch Equipment, by Paul T. Riegel          VII.4   pg 20
+  Rules, Misc:
+    Advancing the Game, by Robert Kern                  VI.6    pg 7-8
+  Rules, Combat:
+    A Primer on Combat, by Gerry Klug                   VI.4    pg 42
+  Rules, Skills, Gambling:
+    Turn of the Friendly Card, by David Klempa          VI.5    pg 5-6
+  Rules, Skills, Languages:
+    Languages in Jame Bond, by David Klempa             VI.5    pg 7
+
+LEGIONNAIRE [Avalon Hill]                               **BOARD HISTORICAL**
+  Reviews:
+    Legionnare                                          VI.2    pg 45-46
+
+LORDS OF CREATION [Avalon Hill]                         **RPG MISC**
+  Adventures:
+    Survival Run of the Starnomads, by Tom Moldvay      VI.1    pg 15-33
+  NPCs:
+    Dragonslayers, by William Wilson Goodson Jr.        VII.2   pg 11-12
+    Pirates, Buccaneers & Highwaymen, by Tom Moldvay    VI.4    pg 9-13
+    Swordsmen Real and Reeled, by Tom Moldvay           VI.5    pg 36-39
+  Races, Misc:
+    Alienating Yourself, Part 1, by Tom Moldvay         VI.2    pg 7-8+
+    Alienating Yourself, Part 2, by Tom Moldvay         VI.3    pg 8-10
+    The Creations of Abnaric Elgar, by Drachir Redins   VII.3   pg 27-30
+  Rules, Misc:
+    Dueling Rules for LoC, by Tom Moldvay               VI.3    pg 19-30
+
+MYSTIC WOOD [Avalon Hill]                               **BOARD FANTASY**
+  Reviews:
+    Mystic Wood                                         VI.3    pg 31-33
+
+POWERS & PERILS [Avalon Hill]                           **RPG FANTASY**
+  Misc:
+    So What's So Great about P&P, by Richard Snider     VI.1    pg 11-12
+  Accessories, Computer Programs:
+    Computer Character Generation, by John Huff         VII.3   pg 31-36
+  Adventures:
+    Doom Manor, by Richard Snider                       VI.2    pg 15-35
+    Three Quests for Curses, by Mike Olson              VII.1   pg 36-44
+  Advice, Players:
+    Careful Character Creation, by Richard Snider       VI.3    pg 16-17
+  Background:
+    The Royal City of Donara, by Richard Snider         VI.5    pg 17-24
+    The Sea of Tears, by Richard Snider                 VII.2   pg 13-26
+    A Traveller's Guide to Donara, by Richard Snider    VI.1    pg 7-10
+  Equipment, Magic Items:
+    The Devices of Oom, by David Kuijt & Winchell Chung, Jr.
+                                                        VI.5    pg 10-12
+    The Laws of Magic, by David Kuijt & Winchell Chung, Jr.
+                                                        VI.5    pg 13-14
+  Magic, Misc:
+    Becoming a Magic-user, by Robin MacKay              VII.4   pg 27-29
+  Magic, Priests:
+    The Priesthood, by Richard Snider                   VII.2   pg 27-30
+    The Priesthood (Part II), by Richard Snider         VII.3   pg 37-45
+  Magic, Shadow Weavers:
+    Shadow Magic, by Richard Snider                     VII.2   pg 35-39
+  NPCs:
+    Weapon Masters, by Richard Snider and David Kuijt   VI.3    pg 35-39
+  Rules, Misc:
+    New Skills for P&P, by Richard Snider               VII.2   pg 31-34
+  Rules, Character Creation:
+    Conforming P&P Characters to their Lands, by Mike Olson
+                                                        VII.2   pg 40
+    New Careers in P&P, by Craig Barrett                VI.5    pg 45-46
+
+RUNEQUEST [Avalon Hill]                                 **RPG FANTASY**
+  Accessories, Record Sheets:
+    Calendrics Record Sheet                             VII.2   pg 42
+    Expanded RQ Character Sheet, by John T. Sapienza Jr VII.2   pg 3-6
+    Ship Data Sheet, by Tim Bailey                      VII.4   pg 45
+  Adventures, Alternate Earth:
+    Gruug's Cave, by Alan LaVergne                      VII.1   pg 19-35
+    Black Sorceror, by Mike Olson                       VII.3   pg 11-26
+  Adventures, Glorantha:
+    The Big Hit, by Sandy Petersen                      VI.6    pg 12-18,31-36
+    Journey to Falderbash, by Bill Williamson           VII.1   pg 12-19
+    The Wolfrunners, by Sandy Petersen                  VI.4    pg 21-27
+  Advice, Players:
+    Tips for Shamans, by Forrest Johnson                VII.4   pg 11-19
+  Background, Glorantha, Fonrit:
+    The Land of Fonrit, by Greg Stafford & Sandy Petersen
+                                                        VI.6    pg 36-39
+  Background, Glorantha, Lunar Empire:
+    History: Zero Wane, by Greg Stafford (1)            VI.1    pg 5-6+
+    History: First & Second Wanes, by Greg Stafford (1) VI.2    pg 9-11+
+    History: Third & Fourth Wanes, by Greg Stafford (1) VI.5    pg 33-35
+    History: Fifth Wane, by Greg Stafford               VI.6    pg 4-6
+    Pottery: First Wane, by Greg Stafford (1)           VI.4    pg 46
+  Background, Glorantha, Pavis:
+    The Ostrich Clan, by Mike Dawson                    VII.1   pg 4-11
+  Creatures:
+    Abstract Elementals, by James A. Holden             VII.4   pg 31-33
+    Insects for RQ, by Sandy Petersen                   VI.3    pg 11-13
+  Cults, Glorantha:
+    Hykim & Mikyh, by Chaosium                          VI.4    pg 30-32
+    Orlanth, by Chaosium (2)                            VI.4    pg 17-21+
+    Telmor, by Chaosium        (3)                      VI.4    pg 28-30
+  Equipment, Ships:
+    The Sail and the Sword, by Tim Bailey               VII.4   pg 23-25+ 
+    A Ship for RuneQuest, by Greg Stafford (4)          VI.3    pg 40
+    War Fleets of Glorantha, by Greg Stafford (4)       VI.2    pg 42-43+
+  Magic, Shamanism:
+    Tips for Shamans, by Forrest Johnson                VII.4   pg 11-19
+  Magic, Sorcery:
+    A New Look at Sorcery, by B.L. Humphreys            VII.1   pg 9-10
+    New Spells for RQ3, by Martin Crim                  VII.4   pg 26
+  NPCs:
+    Tips for Shamans, by Forrest Johnson                VII.4   pg 11-19
+  Rules, Misc:
+    New Skills, by Greg Stafford & Sandy Petersen       VI.6    pg 11+
+    Talents for RQ, by Andrew Scott MacKenzie           VII.2   pg 39
+  Rules, Combat, Misc:
+    Fatigue and Damage Changes, by Jonathan Tweet       VII.1   pg 7
+    RQ Hit Points, by John T. Sapienza, Jr.             VII.1   pg 44
+    Shield Law, by Morgan Woodward                      VII.2   pg 45
+  Rules, Combat, Sea:
+    The Sail and the Sword, by Tim Bailey               VII.4   pg 23-25+ 
+  Rules, Gambling:
+    A RuneQuest Gambling System, by Donna Selzer        VI.5    pg 15
+  Rules, Official Questions & Answers:
+    Dragon Pass                                         VI.6    pg 10-11+
+    RuneQuestions, by the Chaosium Staff                VI.5    pg 40-41
+    RuneQuestions, by the Chaosium Staff                VI.6    pg 39-40
+    RuneQuestions, by the Chaosium Staff                VII.4   pg 21-22
+  Previews, Misc:
+    Box 4: Vikings                                      VI.4    pg 5-7
+    Box 5: Gods of Glorantha                            VI.6    pg 19-30
+  Previews, RuneQuest III:
+    New Face for an Old Friend, by Greg Stafford        VI.1    pg 40-41
+    Testimony of a Tester, by Bruce Dresselhaus         VI.5    pg 8
+    What Happened to RQ, by the Chaosium Staff (5)      VI.5    pg 31-32
+  Reviews:
+    Dragon Pass                                         VI.6    pg 9-10
+
+(1) The Background of the Lunar Empire, through the Fourth Wane, was also
+    published in Wyrm's Footnotes.  Wane 0 appeared in issue 10, Wane 1 in
+    issue 11, Wane 2 in issue 12, Wane 3 in issue 13 and Wane 4 in issue 14.
+(2) A variant of this Cult has been printed in RIVER OF CRADLES (AH 8591).
+(3) A variant of this Cult has been printed in DORASTOR (AH 8592).
+(4) Reprinted in Tales of the Reaching Moon #10.
+(5) Also appeared in Different Worlds #37.
+
+WIZARDS [Avalon Hill]                                   **BOARD FANTASY**
+  Rules, Official Questions & Answers:
+    Rivers of Thought                                   VI.5    pg 29-30
+  Preview:
+    Wizards                                             VI.5    pg 26-28
+
+WIZARD'S QUEST [Avalon Hill]                            **BOARD FANTASY**
+  Rules, Misc:
+    To Challenge the Wizard's Quest, by Thomas Boeche   VI.4    pg 45

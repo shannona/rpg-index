@@ -1,0 +1,810 @@
+			  THE PYRAMID INDEX
+			     VERSION 1.02
+
+			    [issues 1-15]
+
+                           by Shannon Appel
+                           (appel@erzo.org)
+
+HISTORY, 1993-PRESENT
+
+Although a relatively young magazine, Pyramid has a long history
+behind it. Steve Jackson Games first published magazines starting way
+back in the late 1970s, when they took over Metagaming's Space Gamer,
+and published it for many years. Although Space Gamer moved on to
+other companies, before finally dying the death of too many
+publishers, SJG continued publishing other magazines, including
+Roleplayer for GURPS, and Autoduel Quarterly for Car Wars.
+
+In 1993, SJG made the decision to again publish a magazine of interest
+to the entire industry. Pyramid was the result. Pyramid absorbed some
+of the contents of Roleplayer and ADQ, and as a result it does have a
+heavy bias towards SJG's products. However, Pyramid has also shown a
+willingness to publish articles for other games in the intdustry, and
+seems inclined to continue this practice.
+
+This index is now six issues out of date. Distribution of Pyramid in
+this area is extremeley spotty, and thus my collection is once more
+incomplete. It will be updated as circumstances allow.
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems. In
+addition, there are also a number of GENERAL categories, for
+CYBERPUNK, EARTH, FANTASY, HORROR, SCIENCE FICTION and WESTERNS. All
+of the GENERAL categories are for articles about the appropriate genre
+that may be applied to any game that uses that background. Other
+categories in this index include FICTION, INTERVIEWS and SPOTLIGHTS.
+
++------------------------------------------------------------------+
+| This index is Copyright 1995-6 Shannon Appel.  It may be freely  |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+REGULAR FEATURES
+  Misc:
+    Welcome to the Machine, INTERNET INFO, #9-11
+  Comics:
+    Bruno, #4-15, COMIC
+    Murphy's Rules, #1-15, COMIC
+  Gaming Aids:
+    Angels in the Architecture, IN NOMINE, #8-10,12-13		[AitA:]
+    Arena Watch, BACKGROUND, #1					[AW:]
+    Creatures of the Night, CREATURES, #2-6,8,10,12		[CotN:]
+    Primary Sources, AUTHOR SPOTLIGHTS, #1-2,5			[PS:]
+    Supporting Cast, NPCS, #1,11,13-15				[SC:]
+    Terra Incognita, BACKGROUND, #7-9,11-12,14			[TI:]
+    Warehouse 23, ITEMS, #7-11,14-15				[23:]	
+  News:
+    AADA News, AADA NEWS, #1-15
+    Industry News, NEWS, #1-15
+    SJ Game News, NEWS, #4-15
+    Upcoming Releases, NEW RELEASES, #1-15
+  Reviews:
+    Pyramid Picks, COMPUTER GAME REVIEWS, #1-2,4-12
+    Pyramid Picks, MINIATURES REVIEWS, #1-2,7-9,11-12
+
+ADVANCED DUNGEONS & DRAGONS [TSR]			**RPG FANASY**
+  Adventures, Oriental:
+    Lady Mijiko's Holiday, by Graeme Davis		#14	pg 14-28
+  Reviews, Mayfair:
+    Arch Magic						#3	pg 40
+  Reviews, TSR:
+    Encyclopedia Magica					#15	pg 71
+    First Quest						#11	pg 70
+    Karameikos: Kingdom of Adventure			#11	pg 70
+    Planescape						#8	pg 48-49
+
+AMBER [Phage]						**RPG FANTASY**
+  Reviews:
+    Amber						#2	pg 46-47
+    Shadow Knight					#6	pg 19-24
+
+ARIA: CANTICLE OF THE MONOMYTH [Last Unicorn Games]	**RPG FANTASY**
+  Reviews:
+    Aria						#13	pg 70-71
+
+ARS MAGICA [WotC]					**RPG FANTASY**
+  Rules, Official Q&A:
+    Q&A							#10	pg 86
+
+BATTLETECH [FASA]					**BOARD SF**
+  Reviews:
+    Battlespace						#5	pg 44
+
+BLOODSHADOWS [WEG]					**RPG HORROR**
+  Reviews:
+    Bloodshadows					#12	pg 65
+
+BUSHIDO [FGU]						**RPG FANTASY**
+  Adventures:
+    Lady Mijiko's Holiday, by Graeme Davis		#14	pg 14-28
+
+CALL OF CTHULHU [Chaosium]				**RPG HORROR**
+  Reviews, Pagan Publishing:
+    Creatures & Cultists				#5	pg 45
+    The Unspeakable Oath #7-9				#4	pg 40
+    Walker in the Wastes				#12	pg 67
+
+CAR WARS [SJG]						**BOARD SF**
+  Adventures, Protectorate-American War:
+    Recon in Force, by Craig Sheeley			#3	pg 17-19
+  Background, Misc, Arenas:
+    AW: The Boom Tube: Tokyo, Japan, by Tim Ray		#1	pg 52-53
+  Background, Misc, Law:
+    Cloning, the Law and You, by Timothy Jacques	#4	pg 61-63
+  Background, Misc, Medicine:
+    Cloning, the Law and You, by Timothy Jacques	#4	pg 61-63
+  Background, P-A War:
+    The Protectorate-American War, Part 2, by Tim Jacques & Craig Sheeley                                                               #1      pg 46-50
+    The Protectorate-American War, Part 3, by Tim Jacques & Craig Sheeley                                                               #6      pg 58-63
+  Creatures:
+    Car*nasaurs, by Stephen Dedman			#9	pg 65068
+  Rules, Misc:
+    Jumping... and Falling, by John M. Hurtt		#5	pg 22-27
+  Rules, Official Q&A:
+     Q&A						#1	pg 64
+     Q&A						#2	pg 63
+     Q&A						#3	pg 67
+     Q&A						#4	pg 67
+     Q&A						#5	pg 68
+     Q&A						#8	pg 84-85
+     Q&A						#9	pg 86
+  [Also See: ORBIT WAR]
+
+CASTLE FALKENSTEIN [R. Talsorian]			**RPG FANTASY**
+  Adventures:
+    Glass Mountain, by James L. Cambias			#12	pg 54-61
+  NPCs:
+    SC: Rufus St. John-Smythe, by Rajan Khanna		#15	pg 75-76
+  Previews:
+    Castle Falkenstein					#4	pg 16-21
+  Reviews:
+    Castle Falkenstein					#10	pg 70-71
+
+CYBER, GENERAL						**RPG CYBER**
+  Accessories:
+    Cyberpaper Heroes, by Dan Smith			#2	pg 52-53
+  Fiction:
+    Snow Crash, by Neal Stephenson			#12	pg 16-28
+
+CYBERPUNK [R. Talsorian]				**RPG CYBER**
+  Equipment, Combat:
+    More Maximum Metal, by Craig Sheeley		#2	pg 20-22
+  NPCs:
+    SC: Cyberpunk					#1	pg 66-67
+  Rules, Official Q&A, Maximum Metal:
+    More Maximum Metal, by Craig Sheeley		#2	pg 20-22
+  Reviews:
+    Cybergeneration					#4	pg 38
+    Rache Bartmoss' Guide to the Net			#6	pg 42
+
+DOOMTROOPER [Heartbreaker Hobbies]			**CCG SF**
+  Reviews: 
+    Doomtrooper						E13	pg 72
+  [See Also: MUTANT CHRONICLES]
+
+DREAM PARK [R. Talsorian]				**RPG MISC**
+  NPCs:
+    SC: Elven Mage, by Fraser Cain			#1	pg 65-66
+
+EARTH, GENERAL						**RPG MISC**
+  Background, Cults:
+    Canons, by Chris Hand				#11	pg 63-65
+  Magic:
+    Alchemy, by Chris Hand				#11	pg 65-66
+    Rune Mysteries Revealed, by Bruce Kvam		#11	pg 54-58
+    Rune Mysteries Revealed Again!, by Bruce Kvam	#13	pg 80-83
+    Voodoo, by Derek Pearcy				#1	pg 37-45
+
+EARTHDAWN [FASA]					**RPG FANTASY**
+  Background, Kaer, Introduction:
+    The Kaer-Based Campaign, by Tom Grant		#10	pg 43-46
+  Reviews:
+    Earthdawn						#3	pg 36-37
+    Barsaive						#7	pg 34
+
+EMPIRE BUILDER [Mayfair]				**BOARD RAILROAD**
+  Reviews:
+    Australian Rails					#9	pg 70
+    Iron Dragon						#13	pg 69
+
+EMPIRE OF THE PETAL THRONE [Tome]			**RPG FANTASY**
+  Rules, Variant:
+    GURPS Tekumel, by Brett Slocum			#11	pg 16-38
+
+ENVOY (1) [WotC]                                        **RPG MISC**
+  Rules, Complete:
+    Envoy, by Peter Adkison				#3	pg 52-60
+
+(1) Envoy is a Generic game system designed to be easily convertable
+to other systems on the market. CRYPTYCH magazine actually made some
+use of the Envoy system.
+
+FANTASY, GENERAL					**RPG FANTASY**
+  Advice, Game Masters:
+    Running the Perfect Fantasy Campaign, by Mike Stackpole                                                                             #2      pg 23-34
+  Background, Fiction, By The Sword, Introduction:
+    PS: Roleplaying By the Sword, by Greg Costikyan	#5	pg 12-16
+  Campaign Design, Campaigns (as a whole):
+    Running the Perfect Fantasy Campaign, by Mike Stackpole                                                                             #2      pg 23-34
+  Magic:
+    Rune Mysteries Revealed, by Bruce Kvam		#11	pg 54-58
+    Rune Mysteries Revealed Again!, by Bruce Kvam	#13	pg 80-83
+  Reviews, Flying Buffalo:
+    Citybook VI: Uptown					#1	pg 61-62
+  Reviews, Wyrm Works:
+    Dungeon Maps					#5	pg 47
+
+FICTION
+  Cyber, General:
+    Snow Crash, by Neal Stephenson			#12	pg 16-28
+  In Nomine:
+    AitA: A Story of Lucifer, by Derek Pearcy		#8	pg 72-77
+
+GENERAL							**RPG MISC**
+  Meta:
+    The Future of Gaming, by Misc			#2	pg 14-18
+    The Renaissance of Roleplaying, by Tom Grant	#4	pg 56-59
+  Background, Misc, Locations:
+    TI: The Intercession, by John M. Ford		#9	pg 28-31
+  Background, The Hole, Introduction:
+    The Hole, by Jeff Koke				#1	pg 19-29
+  Games, Board:
+    Triune, by Jeff Koke				#7	pg 39-46
+
+GURPS, MISC [SJG]					**RPG MISC**
+  Background, Misc, Locations:
+    TI: The Hotel Fuentes, by Fred Van Lente		#11	pg 76-79
+    TI: U-Store-It, by Derek Pearcy			#8	pg 64-65
+  Background, Fiction, New Sun, Introduction:
+    GURPS Book of the New Sun, by Michael Andre-Driussi	#3	pg 22-32
+  Background, Fiction, Tekumel, Introduction:
+    GURPS Tekumel, by Brett Slocum			#11	pg 16-38
+  Equipment, Misc:
+    23: The Brainmaker, by Anthony Salter		#14	pg 60
+    23: The Electronic Surveillance Platform, by Michael Phyilaier Jr                                                                   #10     pg 36
+  Equipment, Combat:
+    Willful Weapons, by Ken & Jo Walton	(1)		#14	pg 38-52
+  NPCs:
+    SC: Bishop Morg, Bodyguard, by Brandon Cope		#14	pg 63-65
+    SC: Mariel O'Malley, Psionic Doctor, by B. Cope	#14	pg 62-63
+    SC: Serial Killer, by Fraser Cain			#1	pg 66-67
+  Rules, Characteristics:
+    The Much-Maligned Will, by J. Hunter Johnson	#9	pg 77-78
+  Rules, Official Q&A:
+    Q&A							#1	pg 64
+    Q&A							#2	pg 63
+    Q&A							#3	pg 67	
+    Q&A							#4	pg 67
+    Q&A							#5	pg 68
+    Q&A							#11	pg 86
+  Rules, Skills:
+    The Play's The Thing, by Scott Tengelin		#10	pg 63-65
+  Vignettes:
+    23: The Brainmaker, by Anthony Salter		#14	pg 60
+
+(1) Adapted from GURPS CELTIC for other genres
+
+GURPS, MISC, MODERN [SJG]				**RPG MISC** 
+  Adventures:
+    Voodoo, by Derek Pearcy				#1	pg 37-45
+  Magic:
+    Voodoo, by Derek Pearcy				#1	pg 37-45
+
+GURPS, MISC, FUTURE [SJG]				**RPG SF**
+  Equipment, Combat:
+    TL8 Motorized Compound Bow, by A. Liljegren & R. Bernick                                                                            #14	pg 81-82
+    TL9 Switchbow, by A. Liljegren & R. Bernick		#14	pg 82
+    TL10 Gauss Enhancement, by A. Liljegren & R. Bernic	#14	pg 82
+    TL10 Improved Switchbow, by A. Liljegren & R. Bernick                                                                               #14	pg 82
+    TL10 Switcharrows, by A. Liljegren & R. Bernick	#14	pg 82
+    TL12 Force Bow, by A. Liljegren & R. Bernick	#14	pg 82
+  Magic, Misc:
+    Tech Magic, by S. John Ross				#3	pg 20-28
+  NPCs:
+    SC: Android, by Fraser Cain				#1	pg 67-68
+  [Also See: GURPS PSIONICS, GURPS ROBOTS, GURPS SPACE, GURPS VEHICLES]
+
+GURPS ATOMIC HORROR [SJG]				**RPG SF**
+  Adventures:
+    I Was A Teen-Age Dinosaur!, by James L. Cambias	#13	pg 40-51
+  Rules, Official Q&A:
+    Designer's Notes, by Paul Elliot			#1	pg 15-16
+
+GURPS CAMELOT [SJG]					**RPG FANTASY**
+  Creatures:
+    The Arthurian Werewolf, by McCubbin & Schroeck	#2	pg 68
+  NPCs:
+    Sir Marrok of Camelot, by McCubbin & Schroeck	#2	pg 69 
+  [Also See: GURPS FANTASY]
+
+GURPS CLIFFHANGERS [SJG]				**RPG PULP**
+  Adventures:
+    Time of the Tyrants, by Stephen Dedman		#15	pg 14-29
+
+GURPS CTHULHUPUNK [SJG]					**RPG CYBERHORROR**
+  NPCs:
+    Anyadoll, by Chris W. McCubbin			#12	pg 73-74
+    Booshk, by Chris W. McCubbin			#12	pg 70-73
+    Jayboy, by Chris W. McCubbin			#12	pg 74
+  [Also See: GURPS CYBERPUNK, GURPS HORROR, GURPS MISC FUTURE]
+
+GURPS CYBERPUNK						**RPG CYBER**
+  Background, 1-and-20:
+    Chrome Berets in the 1-and-20, by Hunter Johnson	#15	pg 66-67
+    San Juan in the 1-and-20, by Steven J. Hammond	#14	pg 67-70
+  Background, Fiction, Snow Crash:
+    The Metaverse, by Tim Carroll			#12	pg 32
+  Creatures:
+    CotN: Zero Zombies, by Scott Paul Maykrantz		#3	pg 33-34
+  Equipment, Misc:
+    TL8 Poon, by Tim Carroll				#12	pg 33
+    TL8 Radiks Kourier Uniform				#12	pg 33
+  Equipment, Vehicles:
+    TL8 CosaNostra Delivery Car, by Tim Carroll		#12	pg 32
+  Magic:
+    Tech Magic, by S. John Ross				#3	pg 20-28
+  NPCs, Fiction, Snow Crash:
+    Hiro Protagonist, by Tim Carroll			#12	pg 31-32
+    YT, by Tim Carroll					#12	pg 32-33
+  Rules, Skills:
+    Brain Hacking, by Sean Barrett			#7	pg 30-33
+  Vignettes:
+    Chrome Berets in the 1-and-20, by Hunter Johnson	#15	pg 66-67
+  [Also See: GURPS MISC FUTURE]
+
+GURPS FANTASY						**RPG FANTASY**
+  Background, Historical, Banestorm, Introduction:
+    Yrth 1100, by Steffan O'Sullivan & Ann Dupuis	#13	pg 16-32 
+  Creatures:
+    Swan Mays, by Chris McCubbin & Bob Schroeck		#2	pg 66-67
+  Equipment, Combat:
+    Willful Weapons, by Ken & Jo Walton	(1)		#14	pg 38-52
+  Equipment, Magic Items:
+    Blindman's Bow, by A. Liljegren & R. Bernick	#14	pg 78
+    Bounty Hunter's Arrow, by A. Liljegren & R. Bernick	#14	pg 81
+    Bow of the Messenger, by A. Liljegren & R. Bernick	#14	pg 79
+    Grappling Arrow, by A. Liljegren & R. Bernick	#14	pg 81
+    Healing Arrow, by A. Liljegren & R. Bernick		#14	pg 79
+    23: Mordal's Axe, by Michael Phyiallaier Jr.	#8	pg 62
+    Mourdenkhel's..., by A. Liljegren & R. Bernick	#14	pg 79
+    Shrieking Arrow, by A. Liljegren & R. Bernick	#14	pg 78-79
+    Spider Arrow, by A. Liljegren & R. Bernick		#14	pg 78
+    Swampreed Bows, by A. Liljegren & R. Bernick	#14	pg 78
+    Warp Bow, by A. Liljegren & R. Bernick		#14	pg 79
+    Willful Weapons, by Ken & Jo Walton	(1)		#14	pg 38-52
+  Magic, Misc:
+    Unlimited Mana, by S. John Ross			#9	pg 22-26
+    Voodoo, by Derek Pearcy				#1	pg 37-45
+  Magic, Spells:
+    The Cheese College, by Andrew Hartsock		#5	pg 38-40
+  NPCs:
+    SC: Canon William Shuchirch, by Chris Hand		#11	pg 62-66
+    SC: Elven Mage, by Fraser Cain			#1	pg 65-66
+    SC: Oren, by Brandon Cope				#13	pg 74-75
+    SC: Rann Swiftsword					#13	pg 75-76
+
+(1) Adapted from GURPS CELTIC for other genres
+
+GURPS HORROR						**RPG HORROR**
+  Background, Misc:
+    TI: The Bottomless Pit, by Scott Paul Maykrantz	#7	pg 66-67
+    TI: The Ghost Ship, by Graeme Davis			#12	pg 79
+  Campaign Design, Adventures:
+    Mock Horror Adventures, by Scott Paul Maykrantz	#9	pg 53-63
+  Creatures:
+    CotN: Bedlam Beasts, by Scott Paul Maykrantz	#10	pg 40-41
+    CotN: Bookworms, by Scott Paul Maykrantz		#2	pg 57-58
+    CotN: Breeders, by Scott Paul Maykrantz		#2	pg 58-59
+    CotN: Chillers, by Scott Paul Maykrantz		#3	pg 31-32
+    CotN: Interlopers, by Scott Maykrantz		#8	pg 57-60
+    CotN: Mazeworm, by Scott Paul Maycrantz		#4	pg 48-50
+    CotN: Prowlers, by Scott Maykrantz			#12	pg 76-77
+    CotN: Sleepers, by Chris Warden			#6	pg 54-56
+    CotN: Tynes, by Scott Paul Maykrantz		#5	pg 52-53
+    CotN: Zero Zombies, by Scott Paul Maykrantz		#3	pg 33-34
+  Equipment, Magic Items:
+    23: The Black Stylus, by Dan Massey			#15	pg 78-80
+    23: The Chalice, by Michael Nelson			#11	pg 12-15
+    23: Gordon's Glove, by M. Phyillaier, Jr.		#7	pg 69
+  NPCs:
+    CotN: Dr. Chilton Kovach, by Scott Paul Maykranz	#5	pg 53-54
+
+GURPS ICE AGE [SJG]					**RPG FANTASY**
+  Rules, Variant:
+    Tools Are Just a Fad!, by G. Porter & J. Merendino	#15	pg 56-64
+
+GURPS IOU [SJG]						**RPG HUMOR**
+  Background:
+    Department of Computer Theology, by Milliken&McCoy	#14	pg 34
+  Creatures:
+    Hares, Splitting, by Walter Milliken & Beth McCoy	#14	pg 36
+  Rules, Official Q&A:
+    Designer's Notes, by Walter Milliken & Beth McCoy	#14	pg 32-36
+  Vignettes:
+    Potential Adventures, by Milliken & McCoy		#14	pg 36
+
+GURPS JAPAN [SJG]					**RPG FANTASY**
+  Adventures:
+    Lady Mijiko's Holiday, by Graeme Davis		#14	pg 14-28
+
+GURPS LENSMAN [SJG]					**RPG SF**
+  Rules, Official Q&A:
+    Designer's Notes, by Sean Barrett			#5	pg 58-62
+  [Also See: GURPS MISC FUTURE]
+
+GURPS MAGE THE ASCCENSION [SJG]				**RPG FANTASY**
+  Rules, Official Q&A:
+    Designer's Note					#11	pg 60-61
+  [Also See: GURPS HORROR, GURPS VAMPIRE, GURPS WEREWOLF, MAGE, VAMPIRE, 
+  WEREWOLF]
+
+GURPS MAGIC [SJG]					**RPG FANTASY**
+  Magic, Misc:
+    Unlimited Mana, by S. John Ross			#9	pg 22-26
+    Voodoo, by Derek Pearcy				#1	pg 37-45
+  Magic, Misc, Future:
+    Tech Magic, by S. John Ross				#3	pg 20-28
+  Magic, Spells:
+    The Cheese College, by Andrew Hartsock		#5	pg 38-40
+   
+GURPS MIDDLE AGES [SJG]					**RPG FANTASY**
+  NPCs:
+    SC: Canon William Shuchirch, by Chris Hand		#11	pg 62-66
+  [Also See: GURPS FANTASY]
+
+GURPS PLACES OF MYSTERY [SJGG]				**RPG MISC**
+  Rules, Character Creation:
+    Unusual Background: Place of Power, by Masters & Brooks                                                                             #13     pg 59-61
+  Rules, Official Q&A:
+    Designer's Notes, by Phil Masters & Allison Brooks	#13	pg 57-61
+
+GURPS PSIONICS [SJG]					**RPG SF**
+  Rules, Official Q&A:
+    Gurps Psionics					#15	pg 91-93
+  [Also See: GURPS MISC FUTURE]
+
+GURPS ROBOTS [SJG]					**RPG SF**
+  Equipment, Robot, Designs:
+    TL10 "Hellspider" Infiltration Robot, by David Pulver                                                                               #10	pg 68
+  Rules, Official Q&A:
+    Designer's Notes, by David Pulver			#10	pg 66-68
+  Rules, Robot Creation:
+    Streamlining, by David Pulver			#10	pg 68
+    TL8 Core/Shell Robots, by David Pulver		#10	pg 67
+    TL9 Discarding Flesh Sheath, by David Pulver	#10	pg 68
+    TL8 Wheelform Propulsion, by David Pulver		#10	pg 67-68
+  [Also See: GURPS MISC FUTURE]
+
+GURPS SPACE [SJG]					**RPG SF**
+  Equipment, Vehicles, Designs:
+    TL8 JGEV Truck, by David Pulver			#3	pg 13
+    TL8 Macrotech 9000 Turbobike, by David Pulver	#3	pg 13
+    TL9 Cyberwraith Assault Mecha, by David Pulver	#3	pg 14-15
+    TL10 Moonhawk Strike Fighter, by David Pulver	#3	pg 14
+    TL10 Starfisher, by David Pulver			#3	pg 16
+  [Also See: GURPS MISC FUTURE]
+
+GURPS TIME TRAVEL [SJG]					**RPG SF**
+  Background:
+    More Timelines, by Thomas Cron			#15	pg 48-54
+
+GURPS VAMPIRE: THE MASQUERADE [SJG]			**RPG HORROR**
+  Adventures:
+    Tervel's Haven, by Chris McCubbin			#7	pg 13-28
+    Tervel's Haven, Part 2, by Chris McCubbin		#8	pg 1737
+  Rules, Combat:
+    Cinematic Martial Arts, by CJ Carrella		#6	pg 12-17
+  Rules, Official Q&A:
+    Designer's Notes, by Jeff Koke			#2	pg 8-9
+    Errata by Jeff Koke					#3	pg 67
+    Q&A							#8	pg 84
+  [Also See: GURPS HORROR, GURPS MAGE, GURPS WEREWOLF, MAGE, VAMPIRE, WEREWOLF]
+
+GURPS VEHICLES [SJG]					**RPG MISC**
+  Background, Sprockets, Introduction:
+    Sprockets, by Chris McCubbin & Craig Sheeley	#10	pg 22-34
+  Equipment, Vehicles, Misc, Designs:
+    TL8 JGEV Truck, by David Pulver			#3	pg 13
+    TL8 Macrotech 9000 Turbobike, by David Pulver	#3	pg 13
+    TL9 Cyberwraith Assault Mecha, by David Pulver	#3	pg 14-15
+    TL10 Moonhawk Strike Fighter, by David Pulver	#3	pg 14
+    TL10 Starfisher, by David Pulver			#3	pg 16
+  Equipment, Vehicles, Sprockets, Designs:
+    GyroWalker, by McCubbin & Sheeley			#10	pg 34
+    Halftrack Farm Vehicle, by McCubbin & Sheeley	#10	pg 34
+    SkyFlitter, by McCubbin & Sheeley			#10	pg 34
+  Rules, Official Q&A:
+    Designer's Article, by David Pulver			#3	pg 12-16
+  [Also See: GURPS MISC FUTURE]
+ 
+GURPS WAR AGAINST THE CHTORR [SJG]			**RPG SF**
+  Rules, Official Q&A:
+    Designer's Notes, by CJ Carella			#3	pg 61-63
+  [Also See: GURPS MISC FUTURE]
+
+GURPS WEREWOLF THE APOCALYPSE [SJG]			**RPG HORROR**
+  Rules, Official Q&A:
+    Designer's Notes, by Robert M. Schroeck		#5	pg 18-20
+  [Also See: GURPS HORROR, GURPS MAGE, GURPS VAMPIRE, MAGE, VAMPIRE, WEREWOLF]
+
+HACKER [SJG]						**BOARD SF**
+  Rules, Official Q&A:
+    Q&A							#6	pg 69
+
+HEAVY GEAR FIGHTER [Dream Pod 9]			**CARD SF**
+  Reviews:
+    Heavy Gear Fighter					#14	pg 72-73
+    Expansion 1: Weapons & Equipment			#14	pg 72-73
+
+HOL [Dirt Merchant Games]				**RPG HUMOR**
+  Reviews:
+    Hol							#10	pg 74
+
+ILLUMINATI: NEW WORLD ORDER [SJG]			**CCG HUMOR**
+  Accessories, Card Lists:
+    INWO						#12	pg 34-38
+  Advice, Players:
+    Basic INWO Strategy, by Scott Haring		#11	pg 43-46
+    Stupid INWO Tricks (1)				#13	pg 55-56
+  Rules, Official Q&A:
+    Designer's Notes, by Steve Jackson			#10	pg 37-39
+    FAQ							#12	pg 86
+    More FAQ, by Steve Jackson				#13	pg 92-95
+    Unlimited Edition Rules Changes			#13	pg 52-53
+  Rules, Card Changes:
+    Card Changes Between Limited and Later Editions, by Steve Jackson                                                                   #14     pg 92-95
+  Rules, Tournaments:
+    INWO Global Domination Tournament			#12	pg 41-42
+  Rules, Variant:
+    The Bidding Game (1)				#13	pg 55
+    Blind Sealed-Deck Play				#13	pg 53-55
+    Common Cards Only (1)				#13	pg 53
+    Handicap Games, by Scott Haring			#11	pg 45
+    More Optional Rules (1)				#13	pg 55-56
+    Mutation (1)					#13	pg 53
+    The Octopus (1)					#13	pg 53
+    The One Big Deck Game, by Steve Jackson		#11	pg 50
+    Sealed-Deck Token Economy (1)			#13	pg 55
+    To The Death! (1)					#13	pg 53
+  Previews:
+    Assassins						#15	pg 32-35
+    INWO						#9	pg 51
+    INWO						#11	pg 40-41
+    INWO Unlimited Edition				#13	pg 51-52
+
+(1) Reprinted in THE INWO BOOK
+
+IN NOMINE [SJG]						**RPG FANTASY**
+  Introduction:
+    AitA: The In Nomine Cheat Sheet, by Derek Pearcy	#9	pg 41
+  Background, Misc:
+    AitA: A Story of Lucifer, by Derek Pearcy		#8	pg 72-77
+  Equipment, Ethereal Implements:
+    AitA: The Idiot Box, by Derek Pearcy		#10	pg 19-20
+  Equipment, Relics:
+    AitA: Finger of Lady Janice, by Derek Pearcy	#13	pg 62
+    AitA: Forty Slices of Cheese, by Derek Pearcy	#13	pg 62
+    AitA: Guitar of St. Stevie, by Derek Pearcy		#13	pg 62
+    AitA: Magic Eight-Ball, by Derek Pearcy		#13	pg 62-63
+  Equipment, Reliquaries:
+    AitA: Bible of Tangiers, by Derek Pearcy		#13	pg 63
+    AitA: Guitar Case of St. Stevie, by Derek Pearcy	#13	pg 63
+    AitA: Hard Drive of Fear, by Derek Pearcy		#13	pg 64
+    AitA: Hula-Hoop, by Derek Pearcy			#13	pg 64
+    AitA: VCR of Love, by Derek Pearcy			#13	pg 64
+  Fiction:
+    AitA: A Story of Lucifer, by Derek Pearcy		#8	pg 72-77
+  NPCs, Misc:
+    AitA: Disposable Angels, by Derek Pearcy		#12	pg 44-46
+  NPCs, Superiors:
+    AitA: God the Creator, by Derek Pearcy		#9	pg 42-48
+    AitA: Lucifer the Lightbringer, by Derek Pearcy	#9	pg 39-42
+  Previews:
+    In Nomine						#8	pg 72
+
+JYHAD [WotC]						**CCG HORROR**
+  Reviews:
+    Jyhad						#10	pg 73
+
+KHAOTIC [Marquee Press]					**RPG CYBER**
+  Reviews:
+    Khaotic						#15	pg 70
+
+HERO SYSTEM [Hero]					**RPG MISC**
+  Magic:
+    More Witchcraft, by Scott Maykrantz			#8	pg 66-71
+    Witchcraft, by Scott Paul Maykrantz			#6	pg 28-38
+
+HORROR, GENERAL						**RPG HORROR**
+  Equipment, Books:
+    23: The Seven Books of Alexander Lacan, by John M. Ford                                                                             #9      pg 24-36
+
+HOT LEAD [SJG]						**MINIATURES MISC**
+  Previews:
+    Space Knights					#1	pg 11-14
+
+HUNTERS FROM THE SKY [The Gamers]			**BOARD WAR**
+  Reviews:
+    Hunters From the Sky				#13	pg 68
+
+INTERVIEWS						**MISC MISC**
+  Gaming:
+    Wujcik, Eric					#6	pg 24
+
+KULT [Metropolis]					**RPG HORROR**
+  Reviews:
+    Kult						#3	pg 38-39
+  Adventures:
+    Et In Arcadia Ego, by James Estes			#7	pg 49-65
+
+LOST SOULS [Marquee]					**RPG HORROR**
+  Reviews:
+    Lost Souls, Second Edition				#4	pg 36-37
+
+MAGIC: THE GATHERING [WotC]				**CCG FANTASY**
+  Previews:
+    Ice Age						#13	pg 36-39
+  Reviews:
+    Magic: The Gathering				#4	pg 39
+
+MAGE: THE ASCENSION [White Wolf]			**RPG FANTASY**
+  Reviews:
+    The Book of Shadows					#12	pg 66
+  [Also See: GURPS MAGE, GURPS VAMPIRE, GURPS WEREWOLF, VAMPIRE, WEREWOLF]
+
+MEKTON [R. Talsorian]					**RPG SF**
+  NPCs:
+    SC: Android, by Fraser Cain				#1	pg 67-68
+
+MIND'S EYE THEATRE: THE MASQUERADE [White Wolf]		**LARP HORROR**
+  Reviews:
+    The Masquerade					#4	pg 34-35
+  [Also See: GURPS MAGE, GURPS VAMPIRE, GURPS WEREWOLF, MAGE, VAMPIRE, WEREWOLF]
+
+MUTANT CHRONICLES [Heartbreaker]			**MINIATURES SF**
+  Reviews:
+    Mutant Chronicles					#6	pg 40-41
+    Blood Berets					#6	pg 40-41
+    Siege of the Citadel				#6	pg 40-41
+  [See Also: DOOMTROOPER]
+
+NEXUS [Daedelus Games]					**RPG MISC**
+  Adventures:
+    An Introduction to Nexus, by Robin Laws		#10	pg 52-58
+
+OGRE [SJG]						**BOARD SF**
+  Adventures, Variant:
+    Destroy All Ogres!, by John Hurtt			#5	pg 33-37
+    Godzilla 2076, by John M. Hurtt			#1	pg 31-35
+  Background, Misc:
+    The Factory States, by Mike Naylor & David Graham	#2	pg 36-38
+  Rules, Official Q&A, Ogre Miniatures:
+     Q&A						#2	pg 64
+     Q&A						#3	pg 68
+     Q&A						#4	pg 68
+     Q&A						#5	pg 69
+     Q&A						#7	pg 77
+     Q&A						#10	pg 86
+  Rules, Variant:
+    Destroy All Ogres!, by John Hurtt			#5	pg 33-37
+    Godzilla 2076, by John M. Hurtt			#1	pg 31-35
+  
+ON THE EDGE [Atlas Games]				**CCG SF**
+  Reviews:
+    On the Edge						#15	pg 72
+  [Also See: OVER THE EDGE]
+
+ONCE UPON A TIME [Atlas]				**CARD FANTASY**
+  Reviews:
+    Once Upon a Time					#6	pg 43
+
+ORBIT WAR [SJG]						**BOARD SF**
+  Adventures, Protectorate-American War:
+    Operation Clean Sweep, by Craig Sheeley		#1	pg 51
+  Background, Protectorate-American War:
+    The Protectorate-American War, Part 2, by Tim Jacques & Craig Sheeley                                                               #1      pg 46-50
+    The Protectorate-American War, Part 3, by Tim Jacques & Craig Sheeley                                                               #6      pg 58-63
+
+OVER THE EDGE [Atlas]					**RPG SF**
+  Background, Organizations:
+    Alchemy ...at Al Amarja, by John Nephew		#6	pg 46-50
+  [Also See: ON THE EDGE]
+
+THE PRIMAL ORDER [WotC]					**RPG FANTASY**
+  Reviews:
+    The Primal Order					#1	pg 58-59
+
+PRIME DIRECTIVE [TFG]					**RPG SF**
+  Reviews:
+    Prime Directive					#7	pg 36
+
+PSYCHOSIS [Chameleon Eclectic]				**RPG HORROR**
+  Reviews:
+    Ship of Fools					#14	pg 74
+
+RUNEQUEST [SJG]						**RPG FANTASY**
+  Adventures, Alternate Earth, Land of Ninja:
+    Lady Mijiko's Holiday, by Graeme Davis		#14	pg 14-28
+    
+SCIENCE FICTION, GENERAL				**RPG SF**
+  Background, Fiction, Fire Upon the Deep, Introduction:
+    PS: A Fire Upon the Deep, by Derek Pearcy		#2	pg 54-56
+  Background, Fiction, Pliocene Exile, Introduction:
+    PS: Saga of Pliocene Exile, by David J. Hayes	#1	pg 17-18
+
+SPOTLIGHT
+  Artist:
+    INWO Gallery					#11	pg 48-49
+
+SIM CITY: THE CARD GAME					**CCG MODERN**
+  Reviews:
+    Sim City: The Card Game				#15	pg 68-69
+
+SHAPESHIFTERS [FMG]					**BOARD FANTASY**
+  Reviews:
+    Shapeshifters					#5	pg 46
+
+SPELLFIRE [TSR]						**CCG FANTASY**
+  Reviews:
+    Spellfire						#9	pg 71
+
+STAR OF THE GUARDIANS [Mag Force 7]			**CCG SF**
+  Reviews:
+    Star of the Guardians				#14	pg 75
+
+STAR WARS [West End Games]				**RPG SF**
+  Reviews:
+    Han Solo & The Corporate Sector Sourcebook		#7	pg 35
+    The Movie Trilogy Sourcebook			#7	pg 35
+
+TALES OF GARGENTIHR [Sanctuary Games]			**RPG FANTASY**
+  Reviews:
+    Tales of Gargenthir					#11	pg 74
+
+TOON [SJG]						**RPG HUMOR**
+  Adventures:
+    Quest for the Orkinstone!, by Chris Aylott		#15	pg 36-47
+  Background, It's a Dark World After All, Introduction:
+    Hampire: The Masked Ace Raid, by Koke & Pearcy	#3	pg 42-50
+  Rules, Official Q&A, Toon Ace Catalog:
+    Designer's Notes, by Robert "Doc" Cross		#6	pg 51-53
+    
+TRAVELLER, THE NEW ERA [GDW]				**RPG SF**
+  Reviews:
+    Traveller, the New Era				#2	pg 44-45
+
+UNDERGROUND [Mayfair]					**RPG SF**
+  Rules, Official Q&A:
+    Designer's Notes, by Ray Winninger			#5	pg 28-30
+  Reviews:
+    Underground						#2	pg 42-43
+
+VAMPIRE: THE MASAQUERADE [White Wolf]			**RPG HORROR**
+  Background, Bloodlines:
+    Children of Caine: Ireland, by Jim Parks		#14	pg 54-59
+  Rules, Combat:
+    Cinematic Martial Arts, by CJ Carrella		#6	pg 12-17
+  Rules, Official Q&A:
+    Q&A							#5	pg 68
+  Reviews:
+    The Book of Nod					#8	pg 53
+  [Also See: GURPS MAGE, GURPS VAMPIRE, GURPS WEREWOLF, MAGE, WEREWOLF]
+
+VIDEO FIGHTER [Dream Pod 9]				**CARD COMBAT**
+  Reviews:
+    Video Fighter					#14	pg 72-73
+ 
+WEREWOLF: THE APOCALYPSE				**RPG HORROR**
+  Reviews:
+    Werewolf, Second Edition				#10	pg 76
+  [Also See: GURPS MAGE, GURPS VAMPIRE, GURPS WEREWOLF, MAGE, VAMPIRE]
+
+WESTERN, GENERAL					**RPG WESTERN**
+  Background, Misc:
+    County Seat Wars & Campaigns, by Robert Collins	#13	pg 77-79
+
+WHISPERING VAULT [Pariah Press]				**RPG HORROR**
+  Previews:
+    The Whispering Vault				#4	pg 44-47
+  Reviews:
+    The Whispering Vault				#10	pg 72
+
+THE WORLD OF INDIANA JONES [WEG]			**RPG PULP**
+  Reviews:
+    The World of Indiana Jones				#12	pg 65
+
+WORLD WRESTLING FEDERATION ADVENTURE GAME [Whit]	**RPG COMBAT**
+  Rules, Official Q&A:
+    Designer's Notes, by M. David Clark			#5	pg 56-57
+  Reviews:
+    WWF RPG						#8	pg 52-53
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

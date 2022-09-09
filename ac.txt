@@ -1,0 +1,245 @@
+		      THE ADVENTURERS CLUB INDEX
+			     VERSION 0.31
+
+			    [issues 8-12]
+
+			   by Shannon Appel
+		      (appel@erzo.berkeley.edu)
+
+HISTORY
+
+Adventurers Club first appeared in Fall of 1983.  The original digest
+sized magazine was a mere 32 pages in length, solely concerned with
+the Champions roleplaying game.  In later issues, the magazine
+coverage expanded, as the hero line did.  Soon, Danger International,
+Espionage and Justice, Inc. were all being featured as well.  The
+magazine slowly got a little glossier and a little bigger.
+
+And then, the troubles began.  Two years elapsed between issues six
+and seven.  Hero Games had severe financial problems that were only
+ended by a distribution agreement with Iron Crown Enterprises.  After
+the hiatus, things were slightly more on track, but still large gaps
+elapsed between some of the quarterly issues.  Another year elapsed,
+for example, between issues twelve and thirteen.
+
+For issues eight through twelve, the Adventurer's Club was officially
+labelled "The Hero Games, Iron Crown Quarterly".  For the only time in
+the magazine's lifetime, articles were included for games produced by
+people other than Hero Games.  MERP, Rolemaster and Spacemaster all
+received coverage in those issues.  With issue thirteen, and the
+promise of a pending ICE Quarterly magazine, coverage reverted to
+solely Hero Games.
+
+With issue fourteen, Adventurers Club underwent another format change.
+The size was changed to the comic book standard and the page count was
+cut back to 32 (it had been averaging 72 previously).  Since then,
+page count has again increased to 48, but there have been few other
+changes.
+
+A NOTE ON ORGANIZATION
+
+This index is categorized primarily by game systems.
+
+A NOTE ON THIS INDEX
+
+This current index only covers issues 8-12 (the ICE issues).  The rest
+of the issues are sitting in my collection, but I have less interest
+in the Hero topics. I may complete this index at some later time.
+
++------------------------------------------------------------------+
+| This index is Copyright 1994,6 Shannon Appel.  It may be freely  |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+CHAMPIONS [Hero Games]
+  Meta, Humor:
+    Champions Minus, by Marc R. Blumberg, Keith Hannigan and Mike Malony                                                                #10	pg 6-10
+    On Powergaming, by Greg Porter			#9	pg 18-19
+  Adventures, Misc:
+    Troubleshooters, by Rodford E. Smith		#9	pg 20-35
+  Background, Law:
+    The Superhero and the Legal System, by Tom Steubing	#12	pg 8-22
+  Background, Organizations:
+    Death from the Skies!, by Andrew M. Robinson	#11	pg 21-36
+    Troubleshooters, by Rodford E. Smith		#9	pg 20-35
+    Viper Update, by Steven Maurer			#8	pg 7-15
+  Campaign Design, Adventures:
+    How the Supervillain Gets Away, by David Rogers	#12	pg 53-55
+  Equipment, Misc:
+    The Autohypnotic Gun, by Aaron Allston		#9	pg 48-49
+    The Magnabomb, by Greg Porter			#11	pg 46
+  Equipment, Vehicles:
+    The Continuum Craft, by Aaron Allston		#9	pg 50-51
+  NPCs, Misc:
+    Lenore, by Nora Page				#8	pg 51-54
+  NPCs, Groups:
+    Death from the Skies!, by Andrew M. Robinson	#11	pg 21-36
+    Troubleshooters, by Rodford E. Smith		#9	pg 20-35
+    Viper Update, by Steven Maurer			#8	pg 7-15
+  NPCs, Heroes:
+    Rihalla, by Matthew Lewis				#9	pg 40-43
+  NPCs, Villains:
+    Berserk, by Kirk Olsen				#9	pg 37-40
+    Sensor, by Clarke Johnson and Keith Nelson		#12	pg 56-58
+  Rules, Conversion, DC Heroes:
+    Character Conversion, by George MacDonald and Steve Peterson                                                                        #10	pg 38-42
+  Rules, Disadvantages:
+    Handling your Hunteds and DNPCs, by Scott Bennie	#9	pg 15-17
+  Rules, Official Questions and Answers:
+    Between the Lines, by WD Robinson			#9	pg 63-64
+
+  [Also See HERO SYSTEM and SUPER-AGENTS]
+
+DANGER INTERNATIONAL (1) [Hero Games]
+  Adventures:
+    Double-Blind, by Greg Porter			#12	pg 38-52
+  Equipment, Misc:
+    The Magnabomb, by Greg Porter			#11	pg 46
+    Power-Staf K/A-1 Impact Weapon, by Greg Porter	#9	pg 50
+    Shooting Dagger, by Greg Porter			#9	pg 49-50
+  Equipment, Security Systems:
+    Sound the Alarm!, Part One, by Greg Porter		#8	pg 17-22
+    Sound the Alram!, Part Two, by Greg Porter		#9	pg 8-13
+  Rules, Character Creation:
+    Secret Meanings of the Agency Package Deal, by L. Douglas Garrett                                                                   #9	pg 59-62
+  Rules, Skills, Security Systems:
+    Sound the Alarm!, Part One, by Greg Porter		#8	pg 17-22
+    Sound the Alram!, Part Two, by Greg Porter		#9	pg 8-13
+  [Also See HERO SYSTEM and SUPER-AGENTS]
+
+(1) DANGER INERNATIONAL is the successor to the original ESPIONAGE
+game
+
+DC HEROES [Mayfair Games]
+  Rules, Conversion, Champions:
+    Character Conversion, by George MacDonald and Steve Peterson                                                                        #10	pg 38-42
+
+FANTASY HERO [Hero Games]
+  Adventures:
+    The Rockhall Curse, by Aaron Allston		#8	pg 24-49
+  Creatures:
+    The Pocket Demon & the Fairy Dragon, by Kirk Olsen	#12	pg 61-63
+  Equipment, Magic Items:
+    Manasstones, by Tim W. Brown			#11	pg 13
+  Magic:
+    Treasure Chest, by Gregg Sharp			#10	pg 43-44
+  Rules, Conversion, MERP:
+    Converting Statistics				#8	pg 71-72
+  [Also See HERO SYSTEM]
+
+HERO SYSTEM (1) [Hero Games]
+  Advice, Gamemasters:
+    The Care and Feeding of Deathtraps, by Duane Tremaine                                                                               #11	pg 6-12
+  Campaign Design, Adventures:
+    The Care and Feeding of Deathtraps, by Duane Tremaine                                                                               #11	pg 6-12
+  Equipment, Modern:
+    Life Sensor, by Andrew Robinson			#8	pg 55
+  Rules, Combat:
+    A Flash of Steel, by J. David George		#12	pgg 24-35
+
+(1) Hero System is the Generic system which underlines all of the Hero
+Games.  Technically, all Hero Games in this index are Hero System, and
+could be listed here.  However, in most cases an article is
+specifically written for a certain system, and thus included in that
+individual section.
+
+JUSTICE, INC [Hero Games]
+  Adventures:
+    Hands of the Strangler, by Scott Bennie		#10	pg 13-34
+  Equipment, Combat:
+    Exotic Weapons, by Greg Porter			#11	pg 15-18
+  NPCs:
+    Dr. Darko Fon-Jager, by David Rogers		#9	pg 43-46
+  Rules, Character Creation:
+    Additions to JI Package Deals, by Lyle Wilson	#9	pg 53-57
+  [Also See HERO SYSTEM]
+
+MERP [ICE]
+  Adventures, Arnor:
+    [See Adventures, Arthedain and Adventures, Rhudaur]
+  Adventures, Arthedain, Misc:
+    The Stolen Sword, by Jessica M. Ney			#9	pg 71-73
+  Adventures, Rhudaur, Ettenmoors:
+    IffGuld's Keep, by Jessica M. Ney			#8	pg 60-69
+  Adventures, Rhudaur, Trollshaws:
+    The Legend of Zagoth, by Steve Fellows		#11	pg 48-53
+    Raid on Barluin, by Stephen Fellows			#12	pg 68-71
+  Adventures, Gondor, Minas Tirith:
+    Zirifair's Sorcery, by Jessica M. Ney		#10	pg 55-57
+  Adventures, Rohan, Misc:
+    Stolen Steed of the Sovereign, by Jorge Quinonez	#11	pg 62-66
+  Creatures:
+    The Wolfhounds of the Noldor, by Jorge Quinonez	#9	pg 66-68
+  Magic:
+    No Dice!, by Klaus Morgensen			#11	pg 55-59
+    Utility Spells, by Alex Newman			#10	pg 60-62
+  Races, Dwarf:
+    Petty-Dwarf Characters, by Jorge Quinonez		#11	pg 67-70
+  Races, Elf:
+    Elda Characters, by Jorge Quinonez			#10	pg 65-70
+    The Wolfhounds of the Noldor, by Jorge Quinonez	#9	pg 66-68
+  Rules, Character Creation:
+    Elda Characters, by Jorge Quinonez			#10	pg 65-70
+    Petty-Dwarf Characters, by Jorge Quinonez		#11	pg 67-70
+  Rules, Conversion, Fantasy Hero:
+    Converting Statistics				#8	pg 71-72
+  Rules, Skills, Secondary:
+    Additional Secondary Skills, by Anders Blixt	#10	pg 63-64
+
+ROBOT WARRIORS [Hero Games]
+  Background, Organizations:
+    Death from the Skies!, by Andrew M. Robinson	#11	pg 21-36
+  NPCs, Groups:
+    Death from the Skies!, by Andrew M. Robinson	#11	pg 21-36
+  [Also See HERO SYSTEM]
+
+ROLE MASTER [ICE]
+  Magic:
+    No Dice!, by Klaus Morgensen			#11	pg 55-59
+    Utility Spells, by Alex Newman			#10	pg 60-62
+
+SPACE MASTER [ICE]
+  Equipment, Misc:
+    The Criminologist Pack, by Terry K. Amthor		#10	pg 46-49
+  Equipment, Misc, Rules:
+    Time Factor in Equipment Use, by Michael Veach	#12	pg 65-67
+  Equipment, Combat:
+    The Laser's Edge					#9	pg 69-70
+    Powered Armor, by Terry K. Amthor			#10	pg 49-52
+  Rules, Equipment:
+    Time Factor in Equipment Use, by Michael Veach	#12	pg 65-67
+   
+SUPER-AGENTS (1) [Hero Games]
+  Adventures:
+    Double-Blind, by Greg Porter			#12	pg 38-52
+  Background, Organizations:
+    Death from the Skies!, by Andrew M. Robinson	#11	pg 21-36
+  Equipment, Misc:
+    The Autohypnotic Gun, by Aaron Allston		#9	pg 48-49
+  NPCs, Misc:
+    Berserk, by Kirk Olsen				#9	pg 37-40
+  NPCs, Groups:
+    Death from the Skies!, by Andrew M. Robinson	#11	pg 21-36
+  [Also See CHAMPIONS, DANGER INTERNATIONAL and HERO SYSTEM]
+
+(1) SUPER-AGENTS is a supplement designed to work with either
+CHAMPIONS or DANGER INTERNATIONAL.
+
+VILLAINS AND VIGILANTES [FGU]
+  Reviews:
+    Alone into the Night				#11	pg 40-41
+    Assassin						#11	pg 39,41
+    The Great Iridium Con				#11	pg 41
+    Honor						#11	pg 39-40,41
+    Crisis at Crusader Citadel				#11	pg 39,41
+    Organized Crimes					#11	pg 39,41
+    Search for the Sensei				#11	pg 40,41
+    Super Crooks & Criminals				#11	pg 40-41
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

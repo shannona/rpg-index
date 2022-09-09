@@ -1,0 +1,452 @@
+			THE GREY WORLDS INDEX
+			     VERSION 0.40
+
+		     [issues I.12-I.15,II.1-II.3]
+
+			   by Shannon Appel
+			   (appel@erzo.org)
+
+HISTORY, 1989-1995
+
+Grey Worlds was originally a fanzine, published by a group of Texas
+Rolemaster enthusiasts from 1989 to 1992.  By the last four issues,
+Grey Worlds looked extremely professional. The only thing that it was
+missing was a color cover and proper binding. After the fifteenth
+issue of Grey Worlds, the original fanzine phase of the magazine
+ended.
+
+The sixteenth issue of Grey Worlds, labelled "June 1993, Volume I,
+Issue 1" was a truly professional magazine, with a full color Angus
+McBride cover, a saddle-stitched binding and tons of advertisements.
+Although still produced by the Grey Worlds group, it was now being
+distributed by ICE.
+
+Three issues of the new Grey Worlds were produced by ICE. Sometime
+after that, the company opted to seize publication of the magazine.
+Word from the former publishers of Grey Worlds is that it will not
+return as a hard copy publication. However, some new Rolemaster
+material is now appearing on the Web Pages of the people who used to
+put out Grey Worlds:
+
+  http://home1.gte.net/rhenton/index.html
+
+CONTACT INFO
+
+The former publishers of Grey Worlds can be contacted by email:
+rhenton@gte.net (Ross Henton); lemr@gte.net (Lem Richards).
+
+A NOTE ON ORGANIZATION
+
+This index is categorized primarily by game systems. A GENERAL
+category also exists for FANTASY.
+
+A NOTE ON THIS INDEX
+
+Only the issues of Grey Worlds easily available through ICE are
+indexed here: these are the last four fanzine issues, and all of the
+professional issues. I will add the rest of the fanzine issues, if I
+can get my hands on a set of them. When referring to issues, below, a
+'VI.#' refers to the original fanzine, while a 'VII.#' refers to the
+current magazine. It has absolutely nothing to do with the arbitrary
+volume numbers which are used on the magazines themselves.
+
++------------------------------------------------------------------+
+| This index is Copyright 1995-6 Shannon Appel.  It may be freely  |
+| distributed provided that no money is charged whatsoever for its |
+| distribution.                                                    |
++------------------------------------------------------------------+
+
+REGULAR FEATURES
+  Game Aids:
+    Pandora's Box, EQUIPMENT, #I.12-14,#II.1-2			[Pandora...]
+    The Space Master Armory, #I.13				[Space...]
+
+AT RAPIER'S POINT [ICE]					**RPG SWASHBUCKLING**
+  Classes, Diplomat:
+    The Diplomat, by Kevin Scrivener (1)		VII.2	pg 31
+  Classes, Noble De Robe:
+    The Noble De Robe, by Kevin Scrivener (1)		VII.2	pg 32
+  Classes, Poet/Actor:
+    The Poet/Actor, by Kevin Scrivener (1)		VII.2	pg 33
+  Classes, Religious Dissident:
+    The Religious Dissident, by Kevin Scrivener (1)	VII.2	pg 34
+  Classes, Scientist:
+    The Scientist, by Kevin Scrivener (1)		VII.2	pg 35
+  Rules, Character Creation:
+    The Diplomat, by Kevin Scrivener (1)		VII.2	pg 31
+    The Noble De Robe, by Kevin Scrivener (1)		VII.2	pg 32
+    The Poet/Actor, by Kevin Scrivener (1)		VII.2	pg 33
+    The Religious Dissident, by Kevin Scrivener (1)	VII.2	pg 34
+    The Scientist, by Kevin Scrivener (1)		VII.2	pg 35
+
+(1) Reprinted in AT RAPIER'S POINT
+
+BLADESTORM [ICE]					**MINIATURES FANTASY**
+  Rules, Variant:
+    Bladestorm Observations, by John Curtis		VI.12	pg 9
+
+CYBERSPACE [ICE]					**RPG CYBER**
+  Equipment, Magic Items:
+    Magitech, by Monte Cook				VI.14	pg 42-43
+  Magic, Misc:
+    Technomancy, Cyberspace & Magitech, Part One, by Monte Cook                                                                         VI.13   pg 36-41
+    Technomancy, Cyberspace & Magitech, Part Two, by Monte Cook                                                                         VI.14   pg 40-45
+  Magic, Technomancy, Spell Lists:
+    Cyber Ways, by Monte Cook				VI.13	pg 38-39
+    Cyberspace Ways, by Monte Cook			VI.14	pg 44-45
+    Magic/Tech Blending, by Monte Cook			VI.13	pg 39-40
+    Tech Enhancement, by Monte Cook			VI.13	pg 41
+  NPCs:
+    Cybergangs, by Sean Holland				VI.12	pg 34-35
+
+DARK SPACE [ICE]					**RPG SF**
+  Equipment, Magic Items:
+    Magitech, by Monte Cook				VI.14	pg 42-43
+  Magic, Misc:
+    Technomancy, Cyberspace & Magitech, Part One, by Monte Cook                                                                         VI.13   pg 36-41
+    Technomancy, Cyberspace & Magitech, Part Two, by Monte Cook                                                                         VI.14   pg 40-45
+  Magic, Technomancy, Spell Lists:
+    Cyber Ways, by Monte Cook				VI.13	pg 38-39
+    Cyberspace Ways, by Monte Cook			VI.14	pg 44-45
+    Magic/Tech Blending, by Monte Cook			VI.13	pg 39-40
+    Tech Enhancement, by Monte Cook			VI.13	pg 41
+
+EARTH, GENERAL						**MISC MISC**
+  Background, Organizations, Druids:
+    Druidism and the Druidic Office, by Ross Henton	VI.14	pg 10-12
+  Creatures:
+    Possession and Exorcism, by Ross Henton		VI.12	pg 19-21
+  Magic:
+    Possession and Exorcism, by Ross Henton		VI.12	pg 19-21
+
+FANTASY, GENERAL					**RPG FANTASY**
+  Fiction:
+    B is for Burglar, by James Reynolds			VII.2	pg 40-43
+
+FICTION							**MISC MISC**
+  Fantasy, General:
+    B is for Burglar, by James Reynolds			VII.2	pg 40-43
+
+MERP [ICE]						**RPG FANTASY**
+  Classes, Cleric:
+    Cleric's Law, Joe Mandala & Paul Stafford		VII.2	pg 25-28
+  Cults:
+    Cleric's Law, Joe Mandala & Paul Stafford		VII.2	pg 25-28
+  Magic, Misc:
+    The Unique Magic of Middle-Earth, by David Woolpy	VII.3	pg 26-32
+  Magic, Spell Lists, Diety Granted:
+    Powers of Varda, by Joe Mandala & Paul Stafford	VII.2	pg 27-28
+  Races, Elves:
+    The Unique Magic of Middle-Earth, by David Woolpy	VII.3	pg 26-32
+  Previews:
+    MERP Second Edition					VII.2	pg 36-39
+
+PRIMAL ORDER [WotC]					**RPG FANTASY**
+  Reviews:
+    The Primal Order					VII.3	pg 4
+    Chessboards: Planes of Possibility			VII.3	pg 6-7
+    Knights: Strategies in Motion			VII.3	pg 5-6
+    Pawns: The Opening Move				VII.3	pg 5
+
+ROLEMASTER [ICE]					**RPG FANTASY**
+  Adventures:
+    Mistaken Identity, by Lem Richards & Monte Cook	VII.2	pg 52-61
+  Background, Misc, Organizations:
+    The Arbitration Guild, by Leslie & Jeanette Roth	VI.14	pg 38-39
+  Background, The Broken Lands, Introduction:
+    The Broken Lands, by Sean Holland			VI.12	pg 36-38
+  Background, Medieval, Introduction:
+    Medieval Adventuring, by Tim Taylor			VI.15	pg 42-48
+  Campaign Design, Encounters:
+    Spirit Realm Encounter Table, by Laura Reutter	VI.12	pg 31
+  Campaign Design, Locations:
+    Holy Fortresses, by David Blank			VI.12	pg 32-33
+  Classes, Chronomancer:
+    Chronomancer, by Sanford Berenberg			VI.15	pg 15-19
+  Classes, Cleric (1):
+    Divine Cults, by Gary Anastasio			VII.2	pg 12-13
+    Priesthoods, by Paul Stafford			VII.2	pg 17-24
+  Classes, Druid (2):
+    Druidism and the Druidic Office, by Ross Henton	VI.14	pg 10-12
+  Classes, Exorcist:
+    Exorcist, by Ross Henton				VI.12	pg 21-24
+  Classes, Folk Mage:
+    The Folk Mage, by Richard Ruane			VII.3	pg 10-22
+  Classes, Monastic:
+    Monastic, by Ross Henton				VI.14	pg 15
+  Classes, Ninja:
+    Ninja, by Rob Haycock				VI.14	pg 13
+  Classes, Nomad:
+    Nomad, by Rob Haycock				VI.14	pg 12
+  Classes, Realm Molder:
+    Realm Molder, by Paul Stafford & David Mullin	VI.14	pg 14
+  Classes, Samurai:
+    Samurai, by Rob Haycock				VI.14	pg 13
+  Classes, Shadow Mage:
+    Shadow Mage, by Scott Suver				VII.1	pg 33-35
+  Classes, Spy:
+    Spy, by Gary Anastasio				VI.15	pg 21
+  Classes, Tarotmage:
+    Living Tarot, by Leslie & Jeanette Roth		VI.14	pg 20-22
+    The Tarot of Many Teachings, by Jeannette Roth	VI.15	pg 22-41
+    Tarotmage, by Jeanette Roth				VI.14	pg 23-33
+  Classes, Witch (3):
+    Witches Revised, by Ward Miller			VI.15	pg 9
+  Classes, Witch Hunter:
+    Witch Hunter, by Ross Henton			VI.12	pg 13-17
+  Classes, Wizard (4):
+    Wizards Revised, by Ward Miller			VI.15	pg 9
+  Creatures, Misc:
+    Flesc Demons, by Ross Henton			VI.12	pg 25-27
+    Spirits, by Laura Reutter				VI.12	pg 27-31
+    Vampyric Magicks, by Tim Taylor			VI.14	pg 33-34
+    Vampiric Powers, by David Mullin			VI.13	pg 32
+  Creatures, Stats:
+    Black Paladin, by Joe Kushner			VI.13	pg 44
+    Crimson Guard, by Joe Kushner			VI.13	pg 44
+    Dergon, by Joe Kushner				VI.13	pg 44
+    Grey Noble, by Joe Kushner				VI.13	pg 44
+  Cults:
+    Divine Cults, by Gary Anastasio			VII.2	pg 12-13
+    Holy Fortresses, by David Blank			VI.12	pg 32-33
+    Priesthoods, by Paul Stafford			VII.2	pg 17-24
+  Equipment, Misc:
+    Pandora's Box, by Joseph B. Daugherty		VI.12	pg 7-8
+    Pandora's Box, by Joseph B. Daugherty		VI.13	pg 6-7
+    Pandora's Box, by Joseph B. Daugherty & Daniel A. Whiteside                                                                         VII.1	pg 12
+    Pandora's Box, by Joseph B. Daugherty & Daniel A. Whiteside                                                                         VII.2	pg 8
+  Equipment, Combat:
+    Pandora's Box, by Joseph B. Daugherty		VI.12	pg 7-8
+    Pandora's Box, by Joseph B. Daugherty & Daniel A. Whiteside                                                                         VII.2	pg 8
+  Equipment, Herbs:
+    Natural & Enchant Herbs, by William Bornander (5)	VI.15	pg 10
+  Equipment, Magic Items, Misc:
+    Multiple User Items, by Joseph B. Daugherty		VI.15	pg 8
+    Pandora's Box, by Joseph B. Daugherty		VI.12	pg 7-8
+    Pandora's Box, by Joseph B. Daugherty		VI.13	pg 6-7
+    Shades of Essence, by Joe Kushner and Sean Holland	VII.1	pg 36-41
+    The Tarot of Many Teachings, by Jeannette Roth	VI.15	pg 22-41
+    Treasures, by Mark McLean				VI.13	pg 45
+  Equipment, Magic Items, Books:
+    Pandora's Box, by Joseph B. Daugherty		VI.14	pg 6
+  Equipment, Magic Items, Rings:
+    Pandora's Box, by Joseph B. Daugherty		VI.15	pg 7
+  Magic, Misc:
+    Extended List Development, by Joseph B. Daugherty	VI.14	pg 7
+    Notes on the Nature and Power of Folk Magic and Witchcraft                                                                          VII.2   pg 10
+    Primal Essence Flow, by Sanford Berenberg		VII.1	pg 23-26
+    Runes, Symbols, Glyphs and Wards, by Monte Cook	VII.1	pg 7-8
+    Variations on Summoning, by Andrew Durston		VI.13	pg 27
+  Magic, Misc, Rituals:
+    Magic Ritual Options, by Andrew Durston		VI.13	pg 23
+    Ritual Research, by David Mullin			VI.13	pg 13
+  Magic, Arcane (6), Spell Lists:
+    Mystic Armor, by David Blank			VI.13	pg 34
+    Primal Essence Flows, by Sanford Berenberg		VII.1	pg 26
+  Magic, Channeling, Closed, Spell Lists:
+    Bubble Magic, by Jeanette Roth			VII.1	pg 29-30
+  Magic, Channeling, Evil, Spell Lists:
+    Putrefaction, by Tim Taylor				VI.14	pg 19
+  Magic, Chronomancer, Misc:
+    Chronomancy, by Sanford Berenberg			VI.15	pg 12-19
+  Magic, Chronomancer, Spell Lists:
+    Chronomancy, by Sanford Berenberg			VI.15	pg 18-19
+    Temporal Manipulation, by Sanford Berenberg		VI.15	pg 17-18
+    Time's Distortion, by Sanford Berenberg		VI.15	pg 16-17
+  Magic, Deity, Luck, Spell Lists:
+    Lucky Ways, by David Mullin				VI.13	pg 31
+  Magic, Deity, Sky/Weather, Spell Lists:
+    Weather Mastery, by David Mullin			VI.13	pg 33
+  Magic, Essence, Closed, Spell Lists:
+    Mirror Magic, by Leslie and Jeanette Roth	VII.1	pg 27-29
+  Magic, Exorcist, Spell Lists:
+    Fortress of the Exorcist, by Ross Henton		VI.12	pg 23
+    Hand of the Exorcist, by Ross Henton		VI.12	pg 22
+    Voice of the Exorcist, by Ross Henton		VI.12	pg 23-24
+  Magic, Folk Mage, Spell Lists:
+    Helping Hand, by Richard Ruane			VII.3	pg 13
+    Waxen Ways, by Richard Ruane			VII.3	pg 14-15
+    Witch's Cauldron, by Richard Ruane			VII.3	pg 15-17
+    Witch's Form, by Richard Ruane			VII.3	pg 18-19
+    Witch's Healing Law, by Richard Ruane		VII.3	pg 19-20
+    Witch's Justice, by Richard Ruane			VII.3	pg 20-21
+    Witchstaff, by Richard Ruane			VII.3	pg 21-22
+  Magic, Magician (7), Spell Lists:
+    Elemental Storms, by Edward R. Cassidy		VI.13	pg 29
+    Elemental Summons, by David Mullin			VI.13	pg 30-31
+  Magic, Monastic, Spell Lists:
+    Haven, by Ross Henton				VI.14	pg 17-18
+    Holy Knowledge, by Ross Henton			VI.14	pg 16-17
+    Sanction, by Ross Henton				VI.14	pg 15-16
+  Magic, Professional Guild (8), Spell Lists:
+    Thieves' Way, by Edward R. Cassidy			VI.12	pg 17-18
+    Way of the Arbiter, by Leslie & Jeanette Roth	VI.14	pg 39
+  Magic, Ranger (9), Spell Lists:
+    Nature's Footman, by Lem Richards			VI.14	pg 36
+    Nature's Weapons, by Rob Smith			VI.14	pg 37
+  Magic, Shadow Mage, Spell Lists:
+    Shadow Law, by Scott Suver				VII.1	pg 34
+    Shadowport, by Scott Suver				VII.1	pg 35
+  Magic, Special, Spell Lists:
+    Arrow of Might, by Bryan Jacquay			VII.1	pg 31-32
+    Discrete Channels, by Ross Henton			VI.14	pg 35-36
+    Intangible Ways, by Randall G. Kuipers		VI.15	pg 20-21
+    Vampyric Magicks, by Tim Taylor			VI.14	pg 33-34
+    Vampiric Powers, by David Mullin			VI.13	pg 32
+    Wood Guardian, by David Blank			VI.13	pg 35
+  Magic, Tarotmage, Misc:
+    Living Tarot, by Leslie & Jeanette Roth		VI.14	pg 20-22
+    The Tarot of Many Teachings, by Jeannette Roth	VI.15	pg 22-41
+  Magic, Tarotmage, Spell Lists:
+    Cup Magic, by Jeanette Roth				VI.14	pg 25-26
+    Major Arcana Magic, by Jeanette Roth		VI.14	pg 31-33
+    Minor Arcana Magic, by Jeanette Roth		VI.14	pg 29-31
+    Pentacle Magic, by Jeanette Roth			VI.14	pg 28-29
+    Rod Magic, by Jeanette Roth				VI.14	pg 24-25
+    Sword Magic, by Jeanette Roth			VI.14	pg 27-28
+  Magic, Warlock (10), Spell Lists:
+    Discrete Channels, by Ross Henton			VI.14	pg 35-36
+  Magic, Witch (3), Misc:
+    Witches Revised, by Ward Miller			VI.15	pg 9
+  Magic, Witch Hunter, Spell Lists:
+    The Aegis, by Ross Henton				VI.12	pg 14
+    The Chains, by Ross Henton				VI.12	pg 13-14
+    The Eye, by Ross Henton				VI.12	pg 15-16
+    The Fist, by Ross Henton				VI.12	pg 16-17
+    The Question, by Ross Henton			VI.12	pg 15
+  Magic, Wizard (4), Misc:
+    Wizards Revised, by Ward Miller			VI.15	pg 9
+  Random Tables:
+    Random Events Table, by Laura Reutter		VI.14	pg 9
+  Rules, Misc:
+    How to Drown Efficiently, by Lem Richards		VI.13	pg 14-16
+    Lifting Capacity, by Kevin F. Callaghan		VI.12	pg 8
+  Rules, Character Creation, Misc:
+    Additional Selectable Background Options, by Andrew Durston                                                                         VI.13   pg 22
+    Background Packages, by Sanford Berenberg (5)	VII.1	pg 17-18
+  Rules, Character Creation, Packages:
+    The Complete Warrior, by Sanford Berenberg (5)	VII.1	pg 17-19
+  Rules, Character Creation, Professions:
+    Chronomancer, by Sanford Berenberg			VI.15	pg 15-19
+    Exorcist, by Ross Henton				VI.12	pg 21-24
+    The Folk Mage, by Richard Ruane			VII.3	pg 10-22
+    Monastic, by Ross Henton				VI.14	pg 15
+    Ninja, by Rob Haycock				VI.14	pg 13
+    Nomad, by Rob Haycock				VI.14	pg 12
+    Realm Molder, by Paul Stafford & David Mullin	VI.14	pg 14
+    Samurai, by Rob Haycock				VI.14	pg 13
+    Shadow Mage, by Scott Suver				VII.1	pg 33-35
+    Spy, by Gary Anastasio				VI.15	pg 21
+    Tarotmage, by Jeanette Roth				VI.14	pg 23-33
+    Witch Hunter, by Ross Henton			VI.12	pg 13-17
+  Rules, Characteristics:
+    Agility Modified by MIA, by Michael Mullin		VI.13	pg 20
+    Manual Dexterity (MD), by Sanford Berenberg (5)	VI.15	pg 11
+    Revised Will Contest Table, by Laura Reutter	VI.12	pg 29-30
+  Rules, Combat, Misc:
+    Aiming, by Durston, Michalski & Mullin		VI.13	pg 19
+    Damage by Location, by Sanford Berenberg (5)	VII.1	pg 20-23
+    Martial Arts Expansions and Rev., by Andrew Durston	VI.13	pg 25-26
+    Parrying Versus Large Foes, by Durston, Michalski & Mullin                                                                          VI.13   pg 18
+    Time Tracking Revisited, by John Curtis		VI.12	pg 11-12
+  Rules, Combat, Criticals, Misc:
+    Called Combat Criticals, by Joseph B. Daugherty	VI.13	pg 11-12
+  Rules, Combat, Criticals, Tables:
+    Drowning Criticals, by Lem Richards			VI.13	pg 16
+    Explosion Criticals, by Tim Taylor (11)		VI.12	pg 44
+    Sparring/Practice Criticals, by Tim Taylor		VI.14	pg 46
+    Steam Criticals					VI.13	pg 46
+    Strategic Targeting Criticals, by Berenberg (5)	VII.1	pg 22
+  Rules, Combat, Initiative:
+    200 Point Initiative System Rev., by John Curtis	VI.12	pg 10
+    Orientation Based Initiative, by Lem Richards	VII.1	pg 13-14
+    Relative Initiative, by Randall G. Kuipers		VI.14	pg 8
+  Rules, Combat, Variant:
+    Bladestorm Observations, by John Curtis		VI.12	pg 9
+  Rules, Experience:
+    Class Bonus System, by Scott Stansfield		VI.13	pg 13
+    Extended List Development, by Joseph B. Daugherty	VI.14	pg 7
+    Optional DP System, by Scott Stansfield		VI.13	pg 13
+  Rules, Luck:
+    Grace, by Chris Michalski				VI.13	pg 17
+    In the Hands of Fate, by John W. Curtis III		VI.13	pg 8-10
+  Rules, Official Q&A, RMCII:
+    New Spells and Spell Interpretations, by Andrew Durston                                                                             VI.13   pg 28
+  Rules, Official Q&A, RMCIV:
+    RMCIV Errata					VI.13	pg 24
+  Rules, Skills, Misc:
+    Lore Skills & Recognizing Herbs & Poison, by Durston & Michalski                                                                    VI.13   pg 21
+    Meditation as a Single Skill II, by Andrew Durston	VI.13	pg 24
+    Optional Stalk and Hide Modifiers, by Sanford Berenberg                                                                             VI.15   pg 11
+    Rank v. Rank Resistance Rolls, by Andrew C. Durston	VI.13	pg 21
+    Skill v. Skill Situations, by Randall G. Kuiper 	VII.1	pg 15-16
+  Rules, Skills, Bonuses:
+    Agility Modified by MIA, by Michael Mullin		VI.13	pg 20
+    Class Bonus System, by Scott Stansfield		VI.13	pg 13
+  Rules, Skills, New:
+    Faith, by Tim Taylor				VI.14	pg 7
+    Library Science, by Ross Henton			VI.14	pg 7
+    Religious Conversion, by Tim Taylor			VI.14	pg 7
+    Terrain Awareness, by Kevin Callaghan		VI.13	pg 7
+    Undead Lore, by Scott Stansfield			VI.14	pg 7
+
+(1) The Cleric is detailed in CHARACTER LAW & CAMPAIGN LAW (#1300)
+(2) The Druid is detailed in ROLEMASTER COMPANION (#1500)
+(3) The Witch is detailed in ROLEMASTER COMPANION II (#1600)
+(4) The Wizard is detailed in ROLEMASTER COMPANION V (#1900)
+(5) Reprinted in THE ARMS COMPANION (#1120)
+(6) Arcane Spells lists are unspecialized spell lists, detailed first
+    in ROLEMASTER COMPANION (#1600)
+(7) The Magician is detailed in CHARACTER LAW & CAMPAIGN LAW (#1300)
+(8) Professional Guild Spell Lists are detailed in ROLEMASTER
+    COMPANION V (#1900)
+(9) The Ranger is detailed in CHARACTER LAW & CAMPAIGN LAW (#1300)
+(10) The Warlock is detailed in ROLEMASTER COMPANION II (#1600)
+(11) Reprinted in the ALCHEMY COMPANION (#1530)
+
+SHADOW WORLD [ICE]					**ROLEMASTER WORLD**
+  Adventures, The Grand Campaign:
+    A Gathering Darkness, Part 1, by Terry Amthor	VII.3	pg 34-59
+    
+  Adventures, Magic Island:
+    Return to the Magic Island, by Tim Taylor		VI.12	pg 39-43
+  Classes, Cleric:
+    Religions of Orhan, by Gary Anastasio		VII.2	pg 14-16
+  Cults:
+    Religions of Orhan, by Gary Anastasio		VII.2	pg 14-16
+  Magic, Misc:
+    Channelers of the Unessaaence, by David Mullin	VII.2	pg 10-11  
+
+SILENT DEATH [ICE]					**BOARD SF**
+  Adventures:
+    The Trojan Epping, by Matt Burleigh & Frank Crull	VII.2	pg 49-51
+  Rules, Combat:
+    Ramming Speed, by Matt Forbeck			VII.2	pg 44-48
+  Rules, Official Questions & Answers:
+    Ramming Speed, by Matt Forbeck			VII.2	pg 44-48
+ 
+SPACE MASTER [ICE]					**RPG SF**
+  Equipment, Misc:
+    Pandora's Box, by Joseph Daughtery & Daniel Whiteside                                                                               VII.2   pg 8
+    The Space Master Armory, by Ross Henton		VI.13	pg 42-43
+  Equipment, Combat:
+    The Space Master Armory, by Ross Henton		VI.13	pg 42-43
+  Equipment, Magic Items:
+    Magitech, by Monte Cook				VI.14	pg 42-43
+  Magic, Misc:
+    Technomancy, Cyberspace & Magitech, Part One, by Monte Cook                                                                         VI.13   pg 36-41
+    Technomancy, Cyberspace & Magitech, Part Two, by Monte Cook                                                                         VI.14   pg 40-45
+  Magic, Psionics, Spell Lists:
+    Repairs, by Thomas Bont & M. Williamson		VII.3	pg 23-24
+  Magic, Technomancy, Spell Lists:
+    Cyber Ways, by Monte Cook				VI.13	pg 38-39
+    Cyberspace Ways, by Monte Cook			VI.14	pg 44-45
+    Magic/Tech Blending, by Monte Cook			VI.13	pg 39-40
+    Tech Enhancement, by Monte Cook			VI.13	pg 41
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+

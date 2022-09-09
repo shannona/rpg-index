@@ -1,0 +1,426 @@
+		       THE LAST PROVINCE INDEX
+			     VERSION 1.20
+
+			     [issues 1-5]
+
+			   by Shannon Appel
+			   (appel@erzo.org)
+
+HISTORY, 1992-1993
+
+The Last Province was a British role-playing magazine founded in the
+Fall of 1992. From the first issue, the 80 page magazine had excellent
+articles and layout. Unfortunately, only five issues of the bi-monthly
+magazine were printed, the last near the end of 1993.  In 1993, The
+Last Province ceased publication.
+
+A NOTE ON ORGANIZATION
+
+The majority of this index is categorized by game systems.  In
+addition, there are also a number of GENERAL categories, for EARTH,
+FANTASY, HORROR, LARPS, SCIENCE FICTION and SUPERHEROES. All of the
+GENERAL categories are for articles about the appropriate genre that
+may be applied to any game that uses that background. Other categories
+include SPOTLIGHTS.
+
++---------------------------------------------------------------------+
+| This index is Copyright 1993-5 Shannon Appel.  It may be freely     |
+| distributed provided that no money is charged whatsoever for its    |
+| distribution.                                                       |
++---------------------------------------------------------------------+
+
+REGULAR FEATURES
+  Comic Strips:
+    The Gamers, COMIC STRIP, #2-#5
+  Gaming Aids:
+    Broken Spines, AUTHOR SPOTLIGHTS, #1-5			[BrS:]
+    NPCs, GAME AID, #1-5					[NPCs]
+    Vignettes, GAME AIDS, #1-5					[Vignettes]
+  News:
+    Stateside, NEWS, #3-4
+    Verbatim, NEWS, #1-#5
+  Reviews:
+    451, BOOK REVIEWS, #1-5
+    Flash in the Pan, MINIATURES REVIEWS, #1-5
+    Revenants, GAME REVIEWS, #1-5				[Rev:]
+
+ADVANCED DUNGEONS AND DRAGONS [TSR]			**RPG FANTASY**
+  Reviews:
+    The Complete Gladiators Handbook			#5	pg 12
+    Dragon Mountain					#5	pg 17-18
+    The Ivory Triangle					#5	pg 11
+    Magic Encyclopedia, Volume Two			#4	pg 15-16
+    ALQ2: Assassin Mountain				#5	pg 15-16
+    ALQ3: A Dozen and One Adventures			#5	pg 14-15
+    DSQ3: Asticlian Gambit				#3	pg 10
+    HHQ3: Thief's Challenge				#4	pg 16
+    LNQ1: Slayers of Lankhmar				#3	pg 11-12
+    PHBR10: The Complete Book of Humanoids		#5	pg 10
+
+ARS MAGICA [White Wolf]					**RPG FANTASY**
+  Magic, Vis:
+    De vere Natura Vis					#1	pg 20-21
+
+BATTLELUST [Columbia Games]				**MINIATURES FANTASY**
+  Reviews:
+    Battlelust						#3	pg 16
+
+BUNNIES & BURROWS [FGU]					**RPG MISC**
+  Reviews:
+    Rev: Bunnies & Burrows				#3	pg 56-57
+
+BUSHIDO [FGU]						**RPG ORIENTAL**
+  Reviews:
+    Rev: Bushido					#1	pg 26-28
+
+CALL OF CTHULHU [Chaosium]				**RPG HORROR**
+  Adventures, Now:
+    Angular Dreams, by Angus Boylan			#1	pg 36-48
+  Background, 1930s:
+    thirtiessomething, by Dave Barras (1)		#2	pg 46-49
+  Reviews:
+    The Thing at the Threshold				#2	pg 17
+
+(1) Also printed in THE UNSPEAKABLE OATH #7
+
+CAR WARS [SJG]						**BOARD SF**
+  Reviews:
+    Car Wars Military Vehicle Guide			#2	pg 16-17
+
+CHILL [Mayfair]						**RPG HORROR**
+  Adventures:
+    Motorway Psycho, by JW Brogden			#4	pg 36-38,43-46
+
+CHIVALRY & SORVERY [FGU]				**RPG FANTASY**
+  Reviews:
+    Rev: Chivalry & Sorcery				#5	pg 62-64
+
+CORPS [BTRC]						**RPG SF**
+  Reviews:
+    CORPS GMs Screen					#3	pg 17-18
+ 
+CYBERPUNK [R. Talsorian]				**RPG CYBER**
+  Equipment, Drugs:
+    Cyberpunk Junk, by Scott Mackay			#1	pg 29-32
+  Reviews, Atlas Games:
+    All Fall Down					#2	pg 12
+    Chasing the Dragon					#1	pg 11-12
+    Night City Stories					#1	pg 11-12
+  Reviews, Ianus Games:
+    Night's Edge					#2	pg 11-12
+  Reviews, R. Talsorian:
+    The Chrome Berets					#4	pg 10-11
+    Chromebook 2					#3	pg 18
+
+DARK CONSPIRACY [GDW]					**RPG HORROR**
+  Rules, Hacking:
+    Hacking in the Real World, by Malcolm Campbell	#5	pg 27-32
+  Reviews:
+    Empathic Sourcebook					#5	pg 18-19
+
+DRAGONFIRE [Heartbreaker]				**BOARD FANTASY**
+  Reviews:
+    Dragonfire						#4	pg 19
+
+DUNGEONS & DRAGONS [TSR]				**RPG FANTASY**
+  Reviews:
+    Rage of the Rakasta					#5	pg 14
+
+EARTH, GENERAL						**MISC MISC**
+  Background, Misc, Fashion:
+    Ruffles & Bows, by Alison Brooks			#1	pg 49-51
+  Background, Misc, Heraldry:
+    Or, A Dragon Passant, Sable, by Jo Jaquinta		#4	pg 32-35
+  NPCs:
+    NPCs, by Caroline Dunford & Phil Masters		#5	pg 74-75
+
+ELRIC! [Chaosium]					**RPG FANTASY**
+  Background, Introduction:
+    BrS: Moorcock, Michael, by Pete Strover		#2	pg 55-57
+ 
+EMPIRE OF THE PETAL THRONE [TOME]			**RPG FANTASY**
+  Reviews:
+    Rev: Empire of the Petal Throne			#2	pg 62-65
+
+FANTASY, GENERAL					**MISC FANTASY**
+  Adventures:
+    New Things are Made Familiar..., by Nick Philips	#4	pg 28-31,39-42
+  Advice, Gamemasters:
+    The Epic Campaign, by Caroline Dunford		#1	pg 76-78
+  Background, Misc, Heraldry:
+    Or, A Dragon Passant, Sable, by Jo Jaquinta		#4	pg 32-35
+  Background, Misc, Organizations:
+    The Guild of Righteous Avengers, by Phil Masters	#2	pg 22-26
+  Campaign Design, Social:
+    Ruffles & Bows, by Alison Brooks			#1	pg 49-51
+  Campaign Design, Worlds:
+    The Art of Names, by Nick Phillips			#1	pg 54-55
+  Magic:
+    Magic in the Making, by Angus Boylan		#4	pg 48-54
+  Vignettes:
+    Vignettes, by Dave Stone				#1	pg 72-73
+    Vignettes, by Dave Stone				#2	pg 75
+  Reviews, Bard Games:
+    The Compleat Alchemist				#5	pg 13
+  Reviews, Flying Buffalo:
+    Grimtooth's Dungeon of Doom				#4	pg 11
+
+FANTASY WARRIORS [Grenadier]				**MINIATURES FANTASY**
+  Reviews:
+    Fantasy Warriors Companion				#2	pg 14-15
+
+FULL THRUST [Ground Zero Games]				**BOARD SF**
+  Reviews:
+    Full Thrust						#4	pg 9-10
+
+GATECRASHER [Hot Tub Dragon Games]			**RPG FANTASY**
+  Reviews:
+    Gatecrasher						#4	pg 19
+
+GENERAL							**MISC MISC**
+  Meta, Humor:
+    When Things go Worng, by Marcus L. Worland		#1	pg 33-35
+  Advice, Gamemasters:
+    Convention vs. Campaign, by Roger Burton-West	#1	pg 56-57
+    Kastajhan's Carpet, by Steven Hatherley		#3	pg 49-51
+    Ten Ways to Destroy a Game, by Alison Brooks	#3	pg 20-22
+  Advice, Players:
+    Ten Ways to Crack a GM, by Caroline Dunford & Chris Cooke                                                                           #4      pg 25-27
+  Background, Misc, Heraldry:
+    Or, A Dragon Passant, Sable, by Jo Jaquinta		#4	pg 32-35
+  Background, Misc, Organizations, Governments:
+    Power to the People, by Caroline Dunford		#1	pg 19-21
+  Campaign Design, Misc:
+    BrS: Dick, Phillip K., by Andy Lane			#1	pg 71
+    BrS: Moorcock, Michael, by Pete Strover		#2	pg 55-57
+    BrS: Wolfe, Gene, by Pete Strover			#5	pg 66-67
+  NPCs:
+    NPCs, by Misc					#1	pg 74-75
+    NPCs, by Misc					#2	pg 76-77
+    NPCs, by Misc					#3	pg 76-77
+    NPCs, by Misc					#4	pg 74-75
+  Vignettes:
+    Vignettes, by Dave Stone				#3	pg 74-75
+    Vignettes, by Dave Stone				#4	pg 72-73
+    VIgnettes, by Dave Stone				#5	pg 72-73
+  Reviews, Gamescience:
+    Zocchihedra, Naughtyhedra, d7s & Bouncing Dice	#1	pg 15
+
+GURPS [SJG]						**RPG MISC**
+  Adventures, Fantasy:
+    The Tears of the Gods, by Caroline Dunford		#3	pg 31-44
+  Rules, Computers:
+    Hacking in the Real World, by Malcolm Campbell	#5	pg 27-32
+  Reviews:
+    GURPS Arabian Nights				#5	pg 16
+    GURPS Atomic Horror					#5	pg 16-17
+    GURPS Bunnies & Burrows				#2	pg 9-10
+    GURPS Cyberpunk: Adventures				#2	pg 8-9
+    GURPS Espionage					#3	pg 17
+    GURPS Fantasy II: Adventures in the Mad Lands	#4	pg 13-14
+    GURPS Middle Ages 1					#4	pg 13
+    GURPS Supers: Mixed Doubles				#2	pg 8
+    GURPS Timeline					#4	pg 12
+    GURPS Time Travel: Adventures			#4	pg 11-12
+    GURPS Vampire: THe Masquerade			#5	pg 8-9
+
+HORROR, GENERAL						**MISC HORROR**
+  Adventures:
+    A Friend in Need, by Phil Masters			#2	pg 51-54
+  Advice, Game Master:
+    Getting the Creeps, by Caroline Dunford		#5	pg 48-52
+  Campaign Design, Misc:
+    BrS: James, MR, by Craig Oxbrow			#3	pg 58-59
+
+HOT LEAD [Steve Jackson Games]				**MINIATURES SF**
+  Previews:
+    Hot Lead						#5	pg 59-61
+
+KRYOMEK [Fantasy Forge]					**MINIATURES FANTASY**
+  Background:
+    Biotarkis, by Rupert Breheny			#1	pg 65-66
+    The Kryomek Counter-attack, by Ricardo Pinto	#1	pg 62-65
+    The Pillars of Thunder, by Iain Lowson		#3	pg 60-65
+  Reviews:
+    Kryomek						#1	pg 12-13
+
+LARP, GENERAL						**LARP MISC**
+  Advice, Game Master:
+    Free and Easy, by Tom Lehmann			#5	pg 22-26
+
+MAN O'WAR						**MINIATURES FANTASY**
+  Reviews:
+    Man O'War						#4	pg 18
+
+MILLENNIUM'S END [Chameleon Eclectic]			**RPG SF**
+  Reviews:
+    Millennium's End					#1	pg 6
+    GM Screen & 1999 Datasource				#2	pg 13
+    Nightwalker/The Villee Affair			#1	pg 6-7
+
+MERP [ICE]						**RPG FANTASY**
+  Background, Fourth Age:
+    The Ages of Elessar, by Keith Marshall		#1	pg 58-61
+
+MINDS EYE THEATRE: THE MASQUERADE			**LARP FANTASY**
+  Reviews:
+    Mind's Eye Theatre: The Masquerade			#5	pg 21
+  [Also See: VAMPIRE, WEREWOLF, WORLD OF DARKNESS]
+  
+MYTHUS [GDW]						**RPG FANTASY**
+  Reviews:
+    Mythus						#1	pg 13-14
+    Mythus Magick					#1	pg 14-15
+
+OGRE [SJG]						**BOARD SF**
+  Rules, Scenerios:
+    Exercise K, by Steve Jackson			#2	pg 66-70
+
+OHMU War Machine [TBA Games]				**MINIATURES SF**
+  Reviews:
+    OHMU War Machine					#3	pg 14-15
+
+ONCE UPON A TIME [Atlas Games]				**CARD FANTASY**
+  Reviews:
+    Once Upon a Time					#2	pg 15
+
+ORBIT WAR [SJG]						**BOARD SF**
+  Reviews:
+    Orbit Wars						#2	pg 10-11
+
+OVER THE EDGE [Atlas Games]				**RPG SF**
+  Background, Organizations:
+    The Black Death Theater Troupe, by Jonathan Tweet	#2	pg 27-33
+  Reviews:
+    Over the Edge					#2	pg 17-18
+    New Faces						#2	pg 18
+    Player's Survival Guide				#5	pg 12-13
+    Welcome to Sylvan Pines				#5	pg 20
+
+PENDRAGON [Chaosium]					**RPG FANTASY**
+  Adventures:
+    And then There were Nun..., by David Barras		#1	pg 16-19
+  [Also See: EARTH, GENERAL]
+
+THE PRIMAL ORDER [WotC]					**RPG FANTASY**
+  Reviews:
+    The Primal Order					#4	pg 8-9
+    Pawns						#4	pg 9
+
+RIFTS [Palladium]					**RPG SF**
+  Reviews:
+    Rifts World Book Two: Atlantis Rising		#2	pg 12-13
+    Rifts World Book Four: Africa			#5	pg 19
+
+RINGWORLD [Chaosium]					**RPG SF**
+  Reviews:
+    Rev: Ringworld					#4	pg 57-60
+    Rev: Ringworld Companion				#4	pg 57-60
+
+ROLEMASTER [ICE]					**RPG FANTASY**
+  Reviews:
+    Oriental Companion					#4	pg 17-18
+    Rolemaster Companion VI				#3	pg 18-19
+
+RUNEQUEST [Avalon Hill]					**RPG FANTASY**
+  Adventures, Upland Marsh:
+    Dead Reckoning, by Andrew Cowie			#5	pg 33-45
+  Reviews, Avalon Hill:
+    River of Cradles					#3	pg 13-14
+    Shadows on the Borderland				#4	pg 20-21
+    Sun County						#1	pg 9
+  Reviews, Chaosium:
+    King of Sartar					#3	pg 13-14
+
+SCIENCE FICTION, GENERAL				**MISC SF**
+  Background, Technology:
+    Warp Factor, by Colin Raitt				#1	pg 52-53
+  Campaign Design, Misc:
+    BrS: Cordwainer Smith, by Phil Masters		#4	pg 62-64
+  Campaign Design, Adventures:
+    Day of Disaster, by Peter Vialls			#3	pg 26-30
+  Rules, Computers:
+    Hacking in the Real World, by Malcolm Campbell	#5	pg 27-32
+  Reviews:
+    Science Fiction Systems				#3	pg 45-47
+
+SHADOWRUN [FASA]					**RPG CYBER**
+  Reviews:
+    Shadowrun, Second Edition				#2	pg 13-14
+    The Grimoire, Second Edition			#4	pg 14-15
+
+SKREALMS OF JORUNE [Jorune Publishing, Inc]		**RPG SF**
+  Reviews:
+    Skyrealms of Jorune, Second Edition			#3	pg 8-9
+
+SPOTLIGHT						**MISC MISC**
+  Authors:
+    BrS: Dick, Philip K.				#1	pg 71
+    BrS: James, M. R.					#3	pg 58-59
+    BrS: Moorcock, Michael				#2	pg 55-57
+    BrS: Smith, Cordwainer				#4	pg 62-64
+    BrS: Wolfe, Gene					#5	pg 66-67
+
+SUPERHEROES, GENERAL					**MISC SUPERHEROES**
+  Adventures:
+    A Friend in Need, by Phil Masters			#2	pg 51-54
+
+TALES FROM THE FLOATING VAGABOUND [Avalon Hill]		**RPG HUMOR**
+  Reviews:
+    Tales from the Floating Vagabound			#1	pg 8
+
+TALISLANTA [Wizards of the Coast]			**RPG FANTASY**
+  Reviews:
+    The Archaen Codex					#3	pg 9
+
+TRAVELLER, MEGA [GDW]					**RPG SF**
+  Reviews:
+    The Astrogator's Guide to Diaspora Sector		#3	pg 10-11
+
+TRAVELLER, THE NEW ERA [GDW]				**RPG SF**
+  Reviews:
+    Traveller: The New Era				#5	pg 9-10
+    Survival Margin					#4	pg 20
+
+TWERPS [Gamescience]					**RPG HUMOR**
+  Reviews:
+    Twerps						#2	pg 15-16
+
+TWILIGHT 2000 [GDW]					**RPG MILITARY**
+  Reviews:
+    Special Operations					#1	pg 8
+
+VAMPIRE: THE MASQUERADE [White Wolf]			**RPG HORROR**
+  Adventures:
+    The Cuckoo Awakes, by Scott Mackay			#2	pg 34-45
+  Reviews, Steve Jackson Games:
+    GURPS Vampire: The Masquerade			#5	pg 8-9
+  Reviews, White Wolf:
+    Vampire, Second Edition				#3	pg 12
+    Mummy						#1	pg 11
+    The Player's Guide to the Sabbat			#3	pg 15-16
+    The Storyteller's Handbook, First Edition		#1	pg 10-11
+  [Also See: MINDS EYE THEATRE, WEREWOLF, WORLD OF DARKNESS]
+
+WARP WORLD [BTRC]					**RPG SF**
+  Reviews:
+    Warp World						#1	pg 7-8
+
+WEREWOLF: THE APOCALYPSE [White Wolf]			**RPG HORROR**
+  Reviews:
+    Werewolf						#1	pg 9-10
+    Werewolf Players Guide				#5	pg 20
+    Rites of Passage					#3	pg 13
+  [Also See: MINDS EYE THEATRE, VAMPIRE, WORLD OF DARKNESS]
+
+WORLD OF DARKNESS [White Wolf]				**RPG HORROR**
+  Rules, Computers:
+    Hacking in the Real World, by Malcolm Campbell	#5	pg 27-32
+  [Also See: MINDS EYE THEATRE, VAMPIRE, WEREWOLF]
+
++--------------------------------------------------------------------+
+| This, and many other RPG magazine indexes, may all be FTPed from   |
+| ftp.csua.berkeley.edu, where they are stored in the /pub/rpg-index |
+| directory. Comments, corrections and additional information are    |
+| welcome. They may be mailed to appel@erzo.org                      |
++--------------------------------------------------------------------+
