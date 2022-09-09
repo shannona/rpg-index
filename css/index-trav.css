@@ -1,0 +1,157 @@
+   h2 {
+     font-style: plain;
+    border-bottom: 2px solid #f00;
+    width: 100%;
+    display: block;
+}
+
+  .nounderline {
+    border-bottom: 0px;
+  }
+  
+   table.index {
+
+    width: 100%;
+    border-spacing: 0px;
+  }
+
+  table.covers {
+
+    background-color: #ffffff;
+    border-spacing: 0;
+    border-collapse: separate
+
+}    
+
+    
+  td.indexcat {
+    background-color: rgba(255,255,255,0.8);;
+    border-radius: 5px;
+    border: 1px solid black
+    ;
+#    border-style: ridge;
+    font-style: italic;
+    text-indent: 5px;
+  }
+
+  td.indexcat.sector {
+    background-color: rgba(255,255,255,1);
+  }  
+
+  td.indexcat.subsector {
+    background-color: rgba(255,255,255,0.9);
+  }
+
+  td.spacer {
+    background: rgba(255,255,255,0);
+  }
+  
+  td {
+    padding: 2px;
+    background: rgba(255,255,255,0.66);
+    border-right: 1px solid black;
+    color: black;
+    text-indent: 2px;
+  }
+
+  td.nocolor {
+    background: rgba(255,255,255,0);
+  }
+    
+  td.indent {
+    width: 20px;
+  }
+  
+  td.title {
+    width: 36%;
+  }
+
+  td.titlepp {
+    width: 46%;
+  }
+
+  td.system {
+    width: 10%;
+  }
+
+  td.era {
+    width: 10%;
+  }
+  
+  td.author {
+    width: 34%;
+  }
+
+  td.issue {
+    width: 4%;
+  }
+
+  td.pages {
+    width: 109%;
+  }  
+
+  td.legend {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-left: 0px;
+    border-right: 0px;
+  }
+
+  td.first {
+    border-top: 1px solid black;
+  }  
+  td.last {
+    border-bottom: 1px solid black;
+  }
+  
+  ol.index {
+#    list-style-position: inside;
+    #    padding-left: 0;
+  }
+  .cartouche {
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;        
+    text-align: center;
+    background-color: darkgray;
+    color: white;
+    width: 600px;
+  }
+
+  a:link              { color:white; text-decoration:underline; }
+  a:visited           { color:white; text-decoration:underline; }
+  a:hover             { color:white; text-decoration:underline; }
+  a:active            { color:white; text-decoration:underline; }  
+
+.box {  
+  border-style: ridge;
+  border-width: 2px;
+  border-color: gray;
+
+}
+  
+.row {
+  display: table;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.cover {
+  display: table-cell;
+  vertical-align: top;
+  }
+  
+.cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+body {
+    background-image: url("../images/backgrounds/space.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  margin: 25px;
+}

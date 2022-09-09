@@ -1,0 +1,114 @@
+  table.index {
+
+    width: 100%;
+    border-spacing: 0px;
+  }
+
+  table.covers {
+
+    background-color: #ffffff;
+    border-spacing: 0;
+    border-collapse: separate
+
+}    
+
+    
+  td.indexcat {
+#    font-weight: bold;
+    background-color: lightgray;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;
+    text-indent: 5px;
+  }
+
+
+  td {
+    padding: 2px;
+    border-right: 1px solid black;
+  }
+  
+  td.indent {
+    width: 20px;
+  }
+  
+  td.title {
+    width: 40%;
+  }
+
+  td.titlepp {
+    width: 52%;
+  }
+
+  td.system {
+    width: 12%;
+  }
+
+  td.author {
+    width: 38%;
+  }
+
+  td.issue {
+    width: 4%;
+  }
+
+  td.pages {
+    width: 109%;
+  }  
+
+  td.legend {
+    font-weight: bold;
+    border-left: 0px;
+    border-right: 0px;
+  }
+
+  td.first {
+    border-top: 1px solid black;
+  }  
+  td.last {
+    border-bottom: 1px solid black;
+  }
+  
+  ol.index {
+    list-style-position: inside;
+    padding-left: 0;
+  }
+
+  h1 {
+    color: #ff0000;
+    font-style: italic;
+    font-weight: 3000;
+  }
+  
+  h2 {
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  .nounderline {
+    border-bottom: 0px;
+  }
+  
+  .underline {
+    border-bottom: 2px solid #ff0000;
+    width: 100%;
+    display: block;    
+  }
+
+  .cartouche {
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;        
+    text-align: center;
+    background-color: darkgray;
+    color: white;
+    width: 600px;
+  }
+
+  a:link              { color:black; text-decoration:underline; }
+  a:visited           { color:black; text-decoration:underline; }
+  a:hover             { color:black; text-decoration:underline; }
+  a:active            { color:black; text-decoration:underline; }  

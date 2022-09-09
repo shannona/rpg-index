@@ -1,0 +1,27 @@
+ #ToC{
+     font-family: Arial, Helvetica, sans-serif;
+     color:Black;
+       background-color: rgba(255,255,255,0.66);
+       border-radius: 10px;
+       width: 18em;
+       border: solid red;
+       padding: 5px;
+       margin: 10px;
+       float:right;
+ }
+ 
+ .tocTitle {
+     font-weight: bold;
+     color: red;
+     border-bottom: 2px solid red;
+ }
+
+ .tocBox {
+ }
+
+ .tocLine {
+     background-color: red;
+     height: 1.5px;
+     border: none;
+ }     
+     
