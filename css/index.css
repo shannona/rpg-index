@@ -14,7 +14,6 @@
 
     
   td.indexcat {
-#    font-weight: bold;
     background-color: lightgray;
     border-radius: 5px;
     border: 1px solid black;
@@ -26,6 +25,7 @@
   td {
     padding: 2px;
     border-right: 1px solid black;
+    font-size: 1.1em;
   }
   
   td.indent {

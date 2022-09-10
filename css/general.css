@@ -5,7 +5,6 @@
    h2 {
      font-family: Georgia;
      font-size: 24px;
-#     font-style: italic;
      color: #ff0000;
    }
    
@@ -18,11 +17,15 @@
    
 
    p {
-#     font-size: 18px;
+       font-size: 1.1em;
    }
    pre {
-#     font-size: 18px;
+       font-size: 1.1em;
    }
+   li {
+       font-size: 1.1em;
+   }
+   
   a:link              { color:red; text-decoration:underline; }
   a:visited           { color:red; text-decoration:underline; }
   a:hover             { color:red; text-decoration:underline; }

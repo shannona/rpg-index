@@ -27,9 +27,7 @@
   td.indexcat {
     background-color: rgba(255,255,255,0.8);;
     border-radius: 5px;
-    border: 1px solid black
-    ;
-#    border-style: ridge;
+    border: 1px solid black ;
     font-style: italic;
     text-indent: 5px;
   }
