@@ -22,8 +22,6 @@ const indexCategories = [
     'Adventures: Amber Zones,',
     'Adventures: Random Nuggets,',        
     'Adventures: Geographic,',
-    'Adventures: Patrons,',
-    'Adventures: ',
     'Aliens: ',
     'Background: Geographic,',
     'Equipment: '
