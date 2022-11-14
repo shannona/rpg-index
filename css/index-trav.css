@@ -123,12 +123,13 @@
   a:active            { color:white; text-decoration:underline; }  
 
 .box {  
-  border-style: ridge;
+  border-style: solid;
   border-width: 2px;
   border-color: gray;
 
 }
   
+
 .row {
   display: table;
   border-collapse: collapse;
@@ -152,4 +153,81 @@ body {
   background-attachment: fixed;
   color: white;
   margin: 25px;
+}
+
+ /* Dropdown menu from https://www.w3schools.com/howto/howto_css_dropdown_navbar
+.asp */
+  
+/* Navbar container */
+  .navbar {
+      margin-top: 3px;
+      overflow: hidden;
+      background-color: gray;
+      font-family: Arial;
+      text-align: center;
+}
+
+/* Links inside the navbar */
+  .navbar a {
+      display: inline-block;
+      padding: 6px 16px;
+      font-size: 14px;
+      font-weight: bold;
+      color: white;
+      text-decoration: none;
+}
+
+/* The dropdown container */
+  .dropdown {
+      float: right;
+    overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    display: inline-block;
+  font-size: 14px;
+  border: none;
+    padding: 6px 16px;
+  outline: none;
+  color: white;
+  font-weight: bold;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #f00;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 6px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
 }
