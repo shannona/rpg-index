@@ -19,8 +19,7 @@ var wroteCategory = [];
 const isEmoji = /(\u00a9|\u00ae|[\u2000-\u3300]|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]|\ud83e[\ud000-\udfff])/gi;
 
 const indexCategories = [
-    'Adventures: Amber Zones,',
-    'Adventures: Random Nuggets,',        
+    'Adventures: Seeds,',
     'Adventures: Geographic,',
     'Aliens: ',
     'Background: Geographic,',
