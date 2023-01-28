@@ -23,6 +23,7 @@ const indexCategories = [
     'Adventures: Geographic,',
     'Aliens: ',
     'Background: Geographic,',
+    'Background: ATUs,',    
     'Equipment: ',
     'Reviews: '    
 ];
