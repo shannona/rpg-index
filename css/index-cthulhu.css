@@ -162,6 +162,7 @@ body {
     background-image: url("../images/backgrounds/cthulhu.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
   color: white;
   margin: 25px;
 }
