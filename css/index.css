@@ -243,3 +243,31 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+ #ToC{
+     font-family: Arial, Helvetica, sans-serif;
+     color:Black;
+       background-color: rgba(128,128,128,0.33);
+       border-radius: 10px;
+       width: 18em;
+       border: solid black;
+       padding: 5px;
+       margin: 10px;
+       float:right;
+ }
+ 
+ .tocTitle {
+     font-weight: bold;
+     color: black;
+     border-bottom: 2px solid black;
+ }
+
+ .tocBox {
+ }
+
+ .tocLine {
+     background-color: black;
+     height: 1.5px;
+     border: none;
+ }     
+     

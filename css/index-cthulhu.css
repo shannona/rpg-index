@@ -1,163 +1,3 @@
-h1 {
-
-    color: ForestGreen;
-}
-
-h2 {
-    color: ForestGreen;
-     font-style: plain;
-    border-bottom: 2px solid ForestGreen;
-    width: 100%;
-    display: block;
-}
-
-h3 {
-    color: ForestGreen;
-}
-
-
-  .nounderline {
-    border-bottom: 0px;
-  }
-  
-   table.index {
-
-    width: 100%;
-    border-spacing: 0px;
-  }
-
-  table.covers {
-
-    background-color: #ffffff;
-    border-spacing: 0;
-    border-collapse: separate
-
-}    
-
-    
-  td.indexcat {
-    background-color: rgba(255,255,255,0.8);;
-    border-radius: 5px;
-    border: 1px solid black ;
-    font-style: italic;
-    text-indent: 5px;
-  }
-
-  td.indexcat.sector {
-    background-color: rgba(255,255,255,1);
-  }  
-
-  td.indexcat.subsector {
-    background-color: rgba(255,255,255,0.9);
-  }
-
-  td.spacer {
-    background: rgba(255,255,255,0);
-  }
-  
-  td {
-    padding: 2px;
-    background: rgba(255,255,255,0.66);
-    border-right: 1px solid black;
-    color: black;
-    text-indent: 2px;
-  }
-
-  td.nocolor {
-    background: rgba(255,255,255,0);
-  }
-    
-  td.indent {
-    width: 20px;
-  }
-  
-  td.title {
-    width: 36%;
-  }
-
-  td.titlepp {
-    width: 46%;
-  }
-
-  td.system {
-    width: 10%;
-  }
-
-  td.era {
-    width: 10%;
-  }
-  
-  td.author {
-    width: 34%;
-  }
-
-  td.issue {
-    width: 4%;
-  }
-
-  td.pages {
-    width: 109%;
-  }  
-
-  td.legend {
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    border-left: 0px;
-    border-right: 0px;
-  }
-
-  td.first {
-    border-top: 1px solid black;
-  }  
-  td.last {
-    border-bottom: 1px solid black;
-  }
-  
-  ol.index {
-#    list-style-position: inside;
-    #    padding-left: 0;
-  }
-  .cartouche {
-    border-radius: 5px;
-    border: 1px solid black;
-    font-style: italic;        
-    text-align: center;
-    background-color: darkgray;
-    color: white;
-    width: 600px;
-  }
-
-  a:link              { color:white; text-decoration:underline; }
-  a:visited           { color:white; text-decoration:underline; }
-  a:hover             { color:white; text-decoration:underline; }
-  a:active            { color:white; text-decoration:underline; }  
-
-.box {  
-  border-style: solid;
-  border-width: 2px;
-  border-color: gray;
-
-}
-  
-
-.row {
-  display: table;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-.cover {
-  display: table-cell;
-  vertical-align: top;
-  }
-  
-.cover img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
 body {
     background-image: url("../images/backgrounds/cthulhu.jpg");
   background-repeat: no-repeat;
@@ -167,79 +7,41 @@ body {
   margin: 25px;
 }
 
- /* Dropdown menu from https://www.w3schools.com/howto/howto_css_dropdown_navbar
-.asp */
+a:active            { color:white; text-decoration:underline; }  
+a:hover             { color:white; text-decoration:underline; }
+a:link              { color:white; text-decoration:underline; }
+a:visited           { color:white; text-decoration:underline; }
+
+h1 {
+
+    color: ForestGreen;
+}
+
+h2 {
+    color: ForestGreen;
+    border-bottom: 2px solid ForestGreen;
+}
+
+h3 {
+    color: ForestGreen;
+}
+
+
+td {
+    background: rgba(255,255,255,0.66);
+    border-right: 1px solid black;
+    color: black;
+}
+
+td.legend {
+    background-color: black;
+    color: white;
+}
+
+td.spacer {
+    background: rgba(255,255,255,0);
+}
   
-/* Navbar container */
-  .navbar {
-      margin-top: 3px;
-      overflow: hidden;
-      background-color: gray;
-      font-family: Arial;
-      text-align: center;
-}
-
-/* Links inside the navbar */
-  .navbar a {
-      display: inline-block;
-      padding: 6px 16px;
-      font-size: 14px;
-      font-weight: bold;
-      color: white;
-      text-decoration: none;
-}
-
-/* The dropdown container */
-  .dropdown {
-      float: right;
-    overflow: hidden;
-}
-
-/* Dropdown button */
-.dropdown .dropbtn {
-    display: inline-block;
-  font-size: 14px;
-  border: none;
-    padding: 6px 16px;
-  outline: none;
-  color: white;
-  font-weight: bold;
-  background-color: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
-}
-
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: ForestGreen;
-}
-
-/* Dropdown content (hidden by default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  float: none;
-  color: black;
-  padding: 6px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-/* Add a grey background color to dropdown links on hover */
-.dropdown-content a:hover {
-  background-color: #ddd;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
-}

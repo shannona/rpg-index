@@ -1,0 +1,50 @@
+body { 
+      background-image: url(../images/backgrounds/pendragon.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      margin: 25px;
+}
+   
+h1 {
+
+    color: #00b;
+}
+
+h2 {
+    color: #00b;
+    border-bottom: 2px solid #00b;
+}
+
+h3 {
+    color: #00b;
+}
+
+td {
+    background: rgba(255,255,255,0.3);
+}
+
+td.indexcat {
+    background-color: #00B;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;
+    text-indent: 5px;
+}
+
+td.legend {
+    background-color: transparent;
+}
+
+td.spacer {
+    background: transparent;
+}
+
+ #ToC{
+    background: rgba(255,255,255,0.3);
+ }
+
+ /* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #00B;
