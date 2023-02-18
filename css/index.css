@@ -12,16 +12,6 @@
 
 }    
 
-    
-  td.indexcat {
-    background-color: lightgray;
-    border-radius: 5px;
-    border: 1px solid black;
-    font-style: italic;
-    text-indent: 5px;
-  }
-
-
   td {
     padding: 2px;
     border-right: 1px solid black;
@@ -31,6 +21,19 @@
   
   td.indent {
     width: 20px;
+  }
+  
+    
+  td.indexcat {
+    background-color: lightgray;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;
+    text-indent: 5px;
+  }
+
+  td.indexcat.country {
+      background-color: gray;
   }
   
   td.title {
