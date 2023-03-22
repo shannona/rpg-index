@@ -18,7 +18,7 @@ them on your own websites, incorporate them into your Wiki, print them
 in your book, or anything else that meets the sole requirement of
 attribution. Some of the older TXT files say they may only be used
 non-commercially. That is no longer a requirement. Everything is
-available under cc-by-4.0.
+available under cc-by-4.0. If you need me to update a specific file to say that before you're comfortable using it [just tell me](mailto:shannon.appelcline@gmail.com).
 
 ## About the Repo
 
