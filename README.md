@@ -71,5 +71,5 @@ things you can do are:
 
 * Help me get ahold of magazines that I'm missing, particularly
   missing magazines or issues for my two prime focuses right now:
-  Glorantha and Traveller
+  Glorantha and Traveller. If someone is selling copies, I'm happy to pay appropriate amounts.
 * Take a look at my other projects such as [the original Designers & Dragons books](https://www.drivethrurpg.com/browse.php?keywords=designers++dragons&manufacturers_id=2152&x=0&y=0&author=&artist=&pfrom=&pto=) and my [Designers & Dragons patreon](https://www.patreon.com/designersanddragons) for my future works
