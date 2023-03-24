@@ -18,7 +18,7 @@ them on your own websites, incorporate them into your Wiki, print them
 in your book, or anything else that meets the sole requirement of
 attribution. Some of the older TXT files say they may only be used
 non-commercially. That is no longer a requirement. Everything is
-available under cc-by-4.0.
+available under cc-by-4.0. If you need me to update a specific file to say that before you're comfortable using it [just tell me](mailto:shannon.appelcline@gmail.com).
 
 ## About the Repo
 
@@ -71,5 +71,5 @@ things you can do are:
 
 * Help me get ahold of magazines that I'm missing, particularly
   missing magazines or issues for my two prime focuses right now:
-  Glorantha and Traveller
+  Glorantha and Traveller. If someone is selling copies, I'm happy to pay appropriate amounts.
 * Take a look at my other projects such as [the original Designers & Dragons books](https://www.drivethrurpg.com/browse.php?keywords=designers++dragons&manufacturers_id=2152&x=0&y=0&author=&artist=&pfrom=&pto=) and my [Designers & Dragons patreon](https://www.patreon.com/designersanddragons) for my future works
