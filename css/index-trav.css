@@ -151,6 +151,7 @@ body {
     background-image: url("../images/backgrounds/space.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-color: black;
   color: white;
   margin: 25px;
 }
