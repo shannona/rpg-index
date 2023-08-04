@@ -147,6 +147,10 @@
   height: auto;
 }
 
+.notincluded img {
+    filter: grayscale(100%) brightness(60%);
+}
+
 body {
     background-image: url("../images/backgrounds/space.jpg");
   background-repeat: no-repeat;
