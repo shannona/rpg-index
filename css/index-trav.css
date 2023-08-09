@@ -184,7 +184,6 @@ body {
 
 /* The dropdown container */
   .dropdown {
-      float: right;
     overflow: hidden;
 }
 
@@ -236,3 +235,46 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/* Mag Listing Grid */
+
+ .maglisting {
+     display: grid;
+     grid-template-columns: 155px auto 225px;
+     
+     gap: 2px;
+/*     grid-auto-rows: minmax(238px,auto); */
+
+ }
+
+ .magtitle {
+     background-color: rgba(255,255,255,0.8);
+     color: black;
+     padding: 3px;     
+     font-size: 21px;
+      grid-column: span 3;
+
+ }
+
+ .magbreak {
+     padding: 7px;
+     grid-column: span 3;
+
+ }
+ 
+ .magcover {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+ }
+ 
+ .maginfo {
+     color: black;
+     background-color: rgba(255,255,255,0.66);
+     padding: 10px;
+     display: flex;
+     align-items: center;
+     
+     
+ }
