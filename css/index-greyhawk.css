@@ -1,0 +1,7 @@
+body { 
+      background-image: url(../images/backgrounds/greyhawk.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      margin: 25px;
+}
