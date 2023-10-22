@@ -1,0 +1,46 @@
+body { 
+      background-image: url(../images/backgrounds/knownworld.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      margin: 25px;
+}
+
+td {
+    background: rgba(255,255,255,0.66);
+}
+
+  td.spacer {
+    background: rgba(255,255,255,0);
+  }
+  
+td.legend {
+    background-color: black;
+    color: white;
+}
+
+ol.index {
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;        
+    background-color: lightgray;
+    text-indent: 5px;    
+    color: black;
+    width: 99%;
+    padding: 5px;
+}
+
+div.white {
+    background: rgba(255,255,255,0.80);
+    border: 1px solid black;
+    padding: 10px;        
+}
+
+h2 {
+    background-color: black;
+    border: 1px solid black;    
+    color: white;
+    padding: 5px;
+#    text-shadow: 0px 0px 4px red;
+    width: 99%;
+}
