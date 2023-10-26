@@ -43,6 +43,7 @@ repo. PRs can include, but are not limited to:
 * Improvements to the CSS.
 * Improvements to the HTML.
 * Improvements to backgrounds.
+* Changes to **your** name if you prefer a different name nowadays.
 
 Particularly for the CSS and HTML, my work is largely pragmatic, so
 I'd be thrilled for improvements.
