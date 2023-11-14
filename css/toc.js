@@ -19,11 +19,12 @@ var wroteCategory = [];
 const isEmoji = /(\u00a9|\u00ae|[\u2000-\u3300]|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]|\ud83e[\ud000-\udfff])/gi;
 
 const indexCategories = [
-    'Adventures: Seeds,',
-    'Adventures: Geographic,',
+    'Adventures: Seeds, ',
+    'Adventures: Geographic, ',
     'Aliens: ',
-    'Background: Geographic,',
-    'Background: ATUs,',
+    'Background: Geographic, Beyond, ',
+    'Background: Geographic, ',
+    'Background: ATUs, ',
     'Cults & Myths',
     'Equipment: ',
     'Reviews: '    
