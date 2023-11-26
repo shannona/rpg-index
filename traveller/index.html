@@ -12,20 +12,8 @@
 </head>
 <body bgcolor="#000000" link="#ff0000" vlink="#ff0000">
 
-<div class="box">
- <div class="row">
-    <div class="cover"><img style="filter:brightness(80%);" src="../images/composites/traveller.jpg"></div>
-  </div>
-</div>
-
-<div class="navbar">
-  <a href="https://www.erzo.org/index.html">Erzo Home</a>
-  ♦️
-  <a href="https://www.erzo.org/shannon/games/ars-magica/">Ars Magica APs</a>
-  ♦️
-  <a href="https://www.erzo.org/shannon/gaming/indices/">Magazine Indices</a>
-
-  <div class="dropdown" style="float:left">
+<div class="navbar" style="margin-bottom: 3px">
+  <span class="dropdown" style="float: left">
     <button class="dropbtn">[All Zines By Date]
       <i class="fa fa-caret-down"></i>
     </button>
@@ -53,9 +41,9 @@
       <a href="#linesv2">2014: Imperial Lines v2 📰</a>      
       <a href="#xboat">2019: Xboat 📙</a>
     </div>
-  </div>
-  
-  <div class="dropdown" style="float:right">
+  </span>
+
+  <span class="dropdown" style="float: right">
     <button class="dropbtn">[All Zines By Title]
       <i class="fa fa-caret-down"></i>
     </button>
@@ -83,11 +71,16 @@
       <a href="#wp">Working Passage 📰</a>
       <a href="#xboat">Xboat 📙</a>
     </div>
-  </div>
-
+  </span>
 </div>
 
+    <div class="cover"><img style="filter:brightness(80%);" src="../images/composites/traveller.jpg"></div>
+
+<div w3-include-html="../includes/navbar-index.html"></div>
+
+
 <center><h1>Traveller Magazine Indices</h1></center>
+
 
 <h2>Official Traveller Magazines & Newsletters</h2>
 
@@ -1034,3 +1027,10 @@ appears here,
 please <a href="mailto:shannon.appelcline@gmail.com">mail me</a> with
 what name appears here and what name you prefer, and I'll be happy to
 change it.</i></p>
+
+<script src="../css/include.js"></script>
+<script>
+  includeHTML();
+</script>
+</body>
+</html>
