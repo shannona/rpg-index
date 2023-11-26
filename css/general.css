@@ -31,3 +31,11 @@
   a:hover             { color:red; text-decoration:underline; }
   a:active            { color:red; text-decoration:underline; }
 
+     
+ .threecol {
+     column-count: 3;
+     column-gap: 40px;
+     column-rule: 1px solid black;
+     column-width: 33%;
+ }
+ 
