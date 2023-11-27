@@ -7,6 +7,7 @@
 
     <LINK rel="stylesheet" HREF="../css/general.css" TYPE="text/css">
     <LINK rel="stylesheet" HREF="../css/index.css" TYPE="text/css">
+    <LINK rel="stylesheet" HREF="../css/index-glorantha.css" TYPE="text/css">    
     <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/toc.css">
     
 </head>
@@ -22,27 +23,16 @@
     <div class="cover"><a href="../images/covers/ybot6.jpg"><img src="../images/covers/ybot6.jpg"></a></div>    
   </div>
 </div>
-
-<div class="navbar">
-  <a href="https://www.erzo.org/index.html">Erzo Home</a>
-  ♦️
-  <a href="https://www.erzo.org/shannon/games/ars-magica/">Ars Magica APs</a>
-  ♦️
-  <a href="https://www.erzo.org/shannon/gaming/indices/">Magazine Indices</a>
--
-  <a href="https://www.erzo.org/shannon/gaming/indices/glorantha/">Glorantha Indices</a>
--  
-  <a href="https://www.erzo.org/shannon/gaming/indices/traveller/">Traveller Indices</a>
-</div>
+<div w3-include-html="../includes/navbar-index.html"></div>
 
   <center>
 <h1>Ye Booke of Tentacles Index</h1>
-<h2 class="nounderline">Version 1.24: Issues 1-6</h2>
+<h2 class="nounderline">Version 1.30: Issues 1-6</h2>
 <h3><font color="black">by <a href="mailto:shannon.appelcline@gmail.com">Shannon Appelcline</a></font></h3>
 <br>
 </center>
 
-<h1>Overview<h1>
+<div class="white">
 <h2>History: 1998-2006</h2>
 <div id="ToC"></div>
 
@@ -134,14 +124,16 @@ games at the time, but Glorantha (via <I>RuneQuest</I>, <i>Hero
 Wars</I>, or <i>HeroQuest</I>) was the main focus, just like
 in <i>Tradetalk</I>. Those entries are detailed in the main body of
 this index. Everything else appears in appendices,
-with <a href="#appendix-call-of-cthulhu">Call of Cthulhu</a>
-and <a href="#appendix-pendragon">Pendragon</a> given special
+with <a href="#appendix-i-call-of-cthulhu"><i>Call of Cthulhu</i></a>
+given special
 attention.
 
 <p><i>This index is &copy; Copyright 2021-2023 by Shannon Appelcline. It is
 released under
-a <a href="https://creativecommons.org/licenses/by/4.0/"><font color="red">cc-by-4.0</font></a>
+a <a href="https://creativecommons.org/licenses/by/4.0/">cc-by-4.0</a>
 license, allowing reuse with attribution.</i>
+
+</div>
 
 <h1>Gloranthan Index</h1>
 
@@ -1432,7 +1424,7 @@ the Lunar Empire, Maniria, Pent, and Prax.
   </tr>
 </table>
 
-<h1>Appendix: Call of Cthulhu</h1>
+<h1>Appendix I: Call of Cthulhu</h1>
 
 <h2>📀 Accessories</h2>
 <table class="index" width="100%">
@@ -1817,45 +1809,11 @@ appearing in STARRY WISDOM and <a href="tradetalk.html">TRADETALK</a>.
   </tr>
 </table>
 
-<h1>Appendix: Pendragon</h1>
 
-<h2>⛺ Adventures: Misc</h2>
-<table class="index" width="100%">  <tr>
-    <td class="indent legend"></td>
-    <td class="title legend">Title</td>
-    <td class="system legend">System</td>
-    <td class="author legend">Author</td>
-    <td class="issue legend">#</td>
-    <td class="pages legend">Pgs</td>
-    <td class="indent legend"></td>
-  </tr>
-  <tr>
-    <td colspan=7 class="indexcat">Tales of Magic</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>The Poisoned Lake</td>
-    <td>Pendragon 4e</td>
-    <td>Shannon Appelcline</td>
-    <td>4</td>
-    <td>120-123</td>
-  </tr>
-  <tr>
-    <td colspan=7 class="indexcat">Tales of Romance</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td class="last">The Reluctant Bride</td>
-    <td class="last">Pendragon 4e</td>
-    <td class="last">Shannon Appelcline</td>
-    <td class="last">2</td>
-    <td class="last">126-134</td>    
-  </tr>
-</table>
 
-<h1>Appendix: Other Games</h1>
+<h1>Appendix II: Other Chaosium Games</h1>
 
-<h2>Generic</h2>
+<h2>🏷️ Generic</h2>
 <table class="index">
   <tr>
     <td class="indent legend"></td>    
@@ -1879,7 +1837,7 @@ appearing in STARRY WISDOM and <a href="tradetalk.html">TRADETALK</a>.
   </tr>
 </table>
 
-<h2>Hawkmoon</h2>
+<h2>⚙️ Hawkmoon</h2>
 <table class="index">
   <tr>
     <td class="indent legend"></td>    
@@ -1911,7 +1869,7 @@ appearing in STARRY WISDOM and <a href="tradetalk.html">TRADETALK</a>.
   </tr>
 </table>
 
-<h2>Nephilim</h2>
+<h2>♻️ Nephilim</h2>
 <table class="index">
   <tr>
     <td class="indent legend"></td>    
@@ -1946,7 +1904,41 @@ appearing in STARRY WISDOM and <a href="tradetalk.html">TRADETALK</a>.
   </tr>
 </table>
 
-<h2>Stormbringer / Elric</h2>
+<h2>👑 Pendragon</h2>
+<table class="index" width="100%">  <tr>
+    <td class="indent legend"></td>
+    <td class="title legend">Title</td>
+    <td class="system legend">System</td>
+    <td class="author legend">Author</td>
+    <td class="issue legend">#</td>
+    <td class="pages legend">Pgs</td>
+    <td class="indent legend"></td>
+  </tr>
+  <tr>
+    <td colspan=7 class="indexcat">Adventures, Misc, Tales of Magic</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>The Poisoned Lake</td>
+    <td>Pendragon 4e</td>
+    <td>Shannon Appelcline</td>
+    <td>4</td>
+    <td>120-123</td>
+  </tr>
+  <tr>
+    <td colspan=7 class="indexcat">Adventures, Misc, Tales of Romance</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="last">The Reluctant Bride</td>
+    <td class="last">Pendragon 4e</td>
+    <td class="last">Shannon Appelcline</td>
+    <td class="last">2</td>
+    <td class="last">126-134</td>    
+  </tr>
+</table>
+
+<h2>🍷 Stormbringer / Elric</h2>
 <table class="index">
   <tr>
     <td class="indent legend"></td>    
@@ -2111,7 +2103,11 @@ appearing in STARRY WISDOM and <a href="tradetalk.html">TRADETALK</a>.
     <div class="cover"><a href="../images/covers/ybot6.jpg"><img src="../images/covers/ybot6.jpg"></a></div>    
   </div>
 </div>
-
+  
 <script src="../css/toc.js"></script>
+<script src="../css/include.js"></script>
+<script>
+  includeHTML();
+</script>
 </body>
 </html>

@@ -30,12 +30,6 @@ ol.index {
     padding: 5px;
 }
 
-div.white {
-    background: rgba(255,255,255,0.80);
-    border: 1px solid black;
-    padding: 10px;        
-}
-
 h2 {
     background-color: black;
     border: 1px solid black;    

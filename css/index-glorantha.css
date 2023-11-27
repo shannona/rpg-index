@@ -1,0 +1,84 @@
+body { 
+      background-image: url(../images/backgrounds/glorantha.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      margin: 25px;
+}
+
+  h1 {
+      color: midnightblue;
+  }
+
+  h2 {
+      color: steelblue;
+      border-bottom: 1.5px solid steelblue;
+  }
+  
+  h3 {
+    color: #000000;
+  }  
+
+.navbar {
+    background-color: steelblue;
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+    color: steelblue;
+}
+
+.magcover {
+     box-shadow: 2px 2px 2px #b0c4de;
+}
+
+ .maginfo {
+     color: black;
+     background-color: rgba(255,255,255,0.66);
+     box-shadow: 2px 2px 2px #b0c4de;
+ }
+
+
+ .magtitle {
+     background-color: lightsteelblue;
+     box-shadow: 2px 2px 2px #b0c4de;
+ }
+ 
+ .magtitle a {
+
+     color: black;
+     font-weight: bold;
+     font-style: italic;
+     
+ }
+
+
+ td.legend {
+    background-color: steelblue;
+    color: white;
+}
+
+td {
+    background: rgba(255,255,255,0.66);
+}
+
+  td.spacer {
+    background: rgba(255,255,255,0);
+  }
+
+  td.indexcat {
+      background-color: lightsteelblue;
+  }
+  
+ol.index {
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;        
+    background-color: lightgray;
+    text-indent: 5px;    
+    color: black;
+    width: 99%;
+    padding: 5px;
+}
+

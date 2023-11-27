@@ -7,6 +7,7 @@
 
   <LINK rel="stylesheet" TYPE="text/css" HREF="../css/general.css">
   <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/index.css">
+  <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/index-glorantha.css">
   <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/toc.css">
   
 </head>
@@ -22,26 +23,16 @@
     <div class="cover"><a href="../images/covers/tradetalk17.jpg"><img src="../images/covers/tradetalk17.jpg"></a></div>
   </div>
 </div>
-<div class="navbar">
-  <a href="https://www.erzo.org/index.html">Erzo Home</a>
-  ♦️
-  <a href="https://www.erzo.org/shannon/games/ars-magica/">Ars Magica APs</a>
-  ♦️
-  <a href="https://www.erzo.org/shannon/gaming/indices/">Magazine Indices</a>
--
-  <a href="https://www.erzo.org/shannon/gaming/indices/glorantha/">Glorantha Indices</a>
--  
-  <a href="https://www.erzo.org/shannon/gaming/indices/traveller/">Traveller Indices</a>
-</div>
+<div w3-include-html="../includes/navbar-index.html"></div>
     
 <center>
 <h1>The Tradetalk Index</h1>
 
-<h2 class="nounderline">Version 1.85: Issues 1-17</h2>
+<h2 class="nounderline">Version 1.90: Issues 1-17</h2>
 <h3><font color="black">by <a href="mailto:shannon.appelcline@gmail.com">Shannon Appelcline</a></font></h3>
 </center>
-<h1>Overview</h1>
 
+<div class="white">
 <h2>History: 1996-2009</h2>
 <div id="ToC"></div>
 
@@ -134,8 +125,8 @@ Magazine".
 released under
 a <a href="https://creativecommons.org/licenses/by/4.0/"><font color="black">cc-by-4.0</font></a>
     license, allowing reuse with attribution.</i>
-  
-<h1>Main Index</h1>
+
+</div>
 
 <h2>🗺️ Accessories</h2>
 <table class="index" width="100%">
@@ -3715,7 +3706,12 @@ appearing in STARRY WISDOM (Chaosium, 1997) and <a href="ybot.html">YE BOOKE OF 
   </div>
 </div>
 
-  <script src="../css/toc.js"></script>
+
+  
+<script src="../css/toc.js"></script>
+<script src="../css/include.js"></script>
+<script>
+  includeHTML();
+</script>
 </body>
 </html>
-
