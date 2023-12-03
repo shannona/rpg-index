@@ -14,6 +14,11 @@ body {
       color: steelblue;
       border-bottom: 1.5px solid steelblue;
   }
+
+  .colorbar {
+      color: white;
+      background-color: steelblue;
+  }
   
   h3 {
     color: #000000;
