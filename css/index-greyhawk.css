@@ -5,6 +5,16 @@ body {
       background-size: cover;
       margin: 25px;
 
+.navbar {
+    background-color: #a82416;
+}
+
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+    color: #a82416;
+}
+
   h1 {
       color: #a82416;
   }
