@@ -146,7 +146,8 @@
   a:hover             { color:black; text-decoration:underline; }
   a:active            { color:black; text-decoration:underline; }  
 
-.box {  
+  .box {
+      display: table;
   border-style: ridge;
   border-width: 2px;
   border-color: gray;
@@ -154,7 +155,7 @@
 }
   
 .row {
-  display: table;
+  display: table-row;
   border-collapse: collapse;
   width: 100%;
 }

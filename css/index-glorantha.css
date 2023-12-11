@@ -59,6 +59,10 @@ body {
  }
 
 
+   td.indexcat.country {
+       background-color: #7BA3C9;
+   }
+   
  td.legend {
     background-color: steelblue;
     color: white;

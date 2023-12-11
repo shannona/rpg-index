@@ -4,4 +4,61 @@ body {
       background-attachment: fixed;
       background-size: cover;
       margin: 25px;
-}
+
+  h1 {
+      color: #a82416;
+  }
+
+  h2 {
+      color: #a82416;
+      font-style: normal;
+  }
+  h2.tab {
+      background-color: #a82416;
+      color: white;
+      width: fit-content;
+      padding: 8px;
+      border: 0px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      margin-bottom: 0px;
+  }
+  h3 {
+      color: #a82416;
+  }  
+
+  td {
+      background: rgba(255,255,255,0.7);
+  }
+
+  td.spacer {
+    background: rgba(255,255,255,0);
+  }
+
+ td.legend {
+     background-color: #a82416;
+     color: white;
+ }
+ 
+  td.indexcat {
+      background-color: #f9e6b9;
+      color: black;
+      border-radius: 0px;
+  }
+      
+  td.indexcat.country {
+      background-color: #f3cc72;
+      color: black;
+
+  }
+
+ol.index {
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;        
+    background-color: #fdf7e8;
+    text-indent: 5px;    
+    color: black;
+    width: 99%;
+    padding: 5px;
+}  
