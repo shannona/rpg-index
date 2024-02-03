@@ -32,7 +32,8 @@
   a:active            { color:red; text-decoration:underline; }
 
      
- .threecol {
+  .threecol {
+       font-size: 1.1em;      
      column-count: 3;
      column-gap: 40px;
      column-rule: 1px solid black;
