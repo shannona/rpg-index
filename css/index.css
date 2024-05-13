@@ -35,6 +35,16 @@
   td.indexcat.country {
       background-color: gray;
   }
+
+  td.indexcat.predeity {
+      border-right: 0px;
+  }
+  
+  td.indexcat.deity {
+      border-left: 0px;
+      text-align: left;
+      font-style: normal;
+  }
   
   td.title {
     width: 40%;

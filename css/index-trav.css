@@ -122,31 +122,6 @@
   a:hover             { color:white; text-decoration:underline; }
   a:active            { color:white; text-decoration:underline; }  
 
-.box {  
-  border-style: solid;
-  border-width: 2px;
-  border-color: gray;
-
-}
-  
-
-.row {
-  display: table;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-.cover {
-  display: table-cell;
-  vertical-align: top;
-  }
-  
-.cover img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
 .notincluded img {
     filter: grayscale(100%) brightness(60%);
 }
@@ -277,4 +252,33 @@ body {
      align-items: center;
      
      
+ }
+
+  .box {
+      display: table;
+  border-style: ridge;
+  border-width: 2px;
+  border-color: gray;
+
+}
+  
+.row {
+  display: table-row;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.cover {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.threecol {
+     column-rule: 1px solid white;
  }
