@@ -36,6 +36,10 @@
       background-color: gray;
   }
 
+  td.preindexcat {
+      border-bottom: 0px;
+  }
+  
   td.indexcat.predeity {
       border-right: 0px;
   }
