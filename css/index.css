@@ -1,16 +1,109 @@
+/* I. INTRO */
+
+/* Headers */
+
+h1 {
+    color: #ff0000;
+    font-style: italic;
+    font-weight: 3000;
+}
+  
+h2 {
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.colorbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+    background-color: lightgray;;
+    padding: 6px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+  
+
+.nounderline {
+    border-bottom: 0px;
+}
+  
+.underline {
+    border-bottom: 2px solid #ff0000;
+    width: 100%;
+    display: block;    
+}
+
+/* Anchors */
+
+a:link              { color:black; text-decoration:underline; }
+a:visited           { color:black; text-decoration:underline; }
+a:hover             { color:black; text-decoration:underline; }
+a:active            { color:black; text-decoration:underline; }  
+
+/* Cover Images */
+
+.box {
+      display: table;
+  border-style: ridge;
+  border-width: 2px;
+  border-color: gray;
+
+}
+
+.row {
+  display: table-row;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.cover {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Full Page Background (History Block) */
+
+div.white {
+    background: rgba(255,255,255,0.80);
+    border: 1px solid black;
+    padding: 10px;        
+}
+
+/* Cartouche Background (Infoblock */
+
+.cartouche {
+    border-radius: 5px;
+    border: 1px solid black;
+    font-style: italic;        
+    text-align: center;
+    background-color: darkgray;
+    color: white;
+    width: 600px;
+}
+
+/* II. INDEX */
+
+/* This is the main index type */
+
   table.index {
 
     width: 100%;
     border-spacing: 0px;
+    border-collapse: collapse;
+    
   }
 
-  table.covers {
-
-    background-color: #ffffff;
-    border-spacing: 0;
-    border-collapse: separate
-
-}    
+  /* Index Cells */
 
   td {
     padding: 2px;
@@ -18,44 +111,68 @@
     font-size: 1.1em;
     text-indent: 2px;
   }
+
+  /* Index Section Head */
   
-  td.indent {
-    width: 20px;
+  td.legend {
+    font-weight: bold;
+    border-left: 0px;
+    border-right: 0px;
   }
+
   
-    
+  /* Categories in Tables */  
+
   td.indexcat {
-    background-color: lightgray;
+    background-color: gainsboro;
     border-radius: 5px;
     border: 1px solid black;
     font-style: italic;
     text-indent: 5px;
   }
 
-  td.indexcat.country {
-      background-color: gray;
+  /* Super Categories */
+  
+  td.indexsupercat,td.country {
+      background-color: silver;
   }
 
-  td.preindexcat {
-      border-bottom: 0px;
-  }
+    /* Categories with multiple entries */
   
-  td.indexcat.predeity {
-      border-right: 0px;
-  }
-  
-  td.indexcat.deity {
+  td.nointernalborders,td.deity {
       border-left: 0px;
+      border-right: 0px;
       text-align: left;
       font-style: normal;
   }
+
+  td.deity:first-of-type,td.nointernalborders:first-of-type {
+      border-left: 1px solid black;
+  }
+
+  td.deity:last-of-type,td.nointernalborders:last-of-type {
+      border-right: 1px solid black;
+  }  
+  
+  /* Index Entry */
+
+    /* Left & Right */
+  
+  td.indent {
+      width: 20px;
+  }
+
+  /* Bottom */
+  
+  td.last {
+
+    border-bottom: 1px solid black;
+  }
+
+    /* 5 Part Entries */
   
   td.title {
     width: 40%;
-  }
-
-  td.titlepp {
-    width: 52%;
   }
 
   td.system {
@@ -74,12 +191,17 @@
     width: 9%;
   }  
 
-  td.title7 {
-    width: 36%;
+    /* 5: Combining Title & System */
+  
+  td.titlepp {
+    width: 52%;
   }
 
-  td.titlepp7 {
-    width: 46%;
+
+    /* 6 Part Entries */
+  
+  td.title7 {
+    width: 36%;
   }
 
   td.system7 {
@@ -102,90 +224,21 @@
     width: 9%;
   }  
 
-
-  td.legend {
-    font-weight: bold;
-    border-left: 0px;
-    border-right: 0px;
+    /* 6: Combining Title + System */
+  
+  td.titlepp7 {
+    width: 46%;
   }
 
-  td.first {
-    border-top: 1px solid black;
-  }  
-  td.last {
-    border-bottom: 1px solid black;
-  }
+
+  /* Bottom of Section info */
   
   ol.index {
     list-style-position: inside;
     padding-left: 0;
   }
 
-  h1 {
-    color: #ff0000;
-    font-style: italic;
-    font-weight: 3000;
-  }
-  
-  h2 {
-    color: #000000;
-    border-bottom: 1px solid #000000;
-    width: 100%;
-    display: block;
-    margin-bottom: 6px;
-  }
-
-  .nounderline {
-    border-bottom: 0px;
-  }
-  
-  .underline {
-    border-bottom: 2px solid #ff0000;
-    width: 100%;
-    display: block;    
-  }
-
-  .cartouche {
-    border-radius: 5px;
-    border: 1px solid black;
-    font-style: italic;        
-    text-align: center;
-    background-color: darkgray;
-    color: white;
-    width: 600px;
-  }
-
-  a:link              { color:black; text-decoration:underline; }
-  a:visited           { color:black; text-decoration:underline; }
-  a:hover             { color:black; text-decoration:underline; }
-  a:active            { color:black; text-decoration:underline; }  
-
-  .box {
-      display: table;
-  border-style: ridge;
-  border-width: 2px;
-  border-color: gray;
-
-}
-  
-.row {
-  display: table-row;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-.cover {
-  display: table-cell;
-  vertical-align: top;
-}
-
-.cover img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-
+/* III. NAVBAR/DROPDOWN */
 
 
  /* Dropdown menu from https://www.w3schools.com/howto/howto_css_dropdown_navbar
@@ -265,34 +318,7 @@
   display: block;
 }
 
- #ToC{
-     font-family: Arial, Helvetica, sans-serif;
-     color:Black;
-       background-color: rgba(128,128,128,0.33);
-       border-radius: 10px;
-       width: 18em;
-       border: solid black;
-       padding: 5px;
-       margin: 10px;
-       float:right;
- }
- 
- .tocTitle {
-     font-weight: bold;
-     color: black;
-     border-bottom: 2px solid black;
- }
-
- .tocBox {
- }
-
- .tocLine {
-     background-color: black;
-     height: 1.5px;
-     border: none;
- }     
-     
-/* Mag Listing Grid */
+/* IV TOPICAL INDEX PAGES */
 
  .maglisting {
      display: grid;
@@ -336,19 +362,5 @@
      
  }
 
-div.white {
-    background: rgba(255,255,255,0.80);
-    border: 1px solid black;
-    padding: 10px;        
-}
-
-  .colorbar {
-      margin-top: 0px;
-      margin-bottom: 0px;
-      color: black;
-      background-color: lightgray;;
-      padding: 6px;
-      box-sizing: border-box;
-      border: 1px solid black;
-  }
-  
+ /* V. TOC */
+ 
