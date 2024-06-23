@@ -78,6 +78,16 @@ td.indexsupercat {
     border: 1px solid black;
 }
 
+/* III. NAVBAR/DROPDOWN */
+
+.navbar {
+    background-color: #ec8a43;
+    color: black;
+}
+
+.navbar a {
+    coloar: black;
+}
 
 /* V. TOC */
 
