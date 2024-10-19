@@ -9,13 +9,16 @@
   <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/index.css">
   <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/index-glorantha.css">
   <LINK rel="stylesheet"  TYPE="text/css" HREF="../css/timeline.css">
+  <style>.navbar { background-color: black; }</style>
 
 </head>
-<body bgcolor="#ffffff" link="#ff0000" vlink="#ff0000">
+<body bgcolor="#ffffff" link="#ff0000" vlink="#ff0000" style="margin-top: 0px;">
 
 <div w3-include-html="../includes/navbar-index.html"></div>  
 
-  <img src="../images/blank-dot.png" width=80 style="float: left">  
+<br clear=all>
+
+<img src="../images/blank-dot.png" width=80 style="float: left">  
   <a href="https://designers-and-dragons.com"><img src="../images/logos/dnd-black.png" width=80 style="float: right"></a>
 
   
@@ -46,21 +49,17 @@
 
   <!-- Legend -->
 
-  <div style="grid-row: 2/6; grid-column: 15/17; background-color: white; border: ridge 2px black; margin: 10px; padding: 10px;  display: block; background-color: #e5e5f7;
-opacity: 0.8;
-background-image:  linear-gradient(rgba(0,0,255,.10) 2px, transparent 2px), linear-gradient(90deg, rgba(0,0,255,.10) 2px, transparent 2px), linear-gradient(rgba(0,0,255,.10) 1px, transparent 1px), linear-gradient(90deg, rgba(0,0,255,.10) 1px, #e5e5f7 1px);
-background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
-background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px; filter: drop-shadow(3px 3px 3px black)">
-    <div class="nounderline" style="font-size: 150%; margin-bottom: 10px;"><b><i>Legend</I></b></div>
-    <div class="mainmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px; filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>House&nbsp;Organ</I></b></div>
-    <div class="digitalmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;"><b><i>Digital</I></b></div>
+  <div class="graphpaper legendbox" style="grid-row: 2/6; grid-column: 15/17;">
+    <div class="legendtitle">Legend</div>
+    <div class="mainmag legendentry">House&nbsp;Organ</div>
+    <div class="digitalmag legendentry">Digital</div>
     <br>
-    <div class="ausmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>Australia</i></b></div>
-    <div class="canmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>Canada</i></b></div>
-    <div class="finnishmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>Finland</i></b></div>
-    <div class="germanmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>German</i></b></div>
-    <div class="ukmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>UK</i></b></div>
-    <div class="usmag" style="width: 100%; height: 32px; border: 1px solid black; margin: 2px;filter: drop-shadow(1.5px 1.5px 1.5px dimgray)"><b><i>USA</I></b></div>
+    <div class="ausmag legendentry">Australia</div>    
+    <div class="canmag legendentry">Canada</div>
+    <div class="finnishmag legendentry">Finland</div>
+    <div class="germanmag legendentry">German</div>
+    <div class="ukmag legendentry">UK</div>
+    <div class="usmag legendentry">USA</div>    
   </div>
   
   <!-- Years -->
@@ -951,5 +950,9 @@ material policy</a>.</i>
 
 <hr>
 
+<script src="../css/include.js"></script>
+<script>
+  includeHTML();
+</script>
 </body>
 </html>

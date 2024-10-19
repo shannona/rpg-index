@@ -40,3 +40,13 @@
      column-width: 33%;
  }
  
+
+  .graphpaper {
+
+      background-color: #e5e5f7;
+      opacity: 0.8;
+      
+      background-image:  linear-gradient(rgba(0,0,255,.10) 2px, transparent 2px), linear-gradient(90deg, rgba(0,0,255,.10) 2px, transparent 2px), linear-gradient(rgba(0,0,255,.10) 1px, transparent 1px), linear-gradient(90deg, rgba(0,0,255,.10) 1px, #e5e5f7 1px);
+      background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
+      
+  }
