@@ -84,6 +84,40 @@
     filter: drop-shadow(1.5px 1.5px 1.5px dimgray);    
 }
 
+/* Legend */
+
+.legendbox {
+    
+    display: flex;
+    flex-direction: column;
+    border: ridge 2px black;
+    margin: 10px;
+    padding: 10px;
+    filter: drop-shadow(3px 3px 3px black);
+
+}
+
+.legendtitle {
+    font-size: 150%;
+    font-weight: bold;
+    font-style: italic;
+    
+    margin-bottom: 10px;
+}
+
+.legendentry {
+
+    font-weight: bold;
+    font-style: italic;
+
+    width: 100%;
+    height: 32px;
+    border: 1px solid black;
+    margin: 2px;
+    filter: drop-shadow(1.5px 1.5px 1.5px dimgray);
+
+}    
+
 /* Label Colors */
 
 .mainmag { background-color: silver; }
