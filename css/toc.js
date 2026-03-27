@@ -2,10 +2,6 @@
 toc = document.getElementById("ToC");
 
 //Add a header
-tocHeader = document.createElement("div");
-tocHeader.innerText="Table of Contents";
-tocHeader.className = "tocTitle";
-toc.appendChild(tocHeader);
    
 // Create a list for the ToC entries
 tocList = document.createElement("span");    
@@ -14,6 +10,7 @@ tocList = document.createElement("span");
 headers = document.querySelectorAll("h1,h2");
 
 var inAppendix = 0;
+var foundHeader = 0;
 var wroteCategory = [];
 
 const isEmoji = /(\u00a9|\u00ae|[\u2000-\u3300]|\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]|\ud83e[\ud000-\udfff])/gi;
@@ -27,7 +24,9 @@ const indexCategories = [
     'Background: ATUs, ',
     'Cults & Myths',
     'Equipment: ',
-    'Reviews: '    
+    'Media: ',
+    'Reviews: ',
+    'Universal, by Genre: '
 ];
 
 
@@ -41,7 +40,7 @@ for (i = 1; i < headers.length; i++){
     headers[i].id=name;
 
     var thisEmoji = thisEntry.match(isEmoji);
-    thisEntry = thisEntry.replace(thisEmoji,'').replace(/^[^a-zA-Z0-9]/,'');
+    thisEntry = thisEntry.replace(isEmoji,'').replace(/^[^a-zA-Z0-9]/gi,'');
 	    
     // a list item for the entry
     tocListItem = document.createElement("div");
@@ -67,9 +66,39 @@ for (i = 1; i < headers.length; i++){
         tocListItem.appendChild(tocAppendix);
 
 	// Only Display H2s if Not in Appendix & if Emoji Exists
-		
+
+    } else if (headers[i].nodeName == "H1" && !inAppendix) {
+
+	// Header Dividers //
+	
+	if (thisEntry != "Overview" && thisEntry != "Main Index") {
+
+	    if (!foundHeader) {
+		foundHeader = 1;
+	    } else {
+		tocsubHead = document.createElement("p");
+		tocListItem.appendChild(tocsubHead);
+	    }
+	    
+	    tocsubHead = document.createElement("div");
+	    tocsubHead.innerText= thisEntry;
+	    tocsubHead.className = "tocTitle";
+	    tocListItem.appendChild(tocsubHead);
+	    
+	}
+	
     } else if (!inAppendix && thisEmoji) {
 
+	if (!foundHeader) {
+
+	    foundHeader = 1;
+	    tocHeader = document.createElement("div");
+	    tocHeader.innerText="Table of Contents";
+	    tocHeader.className = "tocTitle";
+	    tocListItem.appendChild(tocHeader);
+
+	}
+	
 	var hasPrefix = 0;
 	matchedCategory = indexCategories.filter(v => (thisEntry.match(v)));
 
@@ -85,7 +114,7 @@ for (i = 1; i < headers.length; i++){
 		tocEmoji = document.createElement("span");
 		tocEmoji.style.display = "table-cell";
 		tocEmoji.style.width = "1.5em";
-		tocEmoji.innerText = thisEmoji;
+		tocEmoji.innerText = thisEmoji[0];
 		tocListItem.appendChild(tocEmoji);
 	
 		tocCategory = document.createElement("a");
@@ -118,7 +147,10 @@ for (i = 1; i < headers.length; i++){
         tocEmoji = document.createElement("span");
 	tocEmoji.style.display = "table-cell";
 	tocEmoji.style.width = "1.5em";
-        tocEmoji.innerText = thisEmoji;
+	if (thisEmoji) {
+            tocEmoji.innerText = thisEmoji[0];
+	}
+	
         tocListItem.appendChild(tocEmoji);
 
 	if (hasPrefix) {
@@ -129,7 +161,7 @@ for (i = 1; i < headers.length; i++){
         tocEntry.setAttribute("href","#"+name);
         tocEntry.style.color = "black";
 	tocEntry.style.display = "table-cell";	      
-        tocEntry.innerText= thisEntry.replace(/\d$/,'').trim();
+        tocEntry.innerText= thisEntry.replace(/\d$/,'').replace(/ \(.*\)/,'').trim();
 	    
         tocListItem.appendChild(tocEntry);
 
