@@ -38,25 +38,39 @@ body {
      box-shadow: 2px 2px 2px #b0c4de;
 }
 
- .maginfo {
+.magcovercoc {
+     box-shadow: 2px 2px 2px #228B22;
+}
+
+.maginfo {
      color: black;
      background-color: rgba(255,255,255,0.7);
      box-shadow: 2px 2px 2px #b0c4de;
- }
+}
 
-
- .magtitle {
+.maginfococ {
+     color: black;
+     background-color: rgba(255,255,255,0.7);
+     box-shadow: 2px 2px 2px #228B22;;
+}
+ 
+.magtitle {
      background-color: lightsteelblue;
      box-shadow: 2px 2px 2px #b0c4de;
- }
+}
+
+.magtitlecoc {
+      background-color: forestgreen;
+      box-shadow: 2px 2px 2px #228B22;
+}
  
- .magtitle a {
+.magtitlec a {
 
      color: black;
      font-weight: bold;
      font-style: italic;
      
- }
+}
 
 
    td.indexcat.country {

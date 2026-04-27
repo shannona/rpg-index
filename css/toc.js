@@ -67,7 +67,9 @@ for (i = 1; i < headers.length; i++){
 
 	// Only Display H2s if Not in Appendix & if Emoji Exists
 
-    } else if (headers[i].nodeName == "H1" && !inAppendix) {
+    } else if (headers[i].nodeName == "H1"
+	       && !inAppendix
+	       && !thisEntry.includes("Covers")) {
 
 	// Header Dividers //
 	

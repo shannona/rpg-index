@@ -2,8 +2,8 @@
 
 .timeline {
     display: grid;
-    grid-template-columns: 1fr 4em 1em 4fr 1px 1em 1em 1em 1em 7fr 1px 1em 1em 3fr 1px 3fr;
-    grid-template-rows: 20px repeat(50,94px);
+    grid-template-columns: 1fr 4em 1em 4fr 1px 1em 1em 1em 1em 7fr 1px 1em 1em 3fr 1px 4fr;
+    grid-template-rows: 20px repeat(52,94px);
     grid-gap: 4px;
 
     
@@ -152,6 +152,42 @@
 .digitalmag { background-color: dimgray; color: white; }
 .digitalmag > a { color: white; }
 
+/* Genre Colors */
+
+.cyberpunk { background-color: black; color: #2CF91D; }
+
+.espionage { background-color: crimson; color: white; }
+
+.historical { background-color: lemonchiffon; color: black; }
+
+.humor { background-color: pink; color: black; }
+	 
+.licensed { background-color: rgba(255,255,255,.6); color: black; }
+
+.mecha { background-color: #c0c6c7; color: black; }
+
+.military { background-color: black; color: white; }
+
+.multiverse { background-color: cyan; color: black; }
+	      
+.postapoc { background-color: #2CF91D; color: black; }
+
+.pulp { background-color: yellow; color: black; }
+
+.scifantasy { background-color: purple; color: white; }
+
+.survival { background-color: black; color: red; }
+	    
+.timetravel { background-color: violet; color: black; }
+	      
+.uf { background-color: gold; color: black; }
+
+.universal { background-color: white; color: black; }
+
+.western { background-color: sienna; color: white; }
+
+
+
 /* Grid Columns */
 
 .gamelist {
@@ -169,6 +205,8 @@
     border-width: 0px !important;
     border-radius: 0px !important;
 }
+
+/* For GLorantha Periodicals */
 
 .coresidebar { grid-column: 3; }
 .core { grid-column: 4; }
@@ -191,10 +229,27 @@
 
 .con { grid-column: 16; }
 
+/* For RPGs */
+
+.fantasy { grid-column: 3; }
+.fantasy2 { grid-column: 4; }
+.rpgdiv1 { grid-column: 5; }
+.sf { grid-column: 6; }
+.sf2 { grid-column: 7; }
+.rpgdiv2 { grid-column: 8; }
+.superhero { grid-column: 9; }
+.rpgdiv3 { grid-column: 10; }
+.horror { grid-column: 11; }
+.horror2 { grid-column: 12; }
+.rpgdiv4 { grid-column: 13; }
+.other { grid-column: 14; }
+.rpgdiv5 { grid-column: 15; }
+.multi { grid-column: 16; }
+
 /* Grid Rows */
 
 .allrows {
-    grid-row: 1/53;
+    grid-row: 1/54;
 }
 
 .timeline-index {
@@ -209,54 +264,56 @@
     border-radius: 0px !important;
 }
 
-.y1975 { grid-row: 2; }
-.y1976 { grid-row: 3; }
-.y1977 { grid-row: 4; }
-.y1978 { grid-row: 5; }
-.y1979 { grid-row: 6; }
-.y1980 { grid-row: 7; }
-.y1981 { grid-row: 8; }
-.y1982 { grid-row: 9; }
-.y1983 { grid-row: 10; }
-.y1984 { grid-row: 11; }
-.y1985 { grid-row: 12; }
-.y1986 { grid-row: 13; }
-.y1987 { grid-row: 14; }
-.y1988 { grid-row: 15; }
-.y1989 { grid-row: 16; }
-.y1990 { grid-row: 17; }
-.y1991 { grid-row: 18; }
-.y1992 { grid-row: 19; }
-.y1993 { grid-row: 20; }
-.y1994 { grid-row: 21; }
-.y1995 { grid-row: 22; }
-.y1996 { grid-row: 23; }
-.y1997 { grid-row: 24; }
-.y1998 { grid-row: 25; }
-.y1999 { grid-row: 26; }
-.y2000 { grid-row: 27; }
-.y2001 { grid-row: 28; }
-.y2002 { grid-row: 29; }
-.y2003 { grid-row: 30; }
-.y2004 { grid-row: 31; }
-.y2005 { grid-row: 32; }
-.y2006 { grid-row: 33; }
-.y2007 { grid-row: 34; }
-.y2008 { grid-row: 35; }
-.y2009 { grid-row: 36; }
-.y2010 { grid-row: 37; }
-.y2011 { grid-row: 38; }
-.y2012 { grid-row: 39; }
-.y2013 { grid-row: 40; }
-.y2014 { grid-row: 41; }
-.y2015 { grid-row: 42; }
-.y2016 { grid-row: 43; }
-.y2017 { grid-row: 44; }
-.y2018 { grid-row: 45; }
-.y2019 { grid-row: 46; }
-.y2020 { grid-row: 47; }
-.y2021 { grid-row: 48; }
-.y2022 { grid-row: 49; }
-.y2023 { grid-row: 50; }
-.y2024 { grid-row: 51; }
+.y1974 { grid-row: 2; }
+.y1975 { grid-row: 3; }
+.y1976 { grid-row: 4; }
+.y1977 { grid-row: 5; }
+.y1978 { grid-row: 6; }
+.y1979 { grid-row: 7; }
+.y1980 { grid-row: 8; }
+.y1981 { grid-row: 9; }
+.y1982 { grid-row: 10; }
+.y1983 { grid-row: 11; }
+.y1984 { grid-row: 12; }
+.y1985 { grid-row: 13; }
+.y1986 { grid-row: 14; }
+.y1987 { grid-row: 15; }
+.y1988 { grid-row: 16; }
+.y1989 { grid-row: 17; }
+.y1990 { grid-row: 18; }
+.y1991 { grid-row: 19; }
+.y1992 { grid-row: 20; }
+.y1993 { grid-row: 21; }
+.y1994 { grid-row: 22; }
+.y1995 { grid-row: 23; }
+.y1996 { grid-row: 24; }
+.y1997 { grid-row: 25; }
+.y1998 { grid-row: 26; }
+.y1999 { grid-row: 27; }
+.y2000 { grid-row: 28; }
+.y2001 { grid-row: 29; }
+.y2002 { grid-row: 30; }
+.y2003 { grid-row: 31; }
+.y2004 { grid-row: 32; }
+.y2005 { grid-row: 33; }
+.y2006 { grid-row: 34; }
+.y2007 { grid-row: 35; }
+.y2008 { grid-row: 36; }
+.y2009 { grid-row: 37; }
+.y2010 { grid-row: 38; }
+.y2011 { grid-row: 39; }
+.y2012 { grid-row: 40; }
+.y2013 { grid-row: 41; }
+.y2014 { grid-row: 42; }
+.y2015 { grid-row: 43; }
+.y2016 { grid-row: 44; }
+.y2017 { grid-row: 45; }
+.y2018 { grid-row: 46; }
+.y2019 { grid-row: 47; }
+.y2020 { grid-row: 48; }
+.y2021 { grid-row: 49; }
+.y2022 { grid-row: 50; }
+.y2023 { grid-row: 51; }
+.y2024 { grid-row: 52; }
+.y2025 { grid-row: 53; }
     

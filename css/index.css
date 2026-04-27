@@ -70,7 +70,7 @@ a:active            { color:black; text-decoration:underline; }
 }
 
 .cover img {
-  display: block;
+    display: inline-block;
   width: 100%;
   height: auto;
 }
@@ -350,11 +350,18 @@ div.white {
  }
  
  .magcover {
+     position: relative;
      display: flex;
      align-items: center;
      justify-content: center;
 
  }
+
+ .magcover-button {
+     position: absolute;
+     bottom: -15;
+     left: -15;
+ } 
  
  .maginfo {
      color: black;
